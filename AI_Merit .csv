@@ -1,0 +1,1780 @@
+Name,FatherName,ID,Degree,Department,Semester,HSC%,Cgpa,Status
+MunibaSohail,MuhammadSohail,MED-24F-006,BS(Hons),MediaStud,1,57.18,3.11,Selected
+HafsaAbdulAziz,AbdulAziz,MED-24F-001,BS(Hons),MediaStud,1,69,2.93,Selected
+HamadAfzal,MuhammadAfzal,MED-24F-004,BS(Hons),MediaStud,1,54.27,2.5,NotSelected
+ShafaqZaman,MirQamar,MED-25S-009,BS(Hons),MediaStud,1,57.73,2.31,NotSelected
+AlesterThomson,Nasir,MED-24F-007,BS(Hons),MediaStud,1,73.3,2.28,NotSelected
+AbdulSamad,SonoKhan,MED-24F-012,BS(Hons),MediaStud,1,67.54,2.28,NotSelected
+EymanFatima,JanMuhammed,MED-23F-013,BS(Hons),MediaStud,2,81.09,3.65,Selected
+MAYESASHAH,MEHMOODAHMEDS,MED-23F-002,BS(Hons),MediaStud,2,51.09,3.51,Selected
+YasiraFaisal,MuhammadFaisalBa,MED-24S-004,BS(Hons),MediaStud,2,75.62,3.5,Waiting
+SeemaKashaf,MuhammadSabirHus,MED-24S-013,BS(Hons),MediaStud,2,70,3.41,Waiting
+Maheenkhan,Sajjadkhan,MED-23F-011,BS(Hons),MediaStud,2,61.7,3.33,Waiting
+BenazirBhutto,PiyaroKhanBhutto,MED-24S-019,BS(Hons),MediaStud,2,57,3.25,Waiting
+SamihaShaikh,AbdulShakoorShaikh,MED-23F-010,BS(Hons),MediaStud,2,81.5,3.22,Waiting
+DuaMumtaz,MumtazAli,MED-23F-003,BS(Hons),MediaStud,2,78.82,3.09,Waiting
+Mahnooraftab,Aftab,MED-24S-024,BS(Hons),MediaStud,2,63,3.09,Waiting
+HAFSA,MUHAMMADSHAKEEL,MED-24S-020,BS(Hons),MediaStud,2,60.89,2.91,Waiting
+MubashirZubair,ZubairMehmood,MED-24S-029,BS(Hons),MediaStud,2,76.27,2.76,NotSelected
+MuhammadHamzaSh,aShabbirAhmed,MED-24S-026,BS(Hons),MediaStud,2,61.53,2.65,NotSelected
+ArbabRasheed,AbdulRasheed,MED-24S-030,BS(Hons),MediaStud,2,79.09,2.22,NotSelected
+SyedSaadUddinAhme,SyedFakharUddinAh,MED-24S-106,BS(Hons),MediaStud,2,51.8,2.2,NotSelected
+ZarbabAli,SyedNadirAli,MED-24S-009,BS(Hons),MediaStud,2,52.2,2.11,NotSelected
+WaheedAli,AbdulHameed,MED-24S-031,BS(Hons),MediaStud,2,74.55,1.03,NotSelected
+Aiman,MuhammadAsif,MED-23S-010,BS(Hons),MediaStud,3,55,3.58,Selected
+SyedaMubarakaMusvi,SyedkosarAbbas,MED-23S-022,BS(Hons),MediaStud,3,56.45,3.57,Selected
+HafsaMuhammadNas,iMuhammadNasir,MED-23S-023,BS(Hons),MediaStud,3,72.18,3.53,Waiting
+AqsaMussadiqKhan,MuhammadMussadiq,MED-23S-012,BS(Hons),MediaStud,3,64.73,3.48,Waiting
+MalaikaArif,HafizArif,MED-22F-006,BS(Hons),MediaStud,3,78.84,3.38,Waiting
+HuzaifaImran,Imran,MED-22F-003,BS(Hons),MediaStud,3,86.73,3.37,Waiting
+ZainabFareed,Fareed,MED-23S-008,BS(Hons),MediaStud,3,79,3.34,Waiting
+MUHAMMADHANZALA,JAVEDIQBAL,MED-23S-026,BS(Hons),MediaStud,3,54.45,3.33,Waiting
+Bahawalkhan,Yousufshah,MED-23S-007,BS(Hons),MediaStud,3,70.1,3.15,Waiting
+MuhammadAreebKha,nZubairKhan,MED-23S-005,BS(Hons),MediaStud,3,51.8,3.15,Waiting
+SanaAsif,MuhammadAsif,Med-23s-024,BS(Hons),MediaStud,3,61.05,3.14,Waiting
+Atiq,AbdulRasheed,MED-22F-019,BS(Hons),MediaStud,3,61.64,3.09,Waiting
+MuhammedUmarSidd,iSiddiqAhmed,MED-22F-016,BS(Hons),MediaStud,3,52.2,3.06,Waiting
+MuhammadIbrahim,HassanAli,MED-22F-001,BS(Hons),MediaStud,3,55.55,3.03,Waiting
+Ammarbanaras,Muhammadbanaras,MED-23S-020,BS(Hons),MediaStud,3,55.2,3.03,Waiting
+Mohammadzamadtah,iTahirjaveed,MED-22F-011,BS(Hons),MediaStud,3,73.76,2.76,NotSelected
+Bakhtawar Salman,SalmanAhmed,MED-22S-004,BS(Hons),MediaStud,4,69.81,3.75,Selected
+JagdishKumar,Motilal,MED-22S-007,BS(Hons),MediaStud,4,85.82,3.7,Selected
+HamzaHussain,GhulamHussain,MED20S007,BS(Hons),MediaStud,4,64.82,3.14,Waiting
+FarhanAsad,Asadullah,MED-22S-024,BS(Hons),MediaStud,4,83.18,2.82,Waiting
+TalalAhmed,Abdullah,MED22S022,BS(Hons),MediaStud,4,54.36,2.78,NotSelected
+BasitShafiq,Shafiq,MED-21F-004,BS(Hons),MediaStud,4,53.74,2.74,NotSelected
+Jahanzaib,MuhammadAshraf,MSM-24S-001,MS/M.Phil,MediaStud,1,50.01,2.9,Waiting
+SadaquatHussain,GhulamMustafa,MSM-24S-005,MS/M.Phil,MediaStud,2,62.09,3.52,Waiting
+MumalMirza,MumalMirza,PMS-21F-002,PhD(5year,MediaStud,1,52,3.5,Waiting
+KashmalaBhojani,ZainULabdin,BED-23S-006,BS(Hons),Education,2,59.55,2.84,Waiting
+SaharNaz,WaseemAhmed,EDU-22F-003,BS(Hons),Education,3,80.45,3.26,Waiting
+MahnoorFatima,MahnoorFatima,MSE-24F-001,MS/M.Phil,Education,1,53.27,3.58,Selected
+ROZINA,MUHAMMADISMAIL,MSE-25S-009,MS/M.Phil,Education,1,72,3.54,Selected
+FAIZAJEHANGERI,MUHAMMADJAVED,MSE-24S-006,MS/M.Phil,Education,1,72.79,3.52,Selected
+Imran,Ishaque,MSE-24S-002,MS/M.Phil,Education,1,53.36,3.19,Waiting
+AyeshaZubair,MuhammadZubair,MSE-24F-010,MS/M.Phil,Education,1,71.64,3.08,Waiting
+UmamaShoaib,UmamaShoaib,MSE-25S-004,MS/M.Phil,Education,1,61,3,Waiting
+MuhammadUsman,GulMuhammad,MSE-25S-005,MS/M.Phil,Education,1,45.73,2.97,Waiting
+Ridafatima,Anwarali,MSE-25S-001,MS/M.Phil,Education,1,70.82,2.85,Waiting
+Asadullah,MukhtiarAhmed,MSE-24F-011,MS/M.Phil,Education,1,82.81,2.75,NotSelected
+MehakAmjad,AmjadIslam,MSE-24f-002,MS/M.Phil,Education,1,71,2.66,NotSelected
+HumairaAsif,JamilUddinSiddiqui,MSE-24F-004,MS/M.Phil,Education,1,70.7,2.41,NotSelected
+BariraZubair,AfzalHussainKhan,MSE-24F-012,MS/M.Phil,Education,1,69.4,2.25,NotSelected
+Ramshanazeer,NazeerAhmed,MSE-24f-013,MS/M.Phil,Education,1,56,2.17,NotSelected
+RuqayyaKandhro,AbdulRaufKandhro,MSE-23F-010,MS/M.Phil,Education,2,87.27,3.41,Selected
+Rubina,Jahanzaibkhan,MSE-24S-004,MS/M.Phil,Education,2,45.66,3,Selected
+MuskanSoomro,Amjad,BED-24S-008,B.Ed(Hons,Education,1,68,3.05,Selected
+RabiaAshfaq,AshfaqAhmed,BED-24S-002,B.Ed(Hons,Education,1,57.27,3,Waiting
+Sara,AbdulNadir,BED-25S-009,B.Ed(Hons,Education,1,69.45,2.78,NotSelected
+FaizanAhmed,SagheerAhmed,BED-24S-004,B.Ed(Hons,Education,1,47.64,2.64,NotSelected
+Hadiashafaqatali,Shafaqatali,BED-24F-003,B.Ed(Hons,Education,1,64.81,2.33,NotSelected
+AbdulSamad,SajidHussain,BED-24F-015,B.Ed(Hons,Education,1,62.83,2.33,NotSelected
+ZainabTahir,TahirNadeem,BED-24F-011,B.Ed(Hons,Education,1,59.76,2.33,NotSelected
+Sajjadrindbaloch,Muhammadshakir,BED-24F-005,B.Ed(Hons,Education,1,54.6,2.33,NotSelected
+AmmaraYasirKhan,Yasiranwerkhan,BED-24F-013,B.Ed(Hons,Education,1,53.86,2.33,NotSelected
+SairaBibi,MuhammadMiskeen,BED-24F-007,B.Ed(Hons,Education,1,63,2,NotSelected
+Bareera,MuhammadShahid,BED-24F-010,B.Ed(Hons,Education,1,49,2,NotSelected
+LaibaMuhammadsaee,Muhammadsaeed,BED-24F-009,B.Ed(Hons,Education,1,52.86,1.33,NotSelected
+AasiyaShahbaz,ShahbazTahir,BED-23F-001,B.Ed(Hons,Education,2,78.76,3.57,Selected
+NimraTasawar,TasawarNazir,BED-23F-002,B.Ed(Hons,Education,2,63.27,3.55,Waiting
+Madinasoomro,GhulamNabi,BED-23S-009,B.Ed(Hons,Education,2,65.67,3.49,Waiting
+Tanveer AliHalepoto,Piyaro,BED-23S-003,B.Ed(Hons,Education,2,61.36,3.44,Waiting
+Faiza,Kaleemullah,BED-23F-007,B.Ed(Hons,Education,2,50.91,3.31,Waiting
+SobiaNaz,Tawakal Hussain,BED-24S-011,B.Ed(Hons,Education,2,60.45,3.25,Waiting
+RahibaGaya,JunaidGaya,BED-23F-004,B.Ed(Hons,Education,2,50.82,3.18,Waiting
+SadiaJagirani,ManjhoKhanJagirani,BED-23S-005,B.Ed(Hons,Education,2,68.68,2.72,NotSelected
+AishaMoin,MOINAKHTER,BED-24S-010,B.Ed(Hons,Education,2,48.91,2.61,NotSelected
+AyeshaBasit,BasitHumayun,BED-22S-004,B.Ed(Hons,Education,3,60,3.38,Selected
+MuhammadJunaidKha,MuhammadKashifKh,BED-22S-009,B.Ed(Hons,Education,3,56.27,3.33,Waiting
+AlizaAliRajout,MuhammadAliRajput,BED-23S-002,B.Ed(Hons,Education,3,89.82,3.3,Waiting
+Anika,MumtazAli,BED-22S-003,B.Ed(Hons,Education,3,80.09,3.26,Waiting
+Anas Javed,MuhammadJaved,BED-22S-012,B.Ed(Hons,Education,3,62.11,3.14,Waiting
+FatimaTanveer,Tanveer Akhtar,BED-23S-016,B.Ed(Hons,Education,3,54.69,3.02,Waiting
+RamishaAamir,MuhammadAamir,BED-22s-011,B.Ed(Hons,Education,3,75.82,2.95,Waiting
+MariumNissa,MuhammadSiddique,BED-23S-012,B.Ed(Hons,Education,3,48.09,2.85,Waiting
+AbdulRehan,AbdulRazzaq,BED-22S-001,B.Ed(Hons,Education,3,45.45,2.79,NotSelected
+RuhmaGul,AbdulSaleem,BED-24S-205,B.ED(2.5Y,eEducation,1,57.27,3.71,Selected
+Nida,PirMuhammad,BED-24S-204,B.ED(2.5Y,eEducation,2,67.8,3.59,Waiting
+khushbookhushik,AbdulMalik,BED-24S-014,B.ED(2.5Y,eEducation,2,89.86,2.25,NotSelected
+TariqMehmood,MuhammadAhmed,PED-23F-006,PhD(5year,Education,2,61.36,3.33,Waiting
+HoshMuhammad,AbdulRasoolchandio,PED-23F-003,PhD(5year,Education,2,57.69,3.33,Waiting
+ShafiqUrRehmanSola,nAbdulkhaliqueSolang,PED-23F-007,PhD(5year,Education,2,67,3.11,Waiting
+RafiqAhmed,SherMuhammad,PED-23S-005,PhD(5year,Education,2,45.4,3.05,Waiting
+AbdulRasheedjumani,Abdulmajeedjumani,PED-23F-005,PhD(5year,Education,2,79.69,2.89,Waiting
+ZainabNoorani,GhulamAbbasNooran,PED-21F-014,PhD(5year,Education,4,57.54,3.33,Waiting
+HibaAltaf,MuhammadAltaf,BFS-24S-010,BS(Hons),Environme,n 1,85.47,3.59,Selected
+MuhammadAamir,MuhammadRehman,BFS-24F-007,BS(Hons),Environme,n 1,67.12,3.5,Selected
+UmaimaFarooq,SheikhFarooqAhmed,BFS-24S-007,BS(Hons),Environme,n 1,60.55,3.47,Waiting
+MaheenQazi,ZahidQazi,BFS-25F-011,BS(Hons),Environme,n 1,64.45,3.25,Waiting
+DuriaAbid,AbidSaeed,BFS-24F-001,BS(Hons),Environme,n 1,63.92,2.92,Waiting
+MehdiHassan,GhulamNabi,BFS-25S-002,BS(Hons),Environme,n 1,72.81,2.91,Waiting
+MuhammadTahaShah,iMuhammadRasheed,Bfs-24f-015,BS(Hons),Environme,n 1,57.68,2.86,Waiting
+AbdullahRafiq,MuhammadRafiq,BFS-24S-026,BS(Hons),Environme,n 1,51,2.8,Waiting
+MuhammadOwaisKha,nMuhammadJameelKh,bfs-24f-003,BS(Hons),Environme,n 1,54.91,2.58,NotSelected
+Zeeshan,FayyazMuhammad,BFS-24S-011,BS(Hons),Environme,n 1,53,2.53,NotSelected
+Maryumwaheed,Abdulwaheed,BFS-25S-015,BS(Hons),Environme,n 1,55.73,2.2,NotSelected
+NoumanAli,Arbabali,BFS-24F-013,BS(Hons),Environme,n 1,71.81,1.92,NotSelected
+HumaIqbal,MIqbal,BFS-23S-020,BS(Hons),Environme,n 2,81.9,3.63,Selected
+IzhanAhmed,GhufranAhmed,BFS-23S-013,BS(Hons),Environme,n 2,68.18,3.62,Selected
+Mariam,GhulamMustafa,BFS-23F-010,BS(Hons),Environme,n 2,76.56,3.5,Waiting
+DuaRaheem,SheikhAbdulRaheem,BFS-24S-005,BS(Hons),Environme,n 2,50.36,3.5,Waiting
+AniqaAmin,Amin,BFS-23S-021,BS(Hons),Environme,n 2,47.18,3.46,Waiting
+MUHAMMADHUZAIFA,SAIFURREHMAN,BFS-23S-030,BS(Hons),Environme,n 2,80,3.4,Waiting
+MuhammadAbsar,GhulamFarooq,BFS-23S-014,BS(Hons),Environme,n 2,65,3.34,Waiting
+AniquaFakhar,Fakharuddinkhan,BFS-23S-007,BS(Hons),Environme,n 2,58.09,3.28,Waiting
+IqraNazeer,NazirAhmedSoomro,BFS-24S-019,BS(Hons),Environme,n 2,69.81,3.2,Waiting
+Rumaisa,muhammadnaeem,BFS-23F-002,BS(Hons),Environme,n 2,64.64,3.18,Waiting
+Hafsa,MuhammadIrfan,BFS-23S-029,BS(Hons),Environme,n 2,46.55,3.12,Waiting
+Alisha,Asif,BFS-23F-006,BS(Hons),Environme,n 2,72.48,3.1,Waiting
+DUAAANSARI,SALEEMUDDINA,BFS-23F-007,BS(Hons),Environme,n 2,81.53,2.99,Waiting
+SairaSharif,MuhammadSharif,BFS-24S-022,BS(Hons),Environme,n 2,65,2.97,Waiting
+SanaAyub,MuhammadAyub,BFS-24S-002,BS(Hons),Environme,n 2,68.98,2.83,Waiting
+MuhammadHuzaifa,MuhammadAkram,BFS-23F-012,BS(Hons),Environme,n 2,53.27,2.8,Waiting
+SABIKAJADOON,KHAIRMUHAMMADK,BFS-24S-001,BS(Hons),Environme,n 2,49,2.42,NotSelected
+AlishbaMazhar,Mazharulhaq,BFS-23S-019,BS(Hons),Environme,n 3,71,3.66,Selected
+SumanZehra,GhulamRaza,BFS-22F-010,BS(Hons),Environme,n 3,80.27,3.49,Selected
+ABDURRAHMANKHAN,MUHAMMADAMIRKH,BFS-22F-004,BS(Hons),Environme,n 3,79.09,3.3,Waiting
+Zuha,Amjad,BFS-23S-023,BS(Hons),Environme,n 3,69.5,3.12,Waiting
+LaibaFaiz,FaizMuhammadKhan,ENV-22S-003,BS(Hons),Environme,n 3,49.67,3.02,Waiting
+MuhammadKashif,AshiqHussain,Bfs-22f-003,BS(Hons),Environme,n 3,53,3,Waiting
+Shehriyar Ahmed,Hidayatullah,BFS-22F-007,BS(Hons),Environme,n 3,46,3,Waiting
+NoorulAin,MohammadAshraf,BFS-22F-011,BS(Hons),Environme,n 3,47.45,2.81,Waiting
+Zarmina,GhulamSarwar,BFS-23s-031,BS(Hons),Environme,n 3,78.6,2.74,NotSelected
+ShahbazKhan,Kamal khan,BFS-22F-006,BS(Hons),Environme,n 3,85.72,2.2,NotSelected
+TalhaShafi,TalhaShafi,ENV-20F-008,BS(Hons),Environme,n 4,51.73,3.77,Selected
+ArsalanSabir,MuhammadSabir,Men-24S-001,MS/M.Phil,Environme,n 1,60.36,3.08,Waiting
+NaeemAkhtar,MuhamnmadIbrahim,PEN-21F-007,PhD(5year,Environme,n 1,54,3.37,Selected
+AhmedRaza,Mshakeel,BCB-24F-026,BS(Hons),Computer,S 1,74.75,3.83,Selected
+Maheen,MuhammadNaeem,BIT-24F-031,BS(Hons),Computer,S 1,82.82,3.81,Selected
+Hardan,Kanji,CSC-25S-601,BS(Hons),Computer,S 1,94.72,3.79,Selected
+AyeshaAnwar,AyeshaAnwar,BCB-24S-027,BS(Hons),Computer,S 1,58,3.75,Selected
+FareaaFaisal,FaisalAftab,CSC-24F-007,BS(Hons),Computer,S 1,81.18,3.71,Selected
+MisbahBatool,ImranHaider,VIT-24F-055,BS(Hons),Computer,S 1,74.64,3.7,Selected
+MuhammadHashim,MuhammadRafique,CSC-24F-645,BS(Hons),Computer,S 1,56,3.68,Selected
+MuhammadUzairArsh,aMuhammadArshad,CSC-24S-037,BS(Hons),Computer,S 1,69,3.67,Selected
+RaoHamzaTariq,TariqAzizRao,CSC-24F-042,BS(Hons),Computer,S 1,82.45,3.66,Selected
+Qunoot,MuhammadJameel,BIT-24F-028,BS(Hons),Computer,S 1,77.27,3.66,Selected
+AreeshaTaj,TajNabi,CSC-24S-090,BS(Hons),Computer,S 1,83.82,3.64,Selected
+Wania,ZubairKhan,BCB-24S-024,BS(Hons),Computer,S 1,55.91,3.63,Selected
+ZakiaJokhio,AlamSher,BIT-24F-007,BS(Hons),Computer,S 1,81.36,3.62,Selected
+Umama,MuhammadShoaib,BIT-24F-034,BS(Hons),Computer,S 1,76.73,3.62,Selected
+PirenaKumari,Heman,CSC-25S-036,BS(Hons),Computer,S 1,90.2,3.61,Selected
+Laiba,ShaikhMuhammadAf,CSC-24S-077,BS(Hons),Computer,S 1,74.91,3.61,Selected
+RubabAkmal,MuhammadAkmal,BIT-24F-024,BS(Hons),Computer,S 1,80,3.6,Selected
+Amna,MuhammadFaisal,CSC-24F-051,BS(Hons),Computer,S 1,76.82,3.6,Selected
+NehalAli,SajjadAli,BIT-24S-041,BS(Hons),Computer,S 1,60.73,3.6,Selected
+SyedHamzaAliRizvi,MuhammadAskari,CSC-24S-007,BS(Hons),Computer,S 1,74.09,3.59,Selected
+RuqqiyaAmna,AbdulAziz,BCB-24F-001,BS(Hons),Computer,S 1,71.18,3.58,Selected
+ZeeshanHaroon,MuhammadHaroon,BCB-24S-040,BS(Hons),Computer,S 1,62.55,3.57,Selected
+UmarJawaidTarar,MuhammadJawaidTa,BCB-24F-024,BS(Hons),Computer,S 1,74.45,3.56,Selected
+SyedFahadHussain,SyedsarfarazHussain,BSIT-24F-039,BS(Hons),Computer,S 1,68,3.56,Selected
+AkhtarAbbas,AliHassan,CSC-24S-088,BS(Hons),Computer,S 1,84.36,3.53,Selected
+ShaikhNajeebUllah,ShaikhAbdullah,CSC-24F-633,BS(Hons),Computer,S 1,79.02,3.53,Selected
+KhalidKhan,TajMuhammadKhan,CSC-24S-057,BS(Hons),Computer,S 1,74.45,3.53,Selected
+MuhammadRajabRaza,MuhammadZubairKh,CSC-24S-050,BS(Hons),Computer,S 1,72,3.53,Selected
+AliRaza,GhulamNabi,BCB-24S-010,BS(Hons),Computer,S 1,80.78,3.5,Selected
+TANZEELAFATIMA,KAMRAN,CSC-24F-047,BS(Hons),Computer,S 1,73.55,3.5,Selected
+Mudassir,MuhammadYaseen,CSC-24S-046,BS(Hons),Computer,S 1,73.54,3.5,Selected
+MuhammadSami,MuhammadSarwar,BIT-24F-033,BS(Hons),Computer,S 1,68.64,3.5,Waiting
+YoudhistawarSuthar,Rameshwar,CSC-25S-060,BS(Hons),Computer,S 1,87.27,3.49,Waiting
+Mahadev Puri,ChhaganPuri,BIT-25S-055,BS(Hons),Computer,S 1,87.27,3.49,Waiting
+JotikaKumari,PardeepKumar,CSC-25S-026,BS(Hons),Computer,S 1,87,3.48,Waiting
+SYEDMUHAMMADHUS,NasirHussainShah,CSC-24F-624,BS(Hons),Computer,S 1,66.09,3.48,Waiting
+ManthanNath,NareshNath,CSC-25S-690,BS(Hons),Computer,S 1,86.64,3.47,Waiting
+Dhaneshkumar,DurgaShanker,CSC-25S-645,BS(Hons),Computer,S 1,75.36,3.47,Waiting
+SaifullahKhan,MuhammadAfzalKha,CSC-24F-022,BS(Hons),Computer,S 1,77.27,3.44,Waiting
+Leelavantimalhi,Shankarlal,CSC-25S-612,BS(Hons),Computer,S 1,85.73,3.43,Waiting
+MirzaKashifBaig,JamshaidAlamBaig,CSC-24S-014,BS(Hons),Computer,S 1,74.36,3.43,Waiting
+MaidaKashif,Muhammadkashif,BIT-24F-053,BS(Hons),Computer,S 1,70.27,3.43,Waiting
+MuhammadIbrahim,IrfanAhmedShaikh,CSC-24S-002,BS(Hons),Computer,S 1,80,3.42,Waiting
+SyedaFizzaZehra,SyedAliAbbasNaqvi,CSC-24F-049,BS(Hons),Computer,S 1,79.09,3.41,Waiting
+ManahilAnis,AnisAhmed,100043174,BS(Hons),Computer,S 1,70.91,3.41,Waiting
+EbadAbbas,GhulamAbbas,100044094,BS(Hons),Computer,S 1,68.18,3.41,Waiting
+MuskanAsif,MuhammadAsif,BIT-24F-025,BS(Hons),Computer,S 1,59.64,3.41,Waiting
+ARHAMIMTIAZ,ImtiazAhmed,BIT-24F-014,BS(Hons),Computer,S 1,73,3.4,Waiting
+MuhammadAhtisham,MuhammadAslam,CSC-25S-017,BS(Hons),Computer,S 1,84.55,3.38,Waiting
+FarhanAhmed,MajidIqbal,BCB-24S-032,BS(Hons),Computer,S 1,73.18,3.38,Waiting
+ArishaArman,ArmanAhmed,BCB-24S-015,BS(Hons),Computer,S 1,65,3.38,Waiting
+AmemaZahid,ZahidLatif,BIT-24F-047,BS(Hons),Computer,S 1,64.18,3.38,Waiting
+Meer,MukeshKumar,74123,BS(Hons),Computer,S 1,89,3.37,Waiting
+AbdulAhmed,AbdulSattar,BIT-24F-005,BS(Hons),Computer,S 1,64,3.37,Waiting
+RajKumar,Ghansham,CSC-24F-008,BS(Hons),Computer,S 1,84,3.35,Waiting
+UmedAli,AsifIqbal,BCB-24F-043,BS(Hons),Computer,S 1,67,3.35,Waiting
+HoorainSalman,MuhammadSalman,100043844,BS(Hons),Computer,S 1,53.82,3.35,Waiting
+MuhammadTalha,ImtiazAlishah,100032401,BS(Hons),Computer,S 1,67.91,3.34,Waiting
+HafizaDaniakhan,Ikhlaqkhan,BCB-25S-015,BS(Hons),Computer,S 1,83.27,3.33,Waiting
+MohammadDanish,MohammadAshraf,CSC-24S-041,BS(Hons),Computer,S 1,92,3.31,Waiting
+MUHAMMADMOEEZ,FAZALKARIM,CSC-24F-608,BS(Hons),Computer,S 1,89,3.31,Waiting
+AhmedNoorKhan,NoorMuhammadKha,CSC-24F-031,BS(Hons),Computer,S 1,77,3.31,Waiting
+Muhammadmuteebull,muhammadrizwanull,csc-24s-033,BS(Hons),Computer,S 1,75,3.31,Waiting
+MUHAMMADAHSAN,SABIRALI,CSC-24F-037,BS(Hons),Computer,S 1,71.27,3.31,Waiting
+ArishaSolangi,MuhammadMushtaq,BIT-24F-030,BS(Hons),Computer,S 1,68.18,3.31,Waiting
+suhailkumar,DolatRam,CSC-25S-031,BS(Hons),Computer,S 1,81,3.3,Waiting
+Rukhsar,MuhammadAkmal,CSC-24F-023,BS(Hons),Computer,S 1,77.5,3.3,Waiting
+SyedSyaimAliBukhari,SyedFarrukhIftikhar,CSC-247F-637,BS(Hons),Computer,S 1,68.4,3.29,Waiting
+Vinod,KeshaveLal,BIT-25S-017,BS(Hons),Computer,S 1,81.9,3.28,Waiting
+ParasRahul,RanoMal,BCB-24S-013,BS(Hons),Computer,S 1,87.09,3.27,Waiting
+MuhammadHussain,ZahidHussain,BIT-24F-042,BS(Hons),Computer,S 1,81.55,3.26,Waiting
+EashaAngali,Omperkash,CSC-24F-032,BS(Hons),Computer,S 1,86.63,3.23,Waiting
+BhawaniShankar,NarayanDas,CSC-24F-028,BS(Hons),Computer,S 1,73.09,3.23,Waiting
+ImtiazMaqbool,MaqboolAhmed,SCS-24F-003,BS(Hons),Computer,S 1,56.73,3.23,Waiting
+MuhammadUmair,MuhammadAshrafSa,CSC-25S-008,BS(Hons),Computer,S 1,80.36,3.21,Waiting
+ZainulAabideen,MNaeemkhan,Csc-24s-029,BS(Hons),Computer,S 1,67.36,3.21,Waiting
+AbdulMoizKhan,NasirKhan,CSC-24S-067,BS(Hons),Computer,S 1,94.25,3.2,Waiting
+IZHARAZIZ,ABDULAZIZ,CSC-24S-081,BS(Hons),Computer,S 1,89.09,3.2,Waiting
+Jabirali,DildarAli,CSC-25S-609,BS(Hons),Computer,S 1,80,3.2,Waiting
+Alishba,Sultanmehmood,BCB-2=S-026,BS(Hons),Computer,S 1,70.73,3.2,Waiting
+Zainab,MuhammadArif,CSC-24F-650,BS(Hons),Computer,S 1,63.85,3.2,Waiting
+AmritaKumari,Parkash,CSC-24S-051,BS(Hons),Computer,S 1,83.27,3.19,Waiting
+MuhammadHuzaifa,MuhammadRafique,CSC-25S-652,BS(Hons),Computer,S 1,79.64,3.19,Waiting
+IshaSadiq,MuhammadSadiq,CSC-25S-682,BS(Hons),Computer,S 1,79.63,3.19,Waiting
+EashaKhan,MuhammadNasir,CSC-24S-022,BS(Hons),Computer,S 1,83.18,3.18,Waiting
+WahajGul,MuhammadParvaiz,CSC-24F-619,BS(Hons),Computer,S 1,60,3.18,Waiting
+MUHAMMADSAAD,MUHAMMADMINHAJ,CSC-24F-025,BS(Hons),Computer,S 1,68.7,3.16,Waiting
+MariamTahir,MuhammadTahirKha,CSC-25S-009,BS(Hons),Computer,S 1,78.7,3.15,Waiting
+MuhammadAli,HaqueNawaz,CSC-24F-012,BS(Hons),Computer,S 1,78.64,3.15,Waiting
+MUHAMMADJAWAD,AZIZAHMEDJARWAR,BCB-24F-004,BS(Hons),Computer,S 1,71.01,3.15,Waiting
+Sahilkumar,MaheshKumar,CSC-25S-044,BS(Hons),Computer,S 1,78.5,3.14,Waiting
+Talha,HazratAli,BCB-24F-008,BS(Hons),Computer,S 1,67,3.14,Waiting
+FahadRasheed,AbdulRasheed,SCS-24F-005,BS(Hons),Computer,S 1,61.5,3.14,Waiting
+RohailJan,Rafiullah,BCB-25S-035,BS(Hons),Computer,S 1,78.27,3.13,Waiting
+MuhammadAdeel Mali,kMuhammadShakeel M,csc-24s-020,BS(Hons),Computer,S 1,78.18,3.13,Waiting
+Ravikumar,SawaiSarupanirajput,CSC-24S-013,BS(Hons),Computer,S 1,93.81,3.12,Waiting
+Israr Ahmed,MuhammadMirza,BIT-24F-029,BS(Hons),Computer,S 1,84.79,3.12,Waiting
+BilalAhmed,Abdulhaq,BIT-24F-046,BS(Hons),Computer,S 1,66.73,3.12,Waiting
+MuhammadHassaanS,MuhammadSaleem,BCB-24S-018,BS(Hons),Computer,S 1,62.5,3.12,Waiting
+Flower Hussain,MadahHussain,CSC-25S-048,BS(Hons),Computer,S 1,61.55,3.12,Waiting
+MuhammadSamiGhau,MuhammadTariqGha,CSC-24F-621,BS(Hons),Computer,S 1,60,3.12,Waiting
+AsadUllah,MunirAhmed,CSC-25S-656,BS(Hons),Computer,S 1,58.09,3.12,Waiting
+JaveriaAshrafMemon,MuhammadAshrafAli,CSC-24F-024,BS(Hons),Computer,S 1,85.82,3.1,Waiting
+MuhammadTahaAnis,SMuhammadAnisShar,CSC-25S-611,BS(Hons),Computer,S 1,78.67,3.1,Waiting
+TUNISHAKUMARI,PEHLAJRAI,CSC-24F-034,BS(Hons),Computer,S 1,92.36,3.08,Waiting
+MuhammadRohab,AmjadAli,CSC-25S-001,BS(Hons),Computer,S 1,91.8,3.08,Waiting
+ArhamMustafa,RounaqAli,CSC-24S-038,BS(Hons),Computer,S 1,78.45,3.07,Waiting
+MirzaZaidBaig,MirzaAmirBaig,BIT-24S-038,BS(Hons),Computer,S 1,77,3.07,Waiting
+AYESHA,ABDULFATAH,CSC-24F-002,BS(Hons),Computer,S 1,90.45,3.06,Waiting
+MuhammadMuzzammi,MuhammadIqbal,BIT-24S-035,BS(Hons),Computer,S 1,73.82,3.06,Waiting
+AbdulBasit,ShahanMagsi,BIT-25S-015,BS(Hons),Computer,S 1,76.36,3.05,Waiting
+Ghulamshabir,Madadali,BIT-25S-061,BS(Hons),Computer,S 1,76.36,3.05,Waiting
+ZulfiqarAliDahri,MuhammadAlam,BIT-24S-011,BS(Hons),Computer,S 1,84.27,3.04,Waiting
+Kashmala Yousaf,MYousafNaeem,BCB25s002,BS(Hons),Computer,S 1,78.87,3.04,Waiting
+NoorAlam,SherAlam,CSC-24F-635,BS(Hons),Computer,S 1,71.2,3.04,Waiting
+MuhammadBilal,AbdulNaveed,CSC-24F-601,BS(Hons),Computer,S 1,61.64,3.04,Waiting
+MUDDASIR,ABDULMUBEEN,CSC-24S-087,BS(Hons),Computer,S 1,88.18,3.03,Waiting
+AMANULLAH,GULMUHAMMAD,BIT-25S-047,BS(Hons),Computer,S 1,75.83,3.03,Waiting
+HuzaifaMemonFeroz,FerozMemon,BIT-25S-020,BS(Hons),Computer,S 1,75.5,3.02,Waiting
+muhammadahsan,khalidmehmood,BCB-24F-042,BS(Hons),Computer,S 1,58.56,3.02,Waiting
+AbdulSamad,AshiqueAli,CSC-25S-637,BS(Hons),Computer,S 1,78.78,3,Waiting
+Harisrehman,BadarRehman,CSC-25S-649,BS(Hons),Computer,S 1,75,3,Waiting
+MuhammadKhizer,AbidSaeed,BCB-24S-005,BS(Hons),Computer,S 1,75,3,Waiting
+DeepSingh,Anbji,CSC-25S-639,BS(Hons),Computer,S 1,74.91,3,Waiting
+Mehwishmunir,Muniruddin,100045198,BS(Hons),Computer,S 1,62.75,3,Waiting
+ABDULLGHAFFAR,MANZOORAHMED,BCB-24F-017,BS(Hons),Computer,S 1,59.89,3,Waiting
+Khizar Amin,MalikMuhammadAli,CSC-25S-027,BS(Hons),Computer,S 1,74.73,2.99,Waiting
+DAWOODKHAN,AMEERKHAN,CSC-25S-626,BS(Hons),Computer,S 1,84.84,2.98,Waiting
+ShoaibAli,PiyarAli,BIT-24S-003,BS(Hons),Computer,S 1,74.9,2.97,Waiting
+UbaidAhmed,WaseemAhmed,CSC-24S-043,BS(Hons),Computer,S 1,72.5,2.97,Waiting
+MUHAMMADANASSID,DMerajuddinSiddiqui,CSC-24S-024,BS(Hons),Computer,S 1,70.1,2.97,Waiting
+HamzaAhmed,Tanveer Ahmed,BCB-24S-028,BS(Hons),Computer,S 1,91.27,2.96,Waiting
+Pranjalraj,Pawankumar,CSC-24F-628,BS(Hons),Computer,S 1,85.76,2.96,Waiting
+Shamdas,Harchand,BIT-24F-013,BS(Hons),Computer,S 1,76.27,2.96,Waiting
+HuzaifaShoukat,ShoukatAli,100049667,BS(Hons),Computer,S 1,74.09,2.96,Waiting
+sahilkumar,ravishkumar,CSC-24F-630,BS(Hons),Computer,S 1,72.9,2.96,Waiting
+RizwanHyder,GhulamHyderlohar,CSC-25S-005,BS(Hons),Computer,S 1,93.18,2.94,Waiting
+HassanShahid,Dawood,BDA-24F010,BS(Hons),Computer,S 1,75.3,2.93,Waiting
+MuhammadTashfeen,SuhailAsghar,BCB-25S-009,BS(Hons),Computer,S 1,74,2.93,Waiting
+Uzair,ManzoorAhmed,BCB-24S-014,BS(Hons),Computer,S 1,65.27,2.91,Waiting
+MuhammadNomanSh,aGulShahzad,CSC-24F-010,BS(Hons),Computer,S 1,64.64,2.91,Waiting
+Pardeepkumar,Tanu mal,CSC-25S-650,BS(Hons),Computer,S 1,72.45,2.9,Waiting
+HammadUrRehman,Naseer Ahmed,100049896,BS(Hons),Computer,S 1,72.31,2.9,Waiting
+Sameer Kumar,MadanLal,BIT-24S-005,BS(Hons),Computer,S 1,70.94,2.9,Waiting
+HamzaZulqarnain,Zulqarnain,BIT-24F-044,BS(Hons),Computer,S 1,92.72,2.88,Waiting
+AffanSiddiqui,MohammadNauman,CSC-25S-674,BS(Hons),Computer,S 1,72.06,2.88,Waiting
+MuhammadZaidAli,MuhammadRaufAli,BCB-24S-003,BS(Hons),Computer,S 1,62.45,2.88,Waiting
+SyedHammadUllah,SyedKhalilUllah,CSC-25S-007,BS(Hons),Computer,S 1,71.64,2.87,Waiting
+FaisalFarooq,GhulamFarooqKhan,CSC-24F-009,BS(Hons),Computer,S 1,78.64,2.85,Waiting
+Abubakar,Zafar Iqbal,CSC-24F-045,BS(Hons),Computer,S 1,77.91,2.85,Waiting
+SaroshShahid,ShahidHussain,CSC-24F-041,BS(Hons),Computer,S 1,77.91,2.85,Waiting
+HAMMAD,WAHIIDBUKSH SHAKI,BIT-24S-036,BS(Hons),Computer,S 1,52.82,2.85,Waiting
+AJAYKUMAR,Chandan,CSC-25S-689,BS(Hons),Computer,S 1,77.73,2.84,Waiting
+FakhirAhmed,MuhammadImran,BSIT-25S-004,BS(Hons),Computer,S 1,71.96,2.84,Waiting
+PawanKumar,kelashKumar,BCB-25S-047,BS(Hons),Computer,S 1,71,2.84,Waiting
+GOTAM KumarMalhi,RajeshKumar,CSC-25S-641,BS(Hons),Computer,S 1,70.7,2.83,Waiting
+SyedHayatHussainKa,mSyedKamalMohi,SFC-24S-002,BS(Hons),Computer,S 1,52,2.83,Waiting
+Syedjazibalishah kazm,SyedNoorHussainSh,BIT-24F-038,BS(Hons),Computer,S 1,90.7,2.82,Waiting
+waniyashah,syedmehrabshah,Bcb-25s-038,BS(Hons),Computer,S 1,70.55,2.82,Waiting
+MuhammadTahaUsma,MuhammadUsman,CSC-24S-042,BS(Hons),Computer,S 1,70.36,2.81,Waiting
+SaadArif,MuhammadArifHuss,CSC-25S-006,BS(Hons),Computer,S 1,70.18,2.81,Waiting
+HussainAbbas,HassanAbbas,CSC-25S-021,BS(Hons),Computer,S 1,70,2.8,Waiting
+Ashar Nisar,NisarAhmed,CSC-24F-625,BS(Hons),Computer,S 1,70,2.8,Waiting
+ALIHASSANKHAN,MUHAMMADAZAMKH,CSC-24F-617,BS(Hons),Computer,S 1,61.91,2.79,NotSelected
+SuhailAhmed,AbdulRasheed,CSC-24S-030,BS(Hons),Computer,S 1,92.36,2.78,NotSelected
+AliHaider,MuhammadArif,BCB-24S-004,BS(Hons),Computer,S 1,67,2.78,NotSelected
+MuhammadDaud,MohammadMoosa,CSC-24f-020,BS(Hons),Computer,S 1,82.45,2.77,NotSelected
+MuhammadUmar,SajjadAhmad,CSC-24S-018,BS(Hons),Computer,S 1,74.6,2.76,NotSelected
+UMARUSMAN,MUHAMMADSAGHEE,BCB-24S-045,BS(Hons),Computer,S 1,66.27,2.74,NotSelected
+SaraJawed,JawedAkhter Memon,CSC-24F-613,BS(Hons),Computer,S 1,52.82,2.74,NotSelected
+MEHRAN,Muhammad,CSC-24F-653,BS(Hons),Computer,S 1,81.36,2.73,NotSelected
+RajeshKumar,Khanio,CSC-24F-048,BS(Hons),Computer,S 1,77.9,2.73,NotSelected
+MuhammadSaad,JavaidHussain,Csc-25s-025,BS(Hons),Computer,S 1,68.36,2.73,NotSelected
+MoheebUllah,AbdulNafay,100049901,BS(Hons),Computer,S 1,68.36,2.73,NotSelected
+NisarHussain,Ibrahim,BIT-25S-025,BS(Hons),Computer,S 1,69.36,2.72,NotSelected
+WAJEEHAZAHOOR,ZAHOORAHMED,BIT-25S-037,BS(Hons),Computer,S 1,67.73,2.7,NotSelected
+MuhammadRayan,Shaukatali,Csc25s618,BS(Hons),Computer,S 1,78.91,2.66,NotSelected
+Abdullah,MuhammadShamima,Csc-25s-051,BS(Hons),Computer,S 1,66.36,2.65,NotSelected
+ArslanAli,AbdulRazzaque,BCB-24S-009,BS(Hons),Computer,S 1,82.12,2.64,NotSelected
+ShehsawarAhmed,Rizwankhattak,CSC-24S-095,BS(Hons),Computer,S 1,66,2.64,NotSelected
+AllahBux,Karimbux,BCB-24S-021,BS(Hons),Computer,S 1,76.76,2.63,NotSelected
+MuhammadHamza,GhulamShabbirSoom,CSC-25S-633,BS(Hons),Computer,S 1,65.82,2.63,NotSelected
+Laiba,MuhammadRafiqueA,CSC-24F-054,BS(Hons),Computer,S 1,81.27,2.62,NotSelected
+MuhammadWasiq,ZulfiqarHussain,CSC-24S-005,BS(Hons),Computer,S 1,70,2.62,NotSelected
+SalmanHassan,SalmanHassan,SFC-24S-001,BS(Hons),Computer,S 1,90.57,2.6,NotSelected
+MUHAMMADTAHABHA,MUHAMMADSADIQUE,BCB-25S-010,BS(Hons),Computer,S 1,86,2.6,NotSelected
+DeevikaMalhi,OamPirkash,100043362,BS(Hons),Computer,S 1,79.45,2.6,NotSelected
+AneelKumar,GulabRai,CSC-24S-035,BS(Hons),Computer,S 1,92.36,2.54,NotSelected
+RameenSheikh,MubeenShaikh,BIT-25S-054,BS(Hons),Computer,S 1,63.45,2.54,NotSelected
+SufyanMalik,Tanveer,CSC-25S-606,BS(Hons),Computer,S 1,63.36,2.53,NotSelected
+AliZaman,AbdulSattar,CSC-24S-053,BS(Hons),Computer,S 1,88.27,2.52,NotSelected
+ZiaUrRehman,AbdulJabbar,CSC-24S-017,BS(Hons),Computer,S 1,86.5,2.52,NotSelected
+Zainabbibi,SohailAhmed,BIT-25S-027,BS(Hons),Computer,S 1,62.82,2.51,NotSelected
+UmairKausar,KausarAbbas,BCB-25S-008,BS(Hons),Computer,S 1,62.7,2.51,NotSelected
+MumtazAli,Mirkhan,BIT-24S-018,BS(Hons),Computer,S 1,85,2.5,NotSelected
+JUNAIDALI,RAJAB ALI,BCG-24F-028,BS(Hons),Computer,S 1,78.36,2.5,NotSelected
+HuzaifaFakhruddin,FakhruddinshabbirHu,BCB-24F-006,BS(Hons),Computer,S 1,75.5,2.5,NotSelected
+JawwadAhmed,Lal Muhammad,BCB-24F-014,BS(Hons),Computer,S 1,67.73,2.5,NotSelected
+BushraKamal,MuhammadKamalUd,Csc-25s-628,BS(Hons),Computer,S 1,93.62,2.49,NotSelected
+GhulamAhmed,Mehmood,CSC-25S-623,BS(Hons),Computer,S 1,62.27,2.49,NotSelected
+HassanNasrullah,Ishtiaqahmed,100048181,BS(Hons),Computer,S 1,61.91,2.48,NotSelected
+AhmedRaza,MuhammadHanif,CSC-25s-666,BS(Hons),Computer,S 1,61.55,2.46,NotSelected
+AbdulWassay,ShakilAhmedAwan,CSC-25S-634,BS(Hons),Computer,S 1,61.55,2.46,NotSelected
+SyedAmanHussain,AmirHussain,CSC-25S-605,BS(Hons),Computer,S 1,61.27,2.45,NotSelected
+ZiaurrehmanBaloch,MushtaqAhmedbaloc,CSC-25S-648,BS(Hons),Computer,S 1,60.82,2.42,NotSelected
+AbdulSaboor,MuhammadArif,CSC-25S-646,BS(Hons),Computer,S 1,60.18,2.41,NotSelected
+abdulrauf,mumtaz,csc-25s-662,BS(Hons),Computer,S 1,60.17,2.41,NotSelected
+AlishaShehzadi,HaqNawaz,CSC-25S-693,BS(Hons),Computer,S 1,84.5,2.38,NotSelected
+MuhammadJamshed,AbdulRasheedBhatti,BIT-25S-026,BS(Hons),Computer,S 1,59.45,2.38,NotSelected
+MuhammadZain,KhalidHussain,CSC-24F-016,BS(Hons),Computer,S 1,75.5,2.33,NotSelected
+Khizer ShujaAwan,ShujaFarooqAwan,BIT-25S-013,BS(Hons),Computer,S 1,56.9,2.28,NotSelected
+UsmanGhani,Khalil,CSC-25S-640,BS(Hons),Computer,S 1,56.73,2.27,NotSelected
+AbdulBasitJaved,MuhammadJaved,CSC-25S-627,BS(Hons),Computer,S 1,55.64,2.23,NotSelected
+ManojKumar,Shanker,BIT-24S-023,BS(Hons),Computer,S 1,82.88,2.19,NotSelected
+KERTAN,JAIDEV,CSC-24F-014,BS(Hons),Computer,S 1,84.5,2.16,NotSelected
+MunsifAli,MahmoodAli,CSC-24F-018,BS(Hons),Computer,S 1,88.85,2.02,NotSelected
+SyedHaseebHussainZ,SyedIntikhabHussain,CSC-25S-621,BS(Hons),Computer,S 1,50.5,2.02,NotSelected
+SajjadHussain,FidaHussain,CSC-25S-681,BS(Hons),Computer,S 1,75,2.01,NotSelected
+Abdurrafayshoaib,mohammadshoaibqu,csc-25s-655,BS(Hons),Computer,S 1,50,2,NotSelected
+JavedAhmed,MuhammadMithan,BCB-24F-025,BS(Hons),Computer,S 1,65.83,1.98,NotSelected
+IrfanAli,Hafiz,CSC-24F-011,BS(Hons),Computer,S 1,81.9,1.92,NotSelected
+Hitan,Sarwankumar,Csc-24f-040,BS(Hons),Computer,S 1,84.73,1.73,NotSelected
+RameshKumar,MohibChand,BIT-24F-022,BS(Hons),Computer,S 1,81.72,1.56,NotSelected
+ArfatPanhwar,AftabAhmedPanhwar,CSC-24F-603,BS(Hons),Computer,S 1,73.81,1.44,NotSelected
+Lovekumar,Hateshkumar,CSC-24-654,BS(Hons),Computer,S 1,86.86,1.27,NotSelected
+ABDULREHMAN,MUHAMMADASIM,BCB-23F-004,BS(Hons),Computer,S 2,64.91,3.99,Selected
+NashrahBashir,MuhammadBashir,BCB-23F-030,BS(Hons),Computer,S 2,83.55,3.8,Selected
+RafiaMustafa,GhulamMustafa,CSC-23S-107,BS(Hons),Computer,S 2,71.18,3.74,Selected
+MuhammadHuzaifa,AbdulMateen,BCB-23F-044,BS(Hons),Computer,S 2,55.09,3.73,Selected
+BeshairKhan,NazarKhan,BIT-24S-006,BS(Hons),Computer,S 2,70,3.7,Selected
+MUHAMMADSAQIB,ABDULHAKEEM,CSC-23S-056,BS(Hons),Computer,S 2,62,3.67,Selected
+ShifaShaique,MuhammadShaiques,BIT-23S-100,BS(Hons),Computer,S 2,70.85,3.65,Selected
+AyeshaSiraj,SirajAhmedKhan,CSC-23F-039,BS(Hons),Computer,S 2,71.09,3.63,Selected
+Dawoodshaikh,ShaikhAzeemUddin,BCB-23F-049,BS(Hons),Computer,S 2,55.36,3.63,Selected
+MuhammadYahyaArif,MuhammadArif,CSC-23S-157,BS(Hons),Computer,S 2,72.18,3.62,Selected
+MuhammadSaad,MuhammadSaleem,CSC-23F-096,BS(Hons),Computer,S 2,74.73,3.61,Selected
+NoorUlHuda,AliNawazShoro,100035074,BS(Hons),Computer,S 2,64.64,3.6,Selected
+AqsaMushtaqSheikh,MushtaqAliSheikh,BCB-24S-041,BS(Hons),Computer,S 2,56.36,3.6,Selected
+MuhammadMurtajiz,WaseemAli,CSC-23F-032,BS(Hons),Computer,S 2,69.55,3.57,Selected
+MUHAMMADZAIDQAD,MUHAMMADZAMEER,CSC-23S-078,BS(Hons),Computer,S 2,80,3.56,Selected
+MuhammadFarooq,MuhammadBasheer,BCB-23F-042,BS(Hons),Computer,S 2,78.36,3.56,Selected
+ShaneZehra,ShaneZehra,bcb-24s-001,BS(Hons),Computer,S 2,71.06,3.55,Selected
+MuhammadAreebBha,tShehzadbhatti,BIT-23F-027,BS(Hons),Computer,S 2,65.45,3.55,Selected
+TalhaBinRashad,Rashad,BCB-23F-013,BS(Hons),Computer,S 2,89,3.54,Selected
+UmmehaniFaisal,MuhammadFaisal,CSC-23F-116,BS(Hons),Computer,S 2,84.18,3.54,Selected
+Sunder Kumar,EaserDas,csc-23s-198,BS(Hons),Computer,S 2,80.72,3.54,Selected
+RimshaShoaib,ShoaibAHmed,BIT-23F-053,BS(Hons),Computer,S 2,56.27,3.54,Selected
+MaheenAsghar,AsgharAli,BIT-24S-034,BS(Hons),Computer,S 2,68.55,3.52,Selected
+USHNAMAHMOOD,MAHMOODZIA,BCB-23F-018,BS(Hons),Computer,S 2,66.73,3.52,Selected
+SyedaAlaina,SyedMukhtar,BIT-23F-040,BS(Hons),Computer,S 2,63,3.52,Selected
+MuhammadOwais,MuhammadShabbir,CSC-23S-238,BS(Hons),Computer,S 2,80.18,3.51,Selected
+Alishafatima,NasirMushtaqAhmed,CSC-23S-074,BS(Hons),Computer,S 2,68.7,3.51,Selected
+Areeba,MuhammadRizwan,BCB-24S-016,BS(Hons),Computer,S 2,91.64,3.5,Selected
+Mohammadsufyan,Abdulqadir,CSC-24S-016,BS(Hons),Computer,S 2,70.7,3.5,Selected
+NadiaIftikhar,IftikharAhmed,BIT-23S-084,BS(Hons),Computer,S 2,66.45,3.5,Selected
+Laiba,MuhammadRiaz,BIT-23S-005,BS(Hons),Computer,S 2,64.18,3.5,Selected
+NoorUsSehar,MuhammadFarooqKh,CSC-23S-121,BS(Hons),Computer,S 2,69.73,3.49,Waiting
+MuhammadTauheed,Muhammadkhalid,CSC-23S-191,BS(Hons),Computer,S 2,68.45,3.48,Waiting
+HafsaDildar,DildarShafi,BIT-23F-068,BS(Hons),Computer,S 2,59,3.48,Waiting
+HoorUlAin,AsifKhan,BCB-23F-037,BS(Hons),Computer,S 2,77.64,3.47,Waiting
+TaniyaAsif,AsifUllah,BIT-24S-014,BS(Hons),Computer,S 2,70,3.47,Waiting
+AYANHASSAN,BAKHT ZADA,BCB-24S-035,BS(Hons),Computer,S 2,55.5,3.45,Waiting
+MishaSikandar,Sikandar AliBaloch,CSC-23F-062,BS(Hons),Computer,S 2,67,3.44,Waiting
+MahanMuhammadAli,MuhammadAli,BIT-23S-057,BS(Hons),Computer,S 2,68.5,3.43,Waiting
+HassanAziz,RafaqatAzizKhan,BCB-24S-023,BS(Hons),Computer,S 2,64,3.43,Waiting
+Sajeelazehra,Fidahussain,CSC-23S-105,BS(Hons),Computer,S 2,74.91,3.42,Waiting
+TahaArshad,MArshadMunir,BIT-23F-047,BS(Hons),Computer,S 2,65.66,3.4,Waiting
+MuhammadSaad,Azizulhaq,CSC-23S-063,BS(Hons),Computer,S 2,65,3.4,Waiting
+NaqeebAhmedZai,AqeelAhmed,CSC-24S-100,BS(Hons),Computer,S 2,72.91,3.39,Waiting
+MuhammadMushahid,HSyedAliWasifHussain,CSC-23F-138,BS(Hons),Computer,S 2,60.82,3.39,Waiting
+Preetikhatri,Delumal,BCB-23F-038,BS(Hons),Computer,S 2,81.54,3.38,Waiting
+MuhammadAzeem,ArshadAli,CSC-23F-037,BS(Hons),Computer,S 2,75.45,3.38,Waiting
+Fizza,AshiqHussain,BCB-24S-036,BS(Hons),Computer,S 2,68.82,3.37,Waiting
+TahaArif,MuhammadArifBrohi,CSC-23F-051,BS(Hons),Computer,S 2,68.73,3.37,Waiting
+Maria,Khuzema,BIT-23F-031,BS(Hons),Computer,S 2,70.82,3.36,Waiting
+MuhammadAli,MuhammadYasin,CSC-24S-023,BS(Hons),Computer,S 2,68.5,3.36,Waiting
+JunaidAhmed,Sharif,BIT-23F-030,BS(Hons),Computer,S 2,52,3.35,Waiting
+MahiraAsghar,AsgharAli,BIT-24S-001,BS(Hons),Computer,S 2,68.18,3.34,Waiting
+SHAYANAHMED,JAVEDAHMED,CSC-23S-150,BS(Hons),Computer,S 2,77,3.33,Waiting
+ASADBASHIR,MUHAMMADBASHIR,CSC-22F-059,BS(Hons),Computer,S 2,66.27,3.33,Waiting
+MuhammadTayyab,NawzishAli,CSC-23F-064,BS(Hons),Computer,S 2,82,3.32,Waiting
+Yaqoob,GhulamAli,CSC-23S-040,BS(Hons),Computer,S 2,98,3.31,Waiting
+SidraAijaz,AijazAhmedNohani,CSC-23F-196,BS(Hons),Computer,S 2,84,3.3,Waiting
+Alishba,KarimBux,BDA-24S-021,BS(Hons),Computer,S 2,72.3,3.3,Waiting
+safa,MuhammadToufique,CSC-23F-056,BS(Hons),Computer,S 2,78,3.29,Waiting
+SyedaJaveriaHaqqi,SyedRiazuddinHaqqi,CSC-23S-117,BS(Hons),Computer,S 2,72.18,3.29,Waiting
+Fatima,Majeed,BIT-23F-046,BS(Hons),Computer,S 2,67.36,3.29,Waiting
+ZayanFarooq,FarooqAhmed,CSC-23S-151,BS(Hons),Computer,S 2,65.91,3.29,Waiting
+ShoaibAhmedChanna,MuhramChanna,CSC-23S-001,BS(Hons),Computer,S 2,78,3.28,Waiting
+AbdulHaseeb,QasimAli,CSC-23F-154,BS(Hons),Computer,S 2,68.82,3.28,Waiting
+ALEEMIQBAL,JAWEDIQBAL,CSC-23F-129,BS(Hons),Computer,S 2,53,3.28,Waiting
+Dheeraj,Dileepkumar,CSC-23S-010,BS(Hons),Computer,S 2,81.73,3.27,Waiting
+MuhammadAhmedAth,MuhammadAthar,CSC-23F-072,BS(Hons),Computer,S 2,66.91,3.27,Waiting
+SHAMSUNDER,DHOLARAM,CSC-23F-050,BS(Hons),Computer,S 2,80,3.25,Waiting
+HamzaAmjadKhan,AmjadIqbal,CSC-23F-099,BS(Hons),Computer,S 2,74,3.25,Waiting
+ZeeshanAkbar,Aminullah,CSC-23F-123,BS(Hons),Computer,S 2,59,3.25,Waiting
+SanaArshad,MuhammadArshad,CSC-23S-070,BS(Hons),Computer,S 2,80,3.24,Waiting
+MouazAhmed,MazharAhmed,CSC-23F-093,BS(Hons),Computer,S 2,72,3.24,Waiting
+MehtabAli,ShahNawazKhan,CSC-23F-003,BS(Hons),Computer,S 2,71,3.24,Waiting
+WarzaaqAhmed,RiazAhmed,BIT-23S-051,BS(Hons),Computer,S 2,72.18,3.23,Waiting
+MuhammadWajahatSi,MuhammadArshad,BCB-24S-006,BS(Hons),Computer,S 2,69.55,3.23,Waiting
+HasnainAliWaqas,ShaukatAliWaqas,CSC-23F-117,BS(Hons),Computer,S 2,62,3.23,Waiting
+LaibaIrshad,RajaMuhammadIrsha,CSC-23F-060,BS(Hons),Computer,S 2,79.64,3.22,Waiting
+Mustansir,Khuzema,CSC-23F-118,BS(Hons),Computer,S 2,72,3.22,Waiting
+HassamJabbar,AbdulJabbar,CSC-23S-055,BS(Hons),Computer,S 2,61.91,3.21,Waiting
+SUFIYANAHMED,SAGHEERAHMED,CSC-23F-254,BS(Hons),Computer,S 2,61.82,3.21,Waiting
+SYEDSAADSOHAIL,SYEDMUHAMMADSO,CSC-23F-213,BS(Hons),Computer,S 2,56.45,3.21,Waiting
+HammadRazaRaza,HammadRazaRaza,CSC-23F-162,BS(Hons),Computer,S 2,53.27,3.21,Waiting
+HinzaMaryam,MuhammadArshad,CSC-23F-112,BS(Hons),Computer,S 2,81.81,3.2,Waiting
+NADIA,GHULAMMUHAMMAD,CSC-23S-101,BS(Hons),Computer,S 2,76,3.2,Waiting
+MuhammadAffan,RafiqAhmed,CSC-23F-046,BS(Hons),Computer,S 2,75,3.2,Waiting
+AbdulWasay,MuhammadJaved,CSC-23F-239,BS(Hons),Computer,S 2,70.73,3.2,Waiting
+Alveenachohan,Tauqeer alichohan,BCB-24S-002,BS(Hons),Computer,S 2,70,3.2,Waiting
+MuhammadAijazBaho,oAbdulRahman,CSC-23F-171,BS(Hons),Computer,S 2,66.18,3.2,Waiting
+NuzhatQureshi,Allauddin,BIT-24S-029,BS(Hons),Computer,S 2,72.64,3.19,Waiting
+MuhammadUmar Ali,ImtiazAliChoudry,CSC-23F-121,BS(Hons),Computer,S 2,68.82,3.19,Waiting
+MuhammadNomanSid,MuhammadIslamSid,CSC-23F-091,BS(Hons),Computer,S 2,64.09,3.19,Waiting
+GhufranShah,SarwarShahKhan,CSC-23F-111,BS(Hons),Computer,S 2,60.36,3.19,Waiting
+MuhammadSubhan,MuhammadUmer,BIT-23S-079,BS(Hons),Computer,S 2,55.81,3.18,Waiting
+ShazilKhan,AdalatKhan,CSC-23F-089,BS(Hons),Computer,S 2,60,3.17,Waiting
+JunaidNafees,Nafees iqbal,BCB-23F-059,BS(Hons),Computer,S 2,58,3.17,Waiting
+AsadUllah,MuhammadAyubKha,csc-23s-096,BS(Hons),Computer,S 2,70.22,3.16,Waiting
+Awais,MuhammadUris,CSC-24S-072,BS(Hons),Computer,S 2,88.63,3.15,Waiting
+AbdulRafay,RizwanulHaq,BIT-23F-059,BS(Hons),Computer,S 2,65.4,3.14,Waiting
+MuhammadIshraqKha,Bakhtiar,CSC-23S-012,BS(Hons),Computer,S 2,77.09,3.13,Waiting
+HAMMASAKHTAR,SAEEDAKHTAR,CSC-23F-083,BS(Hons),Computer,S 2,75.55,3.13,Waiting
+MsSHABNAM,MrSHAHDEV,CSC-24S-086,BS(Hons),Computer,S 2,92.36,3.12,Waiting
+MuhammadYaqoob,MuhammadMajeed,BIT-23F-013,BS(Hons),Computer,S 2,70.68,3.12,Waiting
+IQRANOOR,ABDULLAH,BIT-23S-097,BS(Hons),Computer,S 2,68.81,3.12,Waiting
+ManMohanLal,Bhaunrio,CSC-24S-031,BS(Hons),Computer,S 2,83,3.1,Waiting
+Aman,Harchand,BIT-23F-074,BS(Hons),Computer,S 2,82.7,3.08,Waiting
+AbdulGhaffar,AbdulJabbar,BIT-23F-044,BS(Hons),Computer,S 2,60,3.08,Waiting
+AsadullahMagsi,HabibullahMagsi,CSC-23F-013,BS(Hons),Computer,S 2,91.55,3.07,Waiting
+TushalKumar,JhamanDas,CSC-23F-218,BS(Hons),Computer,S 2,81.27,3.07,Waiting
+QamarZaman,MalikZaman,CSC-23F-246,BS(Hons),Computer,S 2,76,3.06,Waiting
+ranamuhammadtaha,ranakhalidmehmood,CSC-23S-071,BS(Hons),Computer,S 2,74.55,3.06,Waiting
+MuhammadTaha,SyedAliNayyarZaidi,CSC-23F-085,BS(Hons),Computer,S 2,69.36,3.05,Waiting
+YasirShaikh,AyazShaikh,CSC-23F-252,BS(Hons),Computer,S 2,65.6,3.04,Waiting
+MuhammadBilal,MuhammadJamil,CSC-23S-054,BS(Hons),Computer,S 2,60.73,3.04,Waiting
+MuskanKumari,OmParkash,CSC-23F-023-C,BS(Hons),Computer,S 2,92,3.03,Waiting
+MuhammadHasanAla,mMuhammadMasroor A,CSC-23F-012,BS(Hons),Computer,S 2,81.76,3.03,Waiting
+UMMEAIMON,UMARSIDDIQ,BCB-23S-028,BS(Hons),Computer,S 2,64.64,3.03,Waiting
+MuhammadAdeel,Lalbux,BIT-23S-021,BS(Hons),Computer,S 2,54.18,3.03,Waiting
+AbdulQudoos,AbdulWaheed,CSC-23F-044,BS(Hons),Computer,S 2,74.18,3.01,Waiting
+HammadNoorKhan,AfzalNoorKhan,CSC-23S-028,BS(Hons),Computer,S 2,72.2,3.01,Waiting
+JavereyaJabeenAshraf,MohammadAshrafIsl,CSC-23S-149,BS(Hons),Computer,S 2,68.27,3.01,Waiting
+SYEDZAINALI,SYEDHASHIMRAZA,CSC-23F-217,BS(Hons),Computer,S 2,65.88,3.01,Waiting
+AliAarib,Sabirahmed,BCB-23F-008,BS(Hons),Computer,S 2,54.55,3.01,Waiting
+Ariba,MuhammadAsif,BCB-24S-037,BS(Hons),Computer,S 2,80.11,3,Waiting
+SajadAli,AijazAli,BCB-23F-046,BS(Hons),Computer,S 2,73.72,3,Waiting
+MuhammadHammmad,AsifIqbal,CSC-23F-256,BS(Hons),Computer,S 2,61.9,3,Waiting
+MuhammadSheheryar,NisarAhmed,BIT-23F-042,BS(Hons),Computer,S 2,72,2.99,Waiting
+SyedZohairAbbasZaid,SyedMunawarAbbas,BIT-23S107,BS(Hons),Computer,S 2,51,2.99,Waiting
+MuhammadHussainZa,SyedSajidHussain,CSC-23S-104,BS(Hons),Computer,S 2,77.18,2.98,Waiting
+SubhanAli,KamranAli,CSC-23F-079,BS(Hons),Computer,S 2,74.82,2.98,Waiting
+IbtisamRajput,MansoorRajput,BCB-24S-025,BS(Hons),Computer,S 2,61.9,2.98,Waiting
+MuhammadAshhalUm,AbdulSamad,CSC-24S-009,BS(Hons),Computer,S 2,68.91,2.97,Waiting
+HamzaAbdurRehman,MuhammadHussain,CSC-23F-030,BS(Hons),Computer,S 2,77,2.96,Waiting
+MairaNadeem,NadeemAhmedTabas,BCB-23F-060,BS(Hons),Computer,S 2,56.46,2.96,Waiting
+MuhammadFarman,MuhammadSultan,BCB-23F-014,BS(Hons),Computer,S 2,56.3,2.96,Waiting
+ParasNoor,NoorAhmedchandio,CSC-24S-015,BS(Hons),Computer,S 2,90.88,2.95,Waiting
+AbdullahHussain,AkhtarHussain,BCB-23F-039,BS(Hons),Computer,S 2,68,2.95,Waiting
+HASEEBZAFAR,HASEEBZAFAR,CSC-23F-248,BS(Hons),Computer,S 2,80,2.94,Waiting
+MuhammadShayanKh,aMuhammadAdnanKh,CSC-24S-045,BS(Hons),Computer,S 2,69.6,2.93,Waiting
+FatimaNadeem,NadeemAhmed,BSE-24S-049,BS(Hons),Computer,S 2,76.73,2.92,Waiting
+FaizanShabbir,ShabbirAhmed,CSC-23S-122,BS(Hons),Computer,S 2,73.64,2.92,Waiting
+MuhammadTalalLiaqu,LiaquatAliKamboh,CSC-23S-214,BS(Hons),Computer,S 2,53.92,2.92,Waiting
+RaqeebUllah,Naimatullah,BIT-23S-054,BS(Hons),Computer,S 2,52.82,2.92,Waiting
+JaweriaAbdulQayoom,AbdulQayoom,SFC-23S-001,BS(Hons),Computer,S 2,86.61,2.9,Waiting
+Wareesha,ZaheerAhmed,CSC-23F-104,BS(Hons),Computer,S 2,68.74,2.9,Waiting
+MuhammadHashirMer,MuhammadMeraj,CSC-23F-066,BS(Hons),Computer,S 2,64.73,2.89,Waiting
+MuddasirAli,MukhtiarAli,CSC-23S-039,BS(Hons),Computer,S 2,56.5,2.89,Waiting
+MerajUlDin,MerajUlDin,CSC-24S-091,BS(Hons),Computer,S 2,92,2.88,Waiting
+MuhammadMohsin,MuhammadHussain,CSC-23S-313,BS(Hons),Computer,S 2,69.89,2.88,Waiting
+JAWADHASSAN,MuhammadYousaf,SFC-24S-004,BS(Hons),Computer,S 2,57.36,2.88,Waiting
+MuhammadAhsanAli,MuhammadYousuf,BIT-23S-008,BS(Hons),Computer,S 2,75.69,2.87,Waiting
+Chandar Kumar,Chandar Kumar,CSC-23F-034,BS(Hons),Computer,S 2,85,2.86,Waiting
+UzairAhmed,ZaheerUddin,BCB-23F-047,BS(Hons),Computer,S 2,78.27,2.86,Waiting
+MuhammadJunaid,JavaidFazal,CSC-23S-003,BS(Hons),Computer,S 2,71.39,2.86,Waiting
+MuhammadSumair,UmarFarooqAhmed,CSC-23S-312,BS(Hons),Computer,S 2,71.36,2.86,Waiting
+MuhammadAalaRiaz,MuhammadRiazJan,BCB-23F-011,BS(Hons),Computer,S 2,70,2.86,Waiting
+HafizMuhammadIbrah,ShakeelAhmed,CSC-23F-054,BS(Hons),Computer,S 2,68.27,2.86,Waiting
+Israr Ahmed,DildarAli,CSC-23S-014,BS(Hons),Computer,S 2,82.45,2.85,Waiting
+Aleemullah,Habibullah,CSC-24S-060,BS(Hons),Computer,S 2,82.16,2.84,Waiting
+MuhammadHarisNase,MuhammadNaseem,CSC-24S-011,BS(Hons),Computer,S 2,72.8,2.84,Waiting
+SyedMuhammadAbba,sSyedManzar Abbas,CSC-23F-257,BS(Hons),Computer,S 2,60,2.84,Waiting
+AbdullahRasheed,MuhammadRasheed,BIT-23S-001,BS(Hons),Computer,S 2,51.73,2.84,Waiting
+AliKhan,PandhiKhan,CSC-23F-021,BS(Hons),Computer,S 2,78,2.82,Waiting
+AlishbaShaikh,SharfuddinShaikh,CSC-23S-058,BS(Hons),Computer,S 2,77.68,2.82,Waiting
+Zulfiqar,Shabbirhusaain,BIT-24S-024,BS(Hons),Computer,S 2,67.7,2.82,Waiting
+FatimaAkhtar,AkhtarAli,100031120,BS(Hons),Computer,S 2,67.67,2.82,Waiting
+MuhibSami,SamiAhmed,CSC-23S-114,BS(Hons),Computer,S 2,80,2.8,Waiting
+AbdulFatah,AbdulSattar,CSC-23S-015,BS(Hons),Computer,S 2,74.12,2.8,Waiting
+MuhammadMoiz,Zafar Iqbal,CSC-23F-063,BS(Hons),Computer,S 2,70.67,2.8,Waiting
+MuhammadAadil,MuhammadSaleem,CSC-23F-035,BS(Hons),Computer,S 2,83,2.79,NotSelected
+BasitAliSoomro,ZulfiqarAli,Csc-23S-239,BS(Hons),Computer,S 2,66.45,2.79,NotSelected
+saniyakumari,premkumar,BIT-24S-030,BS(Hons),Computer,S 2,86.89,2.77,NotSelected
+ArsalanAli,AliMuhammad,CSC-23F-107,BS(Hons),Computer,S 2,85.27,2.77,NotSelected
+MuhammadHaider,ShahNawazKhan,CSC-23S-061,BS(Hons),Computer,S 2,77.1,2.75,NotSelected
+ImtiazAli,MuhammadAli,CSC-24s-019,BS(Hons),Computer,S 2,82.54,2.7,NotSelected
+Alihassan,SherAli,BIT-23F-017,BS(Hons),Computer,S 2,69.56,2.7,NotSelected
+MuhammadZakir,RasheedAhmed,BCB-24s-017,BS(Hons),Computer,S 2,54,2.7,NotSelected
+MuhammadSameer,MuhammadNadir,CSC-23F-195,BS(Hons),Computer,S 2,84.65,2.68,NotSelected
+ABDULMANNAN,SHERAZUDDIN,BCB-23F-043,BS(Hons),Computer,S 2,71,2.68,NotSelected
+Anamta,Irfanmansoori,BCB-23S-036,BS(Hons),Computer,S 2,67.91,2.68,NotSelected
+MuhammadMubeen Kh,MuhammadWaseem,BCB-23F-031,BS(Hons),Computer,S 2,85,2.67,NotSelected
+HadiAbbas,MuhammadHussain,CSC-23S-206,BS(Hons),Computer,S 2,57.68,2.66,NotSelected
+MuhammadAshirKhan,ImranKhan,CSC-23F-095,BS(Hons),Computer,S 2,70.6,2.65,NotSelected
+RaheelAhmed,AabidAli,CSC-23F-049,BS(Hons),Computer,S 2,79.5,2.64,NotSelected
+Tanveer Kumar,Dianand,CSC-24S-044,BS(Hons),Computer,S 2,80.6,2.63,NotSelected
+AbdulHadiQureshi,SabirAliQureshi,CSC-23F-115,BS(Hons),Computer,S 2,71.64,2.63,NotSelected
+UMAR,MAHMOODMUHAMM,CSC-23S-016,BS(Hons),Computer,S 2,62.55,2.62,NotSelected
+LakshKumar,JairamDas,CSC-23S-057,BS(Hons),Computer,S 2,73.66,2.61,NotSelected
+MuhammadMudasir,MuhammadIqbal,CSC-23S-209,BS(Hons),Computer,S 2,62.18,2.61,NotSelected
+MuhammadUmer Khan,MuhammadShahid,CSC-23F-031,BS(Hons),Computer,S 2,80,2.6,NotSelected
+ShakirHussain,ZAKIRHUSSAIN,CSC-23F-015,BS(Hons),Computer,S 2,76,2.59,NotSelected
+SaeedAhmed,Attaullah,BIT-23F-018,BS(Hons),Computer,S 2,67.73,2.58,NotSelected
+Tarachand,Tarachand,BCB-24S-034,BS(Hons),Computer,S 2,85.86,2.53,NotSelected
+Bhasker Guriro,NirdoshKumar,CSC-23F-001,BS(Hons),Computer,S 2,78.18,2.53,NotSelected
+MuhammmadMurtaza,KMuhammadSarfarazK,csc-23s-128,BS(Hons),Computer,S 2,69.27,2.53,NotSelected
+PiyarAli,MuhammadUmar,BIT-23F-019,BS(Hons),Computer,S 2,68.45,2.52,NotSelected
+MuhammadHasanNaw,RifatUllahNawazi,CSC-23F-190,BS(Hons),Computer,S 2,52.91,2.52,NotSelected
+MuhammadShayan,TariqueAli,CSC-23F-016,BS(Hons),Computer,S 2,84.9,2.5,NotSelected
+Maryamfatima,MuhammadYousif,CSC-23F-069,BS(Hons),Computer,S 2,83,2.5,NotSelected
+MuhammadSaad,MuhammadHussain,CSC23F136,BS(Hons),Computer,S 2,68.3,2.5,NotSelected
+SheharyarAhmed,KhursheedAhmed,CSC-23F-227,BS(Hons),Computer,S 2,56.7,2.47,NotSelected
+Areesha,MuhammadArshad,BCB-24S-019,BS(Hons),Computer,S 2,80.98,2.45,NotSelected
+UmerFarooq,SajjadAhmed,BIT-23F-008,BS(Hons),Computer,S 2,55.45,2.4,NotSelected
+HaseebUllah,MuhammadAslam,BIT-23F-057,BS(Hons),Computer,S 2,83.5,2.39,NotSelected
+SyedAliHasnainNaqvi,SyedNavaidAbbasNa,BCB-23F-015,BS(Hons),Computer,S 2,68.78,2.39,NotSelected
+Govinda,Dayal,BIT-24S-032,BS(Hons),Computer,S 2,81,2.38,NotSelected
+KaranKumar,DHANESHKUMAR,BIT-23F-002,BS(Hons),Computer,S 2,79.09,2.34,NotSelected
+MuhammadUbaidAli,AbidAli,CSC-23F-232,BS(Hons),Computer,S 2,75.5,2.34,NotSelected
+Soojal,BharatLal,BIT-23F-045,BS(Hons),Computer,S 2,76.1,2.33,NotSelected
+AzfarAhmedKhan,MuhammadTahir,CSC-23F-057,BS(Hons),Computer,S 2,67.1,2.32,NotSelected
+MuhammadAyanAli,MuhammadWakeel,CSC-23S-188,BS(Hons),Computer,S 2,80,2.28,NotSelected
+MuhammadBilal,JavedIqbal,CSC-23F-043,BS(Hons),Computer,S 2,70,2.28,NotSelected
+MuhammadUmair,MuhammadNooh,CCS-23S-123,BS(Hons),Computer,S 2,89.18,2.27,NotSelected
+ParkashMenghwal,SanwalRam,CSC-23F-008,BS(Hons),Computer,S 2,87.54,2.27,NotSelected
+MuhammadOwais,MuhammadKhaliq,BIT-23S-053,BS(Hons),Computer,S 2,53,2.23,NotSelected
+SaqibHussain,KhadimHussainMem,BIT-23F-014,BS(Hons),Computer,S 2,73,2.19,NotSelected
+NadeemAhmed,karimBux,CSC-23F-002,BS(Hons),Computer,S 2,89.5,2.18,NotSelected
+Tayabaamjad,Amjadahmed,bit-23s-116,BS(Hons),Computer,S 2,68,2.18,NotSelected
+AliBaba,AliAsghar,CSC-23S-093,BS(Hons),Computer,S 2,85,2.16,NotSelected
+SyedMuhammadAmee,SyedMuhammadYou,CSC-23F-177,BS(Hons),Computer,S 2,55.57,2.16,NotSelected
+HemlataMalhi,Omparkash,BDA-24S-034,BS(Hons),Computer,S 2,86.84,2.13,NotSelected
+MuhammadAbdullah,GhulamRasool,BIT-23S-020,BS(Hons),Computer,S 2,58.3,2.12,NotSelected
+Akshaykumar,Nandlal,BIT-23F-032,BS(Hons),Computer,S 2,73.78,2.1,NotSelected
+SaniaKumari,Ashok,BIT-24S-039,BS(Hons),Computer,S 2,71.09,2.09,NotSelected
+Iqra,MuhammadMohsin,CSC-23F-052,BS(Hons),Computer,S 2,85.73,2.08,NotSelected
+MuhammadWillayatAl,MuhammadNisar,BCB-23F-061,BS(Hons),Computer,S 2,60.57,2.05,NotSelected
+NasirHussain,AltafHussain,Csc-23F-209,BS(Hons),Computer,S 2,85,2,NotSelected
+Afshar Ali,HamidAli,BCB-23S-052,BS(Hons),Computer,S 2,80,1.96,NotSelected
+Bhuttoji,Veenjhraj,BIT_23F_039,BS(Hons),Computer,S 2,73.54,1.9,NotSelected
+Ashok,Bakhto,BIT-23F-035,BS(Hons),Computer,S 2,85,1.88,NotSelected
+Deepak Gir,UttamGir,CSC-23F-082,BS(Hons),Computer,S 2,77.09,1.84,NotSelected
+VikramKumar,Aidan,BIT-23F-026,BS(Hons),Computer,S 2,70,1.76,NotSelected
+MuhammadYousuf,MuhammadShafiq,CSC-23S-301,BS(Hons),Computer,S 2,65,1.62,NotSelected
+Muhammadfaizan,Mumtaz,CSC-23F-192,BS(Hons),Computer,S 2,65.69,1.56,NotSelected
+MuhammadAli,NaveedAhmed,BCB-23S-006,BS(Hons),Computer,S 2,90,1.48,NotSelected
+ShammasAhmedKhan,Iqtadar AhmedKhanL,BCB-24S-043,BS(Hons),Computer,S 2,86.35,1.04,NotSelected
+ArvindKumar,ShankarLal,CSC-23F-181,BS(Hons),Computer,S 2,70.9,0.96,NotSelected
+Abdulwahab,Abdulwahab,CSC-23F184,BS(Hons),Computer,S 2,78.2,0.94,NotSelected
+DaniyalAzam,AzamBHATTI,CSC-23F-214,BS(Hons),Computer,S 2,89.91,0.85,NotSelected
+MuhammadAsimKhan,ZahidHussain,CSC-23F-201,BS(Hons),Computer,S 2,53.09,0.7,NotSelected
+Mahnoor,NoorElahi,CSC-23S-309,BS(Hons),Computer,S 3,76.55,3.83,Selected
+MuhammadMaaz,AltafHussain,CSC-23S-164,BS(Hons),Computer,S 3,62.05,3.68,Selected
+AMNA,JAWED,CSC-22F-114,BS(Hons),Computer,S 3,86.18,3.67,Selected
+ShizaFaisal,MuhammadFaisal,BIT-23S-022,BS(Hons),Computer,S 3,69.91,3.64,Selected
+AlyaBatool,MuhammadHussain,CSC-22F-022,BS(Hons),Computer,S 3,77,3.63,Selected
+HafizaTanzilaRajput,MuhammadHashim,CSC-23S-169,BS(Hons),Computer,S 3,80.73,3.61,Selected
+AlishbaInayat,InayatAli,CSC-22F-126,BS(Hons),Computer,S 3,70.18,3.6,Selected
+MuhammadHussainK,hRizwanullahKhanLod,CSC-22F-191,BS(Hons),Computer,S 3,80.27,3.59,Selected
+BUSHRAGHULAMRAS,OGHULAMRASOOL,CSC-23S-133,BS(Hons),Computer,S 3,74,3.59,Selected
+SyedKumailAliZaidi,SyedAliNaqiZaidi,CSC-23S-156,BS(Hons),Computer,S 3,73.33,3.58,Selected
+Nandani,GuneshMal,CSC-22F-061,BS(Hons),Computer,S 3,68.64,3.57,Selected
+MuqaddasHaideri,Zafar Haider,CSC-22F-029,BS(Hons),Computer,S 3,84.82,3.55,Selected
+AsfaAhsan,AhsanRasheed,csc-22f-030,BS(Hons),Computer,S 3,66.6,3.55,Selected
+AbdulSamad,AhsanIlahi,CSC-22F-139,BS(Hons),Computer,S 3,61.45,3.55,Selected
+AbdulSamad,Mehmood,CSC-23S-251,BS(Hons),Computer,S 3,71.5,3.54,Selected
+Bisma,MuhammadNazeerA,BIT-23S-006,BS(Hons),Computer,S 3,63,3.54,Selected
+MuhammadTaha,MuhammadSami,CSC-23S-126,BS(Hons),Computer,S 3,75.45,3.51,Selected
+Asma,Qadir,CSC-22F-069,BS(Hons),Computer,S 3,78.82,3.5,Selected
+SheikhMuhammadSuf,SheikhMuhammadAs,CSC-23S-183,BS(Hons),Computer,S 3,75.76,3.5,Selected
+MuhammadMufeezBa,rMuhammadIrfan,BCB-22F-030,BS(Hons),Computer,S 3,71.82,3.5,Selected
+MalihaAamirKhan,AamirKhan,BIT-23S-109,BS(Hons),Computer,S 3,69,3.5,Selected
+HafsaIzhar,IzharAhmed,CSC-22F-023,BS(Hons),Computer,S 3,61.36,3.5,Selected
+ZunairaRukhsarMangn,AbdulHayee Mangnej,CSC-23S-163,BS(Hons),Computer,S 3,69.27,3.49,Selected
+SyedShahbazAmir,SyedAmirHussain,BIT-23S-103,BS(Hons),Computer,S 3,50,3.45,Selected
+Umama,MuhammadAmin,BIT-23S-049,BS(Hons),Computer,S 3,56,3.42,Selected
+LaraibMushtaq,Mushtaqahmed,BIT-23S-030,BS(Hons),Computer,S 3,94,3.4,Selected
+MohammadAbbas,AftabAhmed,CSC-22F-091,BS(Hons),Computer,S 3,81,3.4,Selected
+ZahidAli,IrshadAli,CSC-22S-215,BS(Hons),Computer,S 3,80.09,3.4,Selected
+Jamal Ahmed,Ahmedkhan,csc-22s-065,BS(Hons),Computer,S 3,61.64,3.39,Selected
+AhmedRaza,MuneerHussain,CSC-22F-078,BS(Hons),Computer,S 3,75,3.37,Selected
+MuhammadAdeel,karimbukish,CSC-22F-116,BS(Hons),Computer,S 3,67.91,3.37,Selected
+MuhammadMotasim,EjazALi,CSC-22F-094,BS(Hons),Computer,S 3,64.6,3.37,Waiting
+FaaizAmir,AbdulRehmanAmir,CSC-23S-275,BS(Hons),Computer,S 3,60.45,3.37,Waiting
+MohammadAmmar,MohammadImran,CSC-22S-108,BS(Hons),Computer,S 3,79.9,3.35,Waiting
+TahaShabbir,MuhammadShabbir,CSC-23S-062,BS(Hons),Computer,S 3,76,3.31,Waiting
+Mahnoorsiddiqui,TasleemSiddiqui,BIT-23S-026,BS(Hons),Computer,S 3,66.82,3.31,Waiting
+IqraHussain,AbdulHussain,100027257,BS(Hons),Computer,S 3,54.55,3.31,Waiting
+Ayeshausman,muhammadusman,CSC-22F-085,BS(Hons),Computer,S 3,68.8,3.3,Waiting
+Owais,MuhammadHanif,CSC-22F-039,BS(Hons),Computer,S 3,59.45,3.3,Waiting
+OwaisLiaquat,LiaquatHussain,CSC-22S-162,BS(Hons),Computer,S 3,70.8,3.29,Waiting
+UsamaSani,MuhammadSajid,BCB-23S-050,BS(Hons),Computer,S 3,68.56,3.29,Waiting
+MuhammadHuzaifaTa,nMuhammadTanveerA,CSC-22S-131,BS(Hons),Computer,S 3,73.82,3.28,Waiting
+MuhammadFayyazAns,RiazAhmed,CSC-23S-276,BS(Hons),Computer,S 3,64,3.28,Waiting
+MuhammadAbsar Arsh,ArshadMehmood,BCB-22F-032,BS(Hons),Computer,S 3,59.6,3.28,Waiting
+AmmarBinAli,AliMuhammad,CSC-22S-026,BS(Hons),Computer,S 3,82.82,3.27,Waiting
+Saweraali,Rajabali,BIT-23S-098,BS(Hons),Computer,S 3,79.68,3.27,Waiting
+ZahidHussain,GhulamRasool,CSC-22F-198,BS(Hons),Computer,S 3,72.18,3.26,Waiting
+MuhammadBilal,MuhammadNaeem,CSC-22S-115,BS(Hons),Computer,S 3,71,3.26,Waiting
+DURRESAMEEN,SANAULLAH KHAN,BCB-22F-010,BS(Hons),Computer,S 3,51.73,3.26,Waiting
+Rida,MuhammadShaiques,BIT-22F-045,BS(Hons),Computer,S 3,81.79,3.24,Waiting
+AqibIlyas,MuhammadIlyas,CSC-22S-028,BS(Hons),Computer,S 3,75,3.24,Waiting
+AashirAzeem,AliMuhammad,BIT-23S-047,BS(Hons),Computer,S 3,70.02,3.24,Waiting
+ManojKumar,TilooMal,CSC-22F-042,BS(Hons),Computer,S 3,73,3.23,Waiting
+HasnatKaleem,TahirKaleem,CSC-23S-194,BS(Hons),Computer,S 3,78,3.22,Waiting
+HirdeshKumar,AmratKumar,CSC-22F-072,BS(Hons),Computer,S 3,72.36,3.2,Waiting
+Amna,Mumtaz,BCB-22F-021,BS(Hons),Computer,S 3,55.55,3.2,Waiting
+Abdulraziq,Muhammadasif,CSC-22F-070,BS(Hons),Computer,S 3,70,3.18,Waiting
+SaadAliRao,KashifAliRao,CSC-23S-306,BS(Hons),Computer,S 3,61.18,3.18,Waiting
+MuhammadHamzaJav,MuhammadHashmat,CSC-22S-123,BS(Hons),Computer,S 3,80.91,3.17,Waiting
+SaqlainAbbas,AltafHussain,CSC-22F-089,BS(Hons),Computer,S 3,69.8,3.17,Waiting
+TAUFEEQURREHMAN,ANWERALI,BCB-22F-003,BS(Hons),Computer,S 3,60,3.17,Waiting
+FahadRiaz,RiazAliBrohi,BCB-22F-013,BS(Hons),Computer,S 3,81.64,3.14,Waiting
+BILALAKMAL,BILALAKMAL,Csc-22s-032,BS(Hons),Computer,S 3,73.66,3.14,Waiting
+Fazeela,Romankhan,BCB-23S-037,BS(Hons),Computer,S 3,70,3.14,Waiting
+SaqibHussain,NazeerHussainjalban,CSC-22S-178,BS(Hons),Computer,S 3,67.18,3.14,Waiting
+MuhammadYounus,GhulamMutaqa,BCB-22S-023,BS(Hons),Computer,S 3,86.72,3.13,Waiting
+FatimaIrfan,SyedIrfanulQuddus,BCB-22F-034,BS(Hons),Computer,S 3,85,3.13,Waiting
+MuhammadShoaib,MuhammadRafique,CSC-23S-068,BS(Hons),Computer,S 3,81.45,3.13,Waiting
+MuhammadAhmedZak,IftikharZaki,CSC-22S-099,BS(Hons),Computer,S 3,62.27,3.12,Waiting
+MuhammadAnas,MuhammadSaleem,CSC-22F-143,BS(Hons),Computer,S 3,79.09,3.11,Waiting
+MuhammadSaifullah,MuhammadLatif,CSC-22F-079,BS(Hons),Computer,S 3,69.91,3.1,Waiting
+MehmoodHassan,NoorHassan,CSC-22F-144,BS(Hons),Computer,S 3,66.82,3.1,Waiting
+AbdulBasit,MuhammadYounus,BIT-22S-002,BS(Hons),Computer,S 3,55.27,3.1,Waiting
+Zarrar Tariq,TariqHussainKhan,CSC-23S-067,BS(Hons),Computer,S 3,77.36,3.09,Waiting
+MuhammadFaaizsheik,MuhammadAzad,CSC-23S-189,BS(Hons),Computer,S 3,70.27,3.09,Waiting
+Affan,TahirAhmed,CSC-22F-083,BS(Hons),Computer,S 3,61.18,3.09,Waiting
+HaseebJunejo,UsmanJunejo,CSC-22S-047,BS(Hons),Computer,S 3,53.18,3.09,Waiting
+zainulabideen alvi,abidhussainalvi,CSC-23S-291,BS(Hons),Computer,S 3,52,3.08,Waiting
+MoizAli,AsadAliKhan,CSC-22F-017,BS(Hons),Computer,S 3,53.33,3.07,Waiting
+MUHAMMADADNAN,MUHAMMADASGHAR,CSC-22S-098,BS(Hons),Computer,S 3,90.09,3.03,Waiting
+UBAID,ANWARHUSSAIN,CSC-22S-205,BS(Hons),Computer,S 3,51.73,3.02,Waiting
+AbdulAffham,AbdulRasheed,CSC-22S-003,BS(Hons),Computer,S 3,78,3,Waiting
+AbdulBasit,MaqsoodAhmed,CSC-22S-008,BS(Hons),Computer,S 3,69.36,3,Waiting
+Hafsashahzad,Shahzad,Bcb-22F-004,BS(Hons),Computer,S 3,50,3,Waiting
+SYEDQAISERNAWAB S,SYEDFAROOQAHME,BIT-22F-026,BS(Hons),Computer,S 3,55,2.99,Waiting
+SajidAmeer,Ameer hussain,100028343,BS(Hons),Computer,S 3,89.9,2.98,Waiting
+Umerubab,Khadimhussainjamal,BCB-23S-057,BS(Hons),Computer,S 3,74.5,2.98,Waiting
+HishamAhmed,ArsalNaqi,CSC-22S-052,BS(Hons),Computer,S 3,67.18,2.98,Waiting
+Anadil,MuhammadIrshad,CSC-23S-207,BS(Hons),Computer,S 3,61,2.98,Waiting
+MuhammadFaiq,MuhammadZafar,CSC-22S-236,BS(Hons),Computer,S 3,51.27,2.98,Waiting
+SyedMustafaRaza,SyedAliRaza,BCB-22S-032,BS(Hons),Computer,S 3,50.18,2.98,Waiting
+Ameer Hamza,SadaqatHussain,CSC-22F-088,BS(Hons),Computer,S 3,58.09,2.97,Waiting
+UmarShafi,MuhammadShafi,BIT-23S-017,BS(Hons),Computer,S 3,63.54,2.96,Waiting
+MahnoorBibi,SabirMehmood,BIT-23S-078,BS(Hons),Computer,S 3,63.34,2.96,Waiting
+AmanMatloob,Matloobhussain,BIT-22f-015,BS(Hons),Computer,S 3,69.3,2.95,Waiting
+MuhammadUbaid,NazirHussain,CSC-23S-038,BS(Hons),Computer,S 3,63.09,2.95,Waiting
+SubhanAhmed,RizwanAhmed,CSC-23S-050,BS(Hons),Computer,S 3,69.27,2.92,Waiting
+AbdulBasit,MuhammadArif,csc-22f-148,BS(Hons),Computer,S 3,73,2.9,Waiting
+ImranAli,ShakoorAli,BCB-23-005,BS(Hons),Computer,S 3,67.7,2.9,Waiting
+AliMuhiuddin,AhmedMohiuddin,CSC-22S-022,BS(Hons),Computer,S 3,77.18,2.89,Waiting
+ShaharyarUddin,Jamal Uddin,CSC-22S-181,BS(Hons),Computer,S 3,83.45,2.88,Waiting
+MUJEEB URREHMAN,MUHAMMADISMAIL,CSC-22S-157,BS(Hons),Computer,S 3,75.82,2.88,Waiting
+MuhammadUkasha,GhulamShabbirKhan,CSC-22S-149,BS(Hons),Computer,S 3,75.77,2.88,Waiting
+Abdullah,ShakilAhmed,CSC-22S-014,BS(Hons),Computer,S 3,70.36,2.85,Waiting
+MuhammadUmar,MuhammadUsmanAl,BCB-22S-022,BS(Hons),Computer,S 3,67.28,2.85,Waiting
+AadarshKumar,Gangaram,CSC-22F-101,BS(Hons),Computer,S 3,84.82,2.84,Waiting
+AbdulMoiz,MuhammadSaleem,BCB-22S-001,BS(Hons),Computer,S 3,51.23,2.84,Waiting
+SamiSikandar,Sikandar Ali,CSC-22f-051,BS(Hons),Computer,S 3,88.73,2.83,Waiting
+HafizMuhammadAfna,nMuahmmadAdilSham,CSC-22F-057,BS(Hons),Computer,S 3,75.45,2.83,Waiting
+Ayesha,MuhammadArif,BIT-22F-030,BS(Hons),Computer,S 3,52.9,2.83,Waiting
+MuhammadAmmad,MuhammadSiddique,CSC-22S-107,BS(Hons),Computer,S 3,90.9,2.81,Waiting
+GhaniaGhayas,Ghayasuddin,CSC-22F-195,BS(Hons),Computer,S 3,83.58,2.81,Waiting
+SyedaKaneezHaider Ja,SyedHaiderMehdiJaf,BIT-22F-023,BS(Hons),Computer,S 3,75.73,2.8,Waiting
+FaizanIqbal,PervezIqbal,CSC-23S-020,BS(Hons),Computer,S 3,64,2.8,Waiting
+UsamaGulsher,UsamaGulsher,BCB-22F-002,BS(Hons),Computer,S 3,57,2.8,Waiting
+MuhammadZeeshan,MuhammadRafique,BIT-22F-001,BS(Hons),Computer,S 3,51,2.8,Waiting
+KhudaBux,AllahDino,CSC-23F-259,BS(Hons),Computer,S 3,68.27,2.79,NotSelected
+HafizMudassirHusain,MuhammadMoqeem,100026297,BS(Hons),Computer,S 3,76.43,2.76,NotSelected
+MuhammadUmar,MuhammadAshraf,BIT-22F-012,BS(Hons),Computer,S 3,86.84,2.75,NotSelected
+Muhammadamir,MuhammadSadiq,CSC-22S-104,BS(Hons),Computer,S 3,69.2,2.75,NotSelected
+MuhammadBurhan,NadeemAhmedShah,CSC-22S-116,BS(Hons),Computer,S 3,70,2.74,NotSelected
+AreebaJameel,JameelAhmed,BIT-23S-055,BS(Hons),Computer,S 3,68.09,2.74,NotSelected
+MuhammedSalman,TalmeenKhan,CSC-22S-156,BS(Hons),Computer,S 3,67.18,2.72,NotSelected
+MuhammadTalhaZafa,rZafar Ali,CSC-22S-148,BS(Hons),Computer,S 3,65,2.7,NotSelected
+Shahmirzafar,Zafar iqbal,BCB-22F-022,BS(Hons),Computer,S 3,64.72,2.7,NotSelected
+ITBAN AHMED,RAHEELAhmed,CSC-22S-061,BS(Hons),Computer,S 3,64,2.7,NotSelected
+MuhammadAnasAwan,MuhammadBashir,BCB-23S-018,BS(Hons),Computer,S 3,58,2.68,NotSelected
+ShayanNasir,Nasirmemon,CSC-22S-185,BS(Hons),Computer,S 3,74.5,2.67,NotSelected
+Maham,Irfan,Bit-22f-043,BS(Hons),Computer,S 3,71.5,2.64,NotSelected
+SyedMuhammadAsim,SyedMuhammadKazi,BIT-22S-053,BS(Hons),Computer,S 3,79.09,2.62,NotSelected
+InsharaAshfaq,AshfaqAhmed,BIT-23S-076,BS(Hons),Computer,S 3,70,2.62,NotSelected
+MuhammadBurhan,MuhammadAnwer,BIT-23S-042,BS(Hons),Computer,S 3,56.18,2.62,NotSelected
+MUHAMMADAHSANSI,MUHAMMADSIDDIQU,CSC-22S-102,BS(Hons),Computer,S 3,74.18,2.61,NotSelected
+GhulamRasool,MuhammadBashir,BIT-23S-009,BS(Hons),Computer,S 3,76.5,2.6,NotSelected
+MazharAli,MuhammadIshaque,CSC-22F-134,BS(Hons),Computer,S 3,70,2.58,NotSelected
+ArsalanUddin,ZakiUddin,CSC-23S-307,BS(Hons),Computer,S 3,59.87,2.58,NotSelected
+MuhammadSalman,MuhammadNawaz,CSC-23S-288,BS(Hons),Computer,S 3,69,2.57,NotSelected
+Sagar,Ramchand,CSC-23S-113,BS(Hons),Computer,S 3,93.63,2.56,NotSelected
+AliAhmedMughal,Abdulkhaliq,BIT-22F-016,BS(Hons),Computer,S 3,71.89,2.56,NotSelected
+Kholaumbreen,Shafiqahmed,BIT-22F-011,BS(Hons),Computer,S 3,55.18,2.56,NotSelected
+ZohaibZaka,ZakaUllah,BCB-23S-008,BS(Hons),Computer,S 3,56.74,2.55,NotSelected
+HadiHussain,ZakirHussain,CSC-23S-205,BS(Hons),Computer,S 3,74.5,2.54,NotSelected
+MuhammadAnus,MuhammadAnis,CSC-22F-043,BS(Hons),Computer,S 3,68.82,2.54,NotSelected
+AliyanSaleem,AbdulSaleem,BIT-22F-025,BS(Hons),Computer,S 3,59.18,2.52,NotSelected
+KasibKhan,AbdulRashidKhan,BIT-22S-018,BS(Hons),Computer,S 3,53,2.52,NotSelected
+UkashaYousfani,MuhammadRashidyo,35,BS(Hons),Computer,S 3,86.91,2.5,NotSelected
+SaqibSaleem,Muhammadsaleem,CSC-23S-026,BS(Hons),Computer,S 3,76.84,2.49,NotSelected
+MuhammadUmais,Naziramed,CSC-23S-224,BS(Hons),Computer,S 3,50.82,2.47,NotSelected
+MuhammadUmer Jatoi,AliHassanJatoi,BCB-23S-012,BS(Hons),Computer,S 3,76.73,2.46,NotSelected
+NareshKumar,BharatKumar,CSC-23S-098,BS(Hons),Computer,S 3,81.09,2.45,NotSelected
+Sharjeel Khan,ArshadKhan,Csc-22F-087,BS(Hons),Computer,S 3,72.85,2.45,NotSelected
+KamilHussain,Mirzaali,Bit-22f-005,BS(Hons),Computer,S 3,51.54,2.44,NotSelected
+Hamzaahmed,Idreesahmed,BCB-22F-015,BS(Hons),Computer,S 3,63,2.41,NotSelected
+Haleema,MMithal,BIT-22S-013,BS(Hons),Computer,S 3,60.6,2.41,NotSelected
+MuhammadUmer Iqba,lShahidIqbal,BIT-22S-037,BS(Hons),Computer,S 3,53.36,2.41,NotSelected
+MuhammadUmer Faro,oJamilAhmed,CSC-23S-021,BS(Hons),Computer,S 3,69,2.4,NotSelected
+Tanveer,Sikandar Ali,CSC-22F-092,BS(Hons),Computer,S 3,71.18,2.39,NotSelected
+MahmedShahidHussa,MahmedShahidHuss,CSC-22S-076,BS(Hons),Computer,S 3,60.23,2.32,NotSelected
+Dilzaibkhan,NoorUlAminkhan,BCB23S007,BS(Hons),Computer,S 3,56,2.32,NotSelected
+MuhammadBilalAnsar,AbdulKhaliq,CSC-23S-271,BS(Hons),Computer,S 3,66.45,2.29,NotSelected
+JaseemKhan,JavedKhan,CSC-22S-230,BS(Hons),Computer,S 3,66.98,2.23,NotSelected
+HamzaShaikh,Sualeheen,CSC-22S-124,BS(Hons),Computer,S 3,60.27,2.22,NotSelected
+MuhammadAsim,MuhammadAfsarHus,BIT-23S-069,BS(Hons),Computer,S 3,61.27,2.17,NotSelected
+ShahidHussain,MuhammadHussainC,CSC-22F-058,BS(Hons),Computer,S 3,84.55,2.14,NotSelected
+MuhammadBabarAliB,MuhammadAbrarulH,BIT-23S-024,BS(Hons),Computer,S 3,87.6,2.13,NotSelected
+AdnanAli,Mhanif,BIT-22F-027,BS(Hons),Computer,S 3,84.82,2.1,NotSelected
+ZaidShahid,Shahidanwar,BCB-23S-030,BS(Hons),Computer,S 3,52.65,2.09,NotSelected
+MkazimHussain,TahirHussain,CSC-22F-138,BS(Hons),Computer,S 3,60,2.07,NotSelected
+IkramAsghar,IkramAsghar,BIT-23S-045,BS(Hons),Computer,S 3,69,2.06,NotSelected
+SyedMunhamirAli,SyedMunirAli,CSC-22F-133,BS(Hons),Computer,S 3,55.75,2.01,NotSelected
+MuhammadAsif,SiddiqueAhmed,CSC-22F-121,BS(Hons),Computer,S 3,57.18,1.92,NotSelected
+Alkamajabbar,Abduljabbar,BCB-22f-025,BS(Hons),Computer,S 3,78.78,1.9,NotSelected
+MuhammadNabilAkba,AkbarHussain,CSC-22F-141,BS(Hons),Computer,S 3,77.88,1.8,NotSelected
+HuzaifaNaved,HuzaifaNaved,CSC-22S-056,BS(Hons),Computer,S 3,65,1.73,NotSelected
+ChiragKumar,PardeepKumar,CSC-22F-108,BS(Hons),Computer,S 3,75.9,1.71,NotSelected
+sanjesh,saroopo,BIT-23S-058,BS(Hons),Computer,S 3,80.8,1.38,NotSelected
+saqibalisoomro,sabiralisoomro,BIT-23S-073,BS(Hons),Computer,S 3,69.45,0.73,NotSelected
+AhsanAhmed,MuhammadAhmed,CSC-22S-254,BS(Hons),Computer,S 4,67.73,3.39,Selected
+MohammadAnasRaza,AbdulLatif,BIT-22S-022,BS(Hons),Computer,S 4,72,3.31,Selected
+AnoushaRizwan,MuhammadRizwanSi,BCB-23F-001,BS(Hons),Computer,S 4,65.64,3.3,Selected
+MuhammadUmar Bash,BasharatAli,CSC-22S-151,BS(Hons),Computer,S 4,83.9,3.27,Selected
+MuhammadQaviAshra,MuhammadAshraf,CSC-22S-143,BS(Hons),Computer,S 4,63.03,3.21,Selected
+MuhammadHananBal,oIqbalHussainBaloch,CSC-22S-125,BS(Hons),Computer,S 4,55.58,3.21,Selected
+MuhammadSibtainRaz,GhulamHussain,CSC-21F-083,BS(Hons),Computer,S 4,74.5,3.2,Selected
+MuhammadHusnain,MuhammadNadeem,CSC-22S-239,BS(Hons),Computer,S 4,53,3.2,Selected
+MuhammadZubair,Tahir,CSC-21F-092,BS(Hons),Computer,S 4,82.23,3.18,Selected
+NokhaizAhmed,Naseer Ahmed,CSC-21F-099,BS(Hons),Computer,S 4,79,3.1,Selected
+Maham,Shahbazkhan,CSC-22S-078,BS(Hons),Computer,S 4,58.72,3.1,Selected
+MuhammadShaheer,MuhammadRafique,CSC-21F-081,BS(Hons),Computer,S 4,56.73,3.1,Selected
+AsifAliPaleejo,MumtazHussainPale,BIT-22S-009,BS(Hons),Computer,S 4,53.53,3.1,Selected
+AbdulHaseeb,MohammadImran,CSC-22S-009,BS(Hons),Computer,S 4,57.55,3.07,Selected
+HafizHammadAhmed,MuhammadIshaq,BCB-22S-007,BS(Hons),Computer,S 4,51.9,3.05,Selected
+SMUZAMMILJAVED,MUHAMMADJAVED,CSC-22S-172,BS(Hons),Computer,S 4,83,3.04,Selected
+MuhammadIbtesam,MuhammadKhaliq,CSC-22S-132,BS(Hons),Computer,S 4,78.63,3.03,Selected
+AtifAliBanbhan,HatimAli,CSC-22S-226,BS(Hons),Computer,S 4,59.91,3.03,Selected
+ZeeshanShah,ShahnawazZafar,CSC-22S-218,BS(Hons),Computer,S 4,77.72,3.02,Selected
+SyedAhmedShah,ManzoorUlHaq,CSC-22S-194,BS(Hons),Computer,S 4,71,3.02,Selected
+Sahil,RahibAli,CSC-21F-111,BS(Hons),Computer,S 4,86,3.01,Selected
+SyedSaudAhmedChis,SyedSaudAhmedChi,CSC-22S-197,BS(Hons),Computer,S 4,77.55,3,Selected
+SouravKirshanLalan,Kirshan,CSC-22S-189,BS(Hons),Computer,S 4,69.5,3,Selected
+MuhammadAli,MuhammadAli,CSC-22S-103,BS(Hons),Computer,S 4,65.91,3,Selected
+Fatimaasif,Asifsarfaraz,CSC-22S-041,BS(Hons),Computer,S 4,70.55,2.98,Selected
+IBADSHAKIL,SHAKILAHMED,CSC-20S-148,BS(Hons),Computer,S 4,72,2.96,Selected
+Sameer punnolal,PunnoLal,CSC-22S-177,BS(Hons),Computer,S 4,59.71,2.96,Selected
+AbdulRafay,AsgharAli,CSC-22S-011,BS(Hons),Computer,S 4,82.82,2.92,Selected
+Sualihaasad,MuhammadAsadkhal,BCB-22S-029,BS(Hons),Computer,S 4,76,2.91,Selected
+GhulamAli,AliNawaz,CSC-22S-045,BS(Hons),Computer,S 4,69.7,2.91,Selected
+MuhammadAli,MuhammadSharif,100021269,BS(Hons),Computer,S 4,55.56,2.91,Waiting
+AbdulWaliShah,AbdulWahabKhanlat,CSC-21S-005,BS(Hons),Computer,S 4,70.75,2.9,Waiting
+MuhammadSufiyan,MuhammadFarhan,CSC-21S-097,BS(Hons),Computer,S 4,50.36,2.89,Waiting
+Sumeetkumar,Bhoorji,CSC-22S-191,BS(Hons),Computer,S 4,76.27,2.88,Waiting
+MuhammadQamarudd,MuhammadSalahudd,CSC-22S-240,BS(Hons),Computer,S 4,53,2.84,Waiting
+MuhammadIssa,TauseefAhmedBaloc,CSC-22S-134,BS(Hons),Computer,S 4,89.36,2.83,Waiting
+AbdulBari,GhulamFarooq,BIT-22S-001,BS(Hons),Computer,S 4,57.18,2.83,Waiting
+AliSuleman,ArifKhan,CSC-21F-017,BS(Hons),Computer,S 4,54.5,2.8,Waiting
+MuhammadSameer,MuhammadIqbal,CSC-21F-113,BS(Hons),Computer,S 4,49.9,2.8,Waiting
+RanaIfrazHaider,Zafar Iqbal,BCB-22S-026,BS(Hons),Computer,S 4,59.18,2.77,NotSelected
+MuhammadHamza,Abdulsattar,CSC-22S-237,BS(Hons),Computer,S 4,73.58,2.75,NotSelected
+MuhammadSubanSaq,MuhammadSubanSa,CSC-22S-256,BS(Hons),Computer,S 4,57,2.75,NotSelected
+Shehryarhasan,Hasannaseer,CSC-21F-124,BS(Hons),Computer,S 4,80,2.71,NotSelected
+MuhammadHuzaif,NisarHussain,BIT-22S-030,BS(Hons),Computer,S 4,77,2.71,NotSelected
+SyedSalmanAli,SyedAbidAli,CSC-22S-196,BS(Hons),Computer,S 4,55,2.71,NotSelected
+SyedMunaamAli,SyedZafarAliKazmi,BCB-22S-031,BS(Hons),Computer,S 4,57.06,2.7,NotSelected
+RaheelAsif,MuhammadAsif,CSC-25S-625,BS(Hons),Computer,S 4,66.09,2.64,NotSelected
+AbdulAhmerkhan,AbdulHameedkhan,CSC-22S-005,BS(Hons),Computer,S 4,69.36,2.63,NotSelected
+MoizAhmedKhan,TalatJavaid,CSC-22S-089,BS(Hons),Computer,S 4,68.29,2.54,NotSelected
+KAPILDEV ALIASKIRSH,KHENRAJMAL,CSC-22S-072,BS(Hons),Computer,S 4,81.81,2.53,NotSelected
+MuhammadHuzaifaRi,aMuhammadRiazJan,CSC-22S-129,BS(Hons),Computer,S 4,49.64,2.53,NotSelected
+ShomaielKhan,MuhammadSarfarazK,CSC-22S-187,BS(Hons),Computer,S 4,77.52,2.51,NotSelected
+RasbaAkhtar,MuhammadAkhtar,CSC-22S-166,BS(Hons),Computer,S 4,70.03,2.51,NotSelected
+SyedZainAbbas,SyedHaider abbas,CSC-22S-198,BS(Hons),Computer,S 4,69.69,2.49,NotSelected
+MUBASHERMUKHTAR,MukhtarAhmed,2233011053,BS(Hons),Computer,S 4,62.36,2.49,NotSelected
+Ibtihajahmed,Mateen ahmed,CSC-22S-058,BS(Hons),Computer,S 4,58.8,2.45,NotSelected
+MukarramKhan,Moinkhan,BCB-23S-043,BS(Hons),Computer,S 4,86.7,2.29,NotSelected
+Daniyalahmed,Bilalahmed,CSC-22S-228,BS(Hons),Computer,S 4,60,2.28,NotSelected
+MuhammadHadikhan,MuhammadNaseemk,CSC-22S-120,BS(Hons),Computer,S 4,72.8,2.26,NotSelected
+ZubairAnsari,KabirAhmedAnsari,CSC22F002,BS(Hons),Computer,S 4,57.16,2.14,NotSelected
+Kunal KamleshKumar,KamleshKumar,100016630,BS(Hons),Computer,S 4,75.63,1.92,NotSelected
+RoohUlHasnain,MuhammadRaqeeb,MSC-23S-003,MS/M.Phil,Computer,S 1,69.09,3.6,Selected
+ZawarLodhiKhan,MuhammafArifKhanL,MSC-25S-010,MS/M.Phil,Computer,S 1,62.09,2.93,Waiting
+ABDULRASHEED,SHAHMUHAMMAD,MSC-25S-005,MS/M.Phil,Computer,S 1,60.5,2.58,NotSelected
+MuhammadZaheer kha,Sanaullahkhan,Csc-25s-684,MS/M.Phil,Computer,S 1,90.2,2.41,NotSelected
+SufyanMuhammadKha,SherJanKhan,PCS-23S-001,PhD(5year,Computer,S 2,72,3.66,Waiting
+Sharjeel Ahmed,Sharjeel Ahmed,PCS-23F-003,PhD(5year,Computer,S 2,65.91,3.55,Waiting
+GhulamSarfarazKhan,GhulamMustafaKhan,PCS-23F-004,PhD(5year,Computer,S 2,55.09,3.15,Waiting
+SahilKumar,KishoreKumar,BIT-23F-006,PhD(5year,Computer,S 2,73.84,2,NotSelected
+AmjadAliKhawaja,AslamHussainKhawa,PCS-21F-002,PhD(5year,Computer,S 4,76.78,3.55,Waiting
+ZeeshanAhmad,HafizSagheer Ahmad,PCS-21S-011,PhD(5year,Computer,S 4,60.55,3.03,Waiting
+SadafSharif,MuhammadSharifSha,PCS-21F-007,PhD(5year,Computer,S 4,55.36,2.38,NotSelected
+ZubairUdDin,DinMuhammadShaik,PCS-21S-012,PhD(5year,Computer,S 5,79,3.66,Waiting
+JamilKhan,SaidBadshah,BUS-24F-079,BBA,BusinessA,d 1,78.09,3.94,Selected
+Emaan,SherKhan,BUS-24S-088,BBA,BusinessA,d 1,61.64,3.78,Selected
+ZainabAnwer,MuhammadAnwer,BUS-24F-049,BBA,BusinessA,d 1,61.45,3.58,Selected
+SabikaAli,AijazAhmed,BUS-24S-027,BBA,BusinessA,d 1,81.36,3.57,Selected
+Maryam,AbdulRazzak,BUS-24S-024,BBA,BusinessA,d 1,64.73,3.55,Selected
+Faizakhatoon,AliAkbar,BUS-25S-016,BBA,BusinessA,d 1,87.64,3.51,Selected
+MuhammadSarim,MuhammadNasir,BUS-24F-056,BBA,BusinessA,d 1,61,3.5,Selected
+Alishbah,AbdulHabib,BUS-23S-102,BBA,BusinessA,d 1,85,3.47,Selected
+TahaSiddiqui,MuhammadSufyanSi,Bus-24s-126,BBA,BusinessA,d 1,57.9,3.4,Selected
+Gohar,Yar Muhammad,BUS-24S-005,BBA,BusinessA,d 1,78.27,3.39,Selected
+RajeshKumar,DanoMal,BUS-25S-003,BBA,BusinessA,d 1,83.45,3.34,Selected
+Zainab,SultanAhmedOdho,BUS-24S-104,BBA,BusinessA,d 1,80.91,3.32,Selected
+RazaAliHussainMako,ShahidHussainMako,BUS-25S-075,BBA,BusinessA,d 1,82.27,3.29,Selected
+SadafFatima,Askerithawerani,Bus-24f-017,BBA,BusinessA,d 1,62.69,3.29,Selected
+Mehwish,Ismailshah,BUS-24S-028,BBA,BusinessA,d 1,73.62,3.26,Selected
+Muhammadmustafa,Alihyder,Bus-24s-114,BBA,BusinessA,d 1,65.27,3.21,Selected
+SaamiJamshed,JamshedAli,BUS-25S-022,BBA,BusinessA,d 1,73.45,3.16,Waiting
+HadiqaKanwal,Abdulsattar,Bus-24s-110,BBA,BusinessA,d 1,72.9,3.16,Waiting
+AlishbaShaikh,AleemUddinShaikh,BUS-24F-010,BBA,BusinessA,d 1,78.74,3.12,Waiting
+MahamMunawar,SyedMunawarAli,BUS-24F-103,BBA,BusinessA,d 1,76.81,3.12,Waiting
+ZainabAsif,MuhammadAsif,bus-25s-603,BBA,BusinessA,d 1,74.18,3.12,Waiting
+Khizar Rehman,AbdulRahman,BUS-24F-002,BBA,BusinessA,d 1,68.27,3.12,Waiting
+AhmedRaza,MuhammadAli,BUS-25S-607,BBA,BusinessA,d 1,77.64,3.11,Waiting
+FIZZATASHAD,ASHADNISAR,BUS-24S-020,BBA,BusinessA,d 1,52.73,3.1,Waiting
+HamailNoor,KhalidMehmood,BUS-24S-034,BBA,BusinessA,d 1,77.8,3.08,Waiting
+Parkash,Bheemji,BUS-24F-111,BBA,BusinessA,d 1,51.06,3.06,Waiting
+MuhammadSaqlain,UbaidUrRehman,BUS-24F-629,BBA,BusinessA,d 1,55,3.04,Waiting
+MuhammadShoaib,AllahBachaya,BUS-24s-072,BBA,BusinessA,d 1,68,3.03,Waiting
+ayinarehmani,abdulqadirrehmani,BUS-25s-606,BBA,BusinessA,d 1,73.91,2.99,Waiting
+SohailAslam,MohammadAslam,BUS-24S-013,BBA,BusinessA,d 1,72.58,2.95,Waiting
+IbaadAli,GhulamMurtaza,BUS-24S-061,BBA,BusinessA,d 1,90.55,2.93,Waiting
+Sawaimal,Moolchand,BUS-25S-031,BBA,BusinessA,d 1,72.64,2.91,Waiting
+Pardeep,Ramesh,BUS-25S-029,BBA,BusinessA,d 1,71.82,2.87,Waiting
+ESSHA AHMED,SAEEDAHMED,BUS-24S-052,BBA,BusinessA,d 1,68.55,2.86,Waiting
+Muskan,IzharAhmed,BUS-25S-015,BBA,BusinessA,d 1,86.9,2.85,Waiting
+AlizaSafdar,Safdar Hussain,BUS-24F-078,BBA,BusinessA,d 1,80.57,2.79,NotSelected
+KashanMallick,MuhammadSabahudd,BUS-24S-022,BBA,BusinessA,d 1,56.36,2.76,NotSelected
+AsadKashif,MuhammadKashif,BUS-24S-081,BBA,BusinessA,d 1,69.91,2.75,NotSelected
+MuhammadAdnan,Umerhayat,BUS-24S-082,BBA,BusinessA,d 1,72,2.73,NotSelected
+Hooryaateeq,AteeqAhmed,BUS-25S-061,BBA,BusinessA,d 1,68,2.72,NotSelected
+MuhammadNabiBux,MuhammadIsmail,Bus-25s-019,BBA,BusinessA,d 1,67.64,2.71,NotSelected
+shafiqueahmed,mohammadsharif,Bus-24f-101,BBA,BusinessA,d 1,69.55,2.64,NotSelected
+MunizaHaroon,MuhammadHaroon,BUS-25S-012,BBA,BusinessA,d 1,65.91,2.55,NotSelected
+SyedMuhammadMoiz,SyedMuhammadRae,BUS-24S-017,BBA,BusinessA,d 1,64.73,2.47,NotSelected
+AimanNadeem,MuhammadNadeem,BUS-24s-125,BBA,BusinessA,d 1,52.91,2.47,NotSelected
+MuhammadAhmed,MuhammadAmin,BUS-25S-615,BBA,BusinessA,d 1,60,2.4,NotSelected
+MohsinAli,Qamaruddin,BUS-24S-165,BBA,BusinessA,d 1,48.64,2.35,NotSelected
+Hamzazaheer khan,ZaheeruddinKhan,Bus-24f-100,BBA,BusinessA,d 1,70,2.25,NotSelected
+mahamwaheed,waheedali,BUS-24S-108,BBA,BusinessA,d 1,61.36,2.24,NotSelected
+ArshanIsmail,MuhammadIsmail,BUS-24S-015,BBA,BusinessA,d 1,62.66,2.21,NotSelected
+ZULQARNIANABBAS,GHULAMABBAS,Bus-24s-026,BBA,BusinessA,d 1,68.68,2.19,NotSelected
+Manal,Shahid,Bus-24S-169,BBA,BusinessA,d 1,63.56,2.18,NotSelected
+Faizan,Zain,BUS-24F-632,BBA,BusinessA,d 1,57,2.06,NotSelected
+ShahzainAli,AbdulHameed,BUS-24S-055,BBA,BusinessA,d 1,75.5,1.66,NotSelected
+MuhammadUmair,MujeeburRehman,Bus-24s-032,BBA,BusinessA,d 1,80,1.25,NotSelected
+Mustafa,Abdulqadir,BUS-24S-101,BBA,BusinessA,d 1,71,1.23,NotSelected
+RizwanAhmed,Sikandar Ali,Bus-24f-085,BBA,BusinessA,d 1,73.73,0.38,NotSelected
+HamidKhan,MuhammadKhan,BUS-24S-039,BBA,BusinessA,d 1,75.5,0.3,NotSelected
+Ifrakhan,MRazakhan,BUS-23F-030,BBA,BusinessA,d 2,83.73,3.77,Selected
+WajahatAliKhan,SajjadKhan,BUS-23F-067,BBA,BusinessA,d 2,81,3.76,Selected
+zunera,Ibrahimhingora,BUS-23F-003,BBA,BusinessA,d 2,87.64,3.72,Selected
+VarishaAbdulKarim,Abdulkarim,Bus-23s-038,BBA,BusinessA,d 2,84.09,3.65,Selected
+SINDHUKOTHARI,DILEEPKUMARKOTHA,BUS-23F-048,BBA,BusinessA,d 2,78.72,3.64,Selected
+Muhammad,MuhammadAshraf,BUS-23S-126,BBA,BusinessA,d 2,76.18,3.44,Selected
+SAQIB MEHMOOD,KHALIDMEHMOOD,BUS-23F-027,BBA,BusinessA,d 2,81.27,3.42,Selected
+Sania,Muhammadirshad,BUS-22F-144,BBA,BusinessA,d 2,70.64,3.41,Selected
+Manal,Salman,Bus-23s-023,BBA,BusinessA,d 2,70.73,3.36,Selected
+SIDRA,USMANGHANI,BUS23F047,BBA,BusinessA,d 2,85,3.35,Selected
+Muqaddasbatool,MuhammadAslam,BUS-23S-206,BBA,BusinessA,d 2,84.18,3.32,Selected
+Farheenqurba,MuhammadToufeeqA,BUS-23S-048,BBA,BusinessA,d 2,78.09,3.32,Selected
+SyedaBatoolZaidi,SyedZahidHussainZa,BUS-23S-098,BBA,BusinessA,d 2,65.64,3.32,Selected
+MuhammadMustaqee,mMuhammadHanif,BUS-23S-511,BBA,BusinessA,d 2,56.45,3.32,Selected
+AreebaIrfan,Irfantasadduq,Bus-23s-021,BBA,BusinessA,d 2,77.64,3.29,Selected
+MuhammadEhtisham,GhulamHaider,BUS-23S-001,BBA,BusinessA,d 2,64.73,3.28,Selected
+Hiba,Jawed,Bus-23s-057,BBA,BusinessA,d 2,62.55,3.26,Waiting
+Arisha,MuhammadIqbal,BUS-23S-125,BBA,BusinessA,d 2,74.64,3.22,Waiting
+Tanveer Hussain,MuneerHussain,BUS-23S-199,BBA,BusinessA,d 2,63.8,3.22,Waiting
+Jaweria,Shakir,BUS-23F-009,BBA,BusinessA,d 2,68.75,3.21,Waiting
+TalhaTariq,MuhammadTariq,BUS-23S-198,BBA,BusinessA,d 2,48.91,3.2,Waiting
+Sadia,MuhammadAmin,BUS-23S-015,BBA,BusinessA,d 2,71.82,3.19,Waiting
+Reevanaeem,Muhammadnaeem,BUS23F010,BBA,BusinessA,d 2,68.9,3.12,Waiting
+HamzaAli,ImtiazAhmed,BUS-23S-105,BBA,BusinessA,d 2,65.09,3.1,Waiting
+MuhammadAli,MuhammadYousuf,BUS-23S-062,BBA,BusinessA,d 2,55,3.1,Waiting
+IRSAKHAN,DILDARKHAN,BUS-23S-006,BBA,BusinessA,d 2,60.59,3.05,Waiting
+Ayesha,Shoukat,BUS-23S-076,BBA,BusinessA,d 2,56.55,3.02,Waiting
+SanaRubab,Imdadullah,BUS-23S-146,BBA,BusinessA,d 2,51.36,3.02,Waiting
+Furqan,Lal bakhsh,BUS-23S-091,BBA,BusinessA,d 2,73,3.01,Waiting
+Rimsha,MuhammadAtique,BUS-23S-122,BBA,BusinessA,d 2,75.88,3,Waiting
+HibaAfreen,Mohammadshafiq,BUS-23S-011,BBA,BusinessA,d 2,72.18,2.96,Waiting
+MuhammadFaizanGho,MuhammadIqbal,BUS-23S-092,BBA,BusinessA,d 2,80.1,2.94,Waiting
+MuhammadYasirAli,Shaukatali,BUS-23S-153,BBA,BusinessA,d 2,66.45,2.93,Waiting
+YumnaNaeem,AhmedNaeem,BUS-24S-059,BBA,BusinessA,d 2,70.86,2.92,Waiting
+SanaAli,HazratAli,BUS-23S-185,BBA,BusinessA,d 2,59,2.92,Waiting
+Ayeshasarfaraz,Msarfaraz,BUS-23S-075,BBA,BusinessA,d 2,76.77,2.9,Waiting
+SheikhDanish,KhalilUddin,BUS-23S-103,BBA,BusinessA,d 2,70.7,2.89,Waiting
+Mudasarhasanmemon,Muhammadhashimm,BUS-23S-060,BBA,BusinessA,d 2,73.73,2.88,Waiting
+FahadRamzan,MuhammadRamzan,BUS-23S-080,BBA,BusinessA,d 2,71.41,2.86,Waiting
+ALISHBANARMEENOW,MUHAMMADOWAISS,BUS-24S-018,BBA,BusinessA,d 2,67.27,2.86,Waiting
+KabeerAhmed,ImamBakhsh,BUS-23S-176,BBA,BusinessA,d 2,48,2.86,Waiting
+MuhammadArmaghan,MuhammadAsif,BPA-23S-024,BBA,BusinessA,d 2,80,2.83,Waiting
+MuhammadUsamaSal,MuhammadSaleem,BUS-24F-310,BBA,BusinessA,d 2,59.5,2.8,Waiting
+tahreem,azharnoor,BUS-23F-066,BBA,BusinessA,d 2,65.72,2.76,NotSelected
+MoazamAli,MushtaqAhmed,BUS-23F-092,BBA,BusinessA,d 2,72.27,2.69,NotSelected
+Hamzanadir,NadirAli,BUS-23S-087,BBA,BusinessA,d 2,61.9,2.69,NotSelected
+Fiza,MuhammadAqeel,BUS-23S-172,BBA,BusinessA,d 2,67,2.68,NotSelected
+KashishNaseer,Naseer AhmedMallah,BUS-23S-027,BBA,BusinessA,d 2,75,2.67,NotSelected
+Gulnaz,JanMuhammad,BUS-24F-306,BBA,BusinessA,d 2,65.5,2.66,NotSelected
+HassanNasrullah,MohsinNajfi,BUS-23F-059,BBA,BusinessA,d 2,80.53,2.65,NotSelected
+Kehkashannaseer,Naseer Ahmedmallah,BUS-23S-026,BBA,BusinessA,d 2,75.5,2.65,NotSelected
+Hifsa,AshfaqHussain,BUS-23S-132,BBA,BusinessA,d 2,72.46,2.65,NotSelected
+MUHAMMADABRAR,MUHAMMADISMAIL,BUS-23S-194,BBA,BusinessA,d 2,71.73,2.61,NotSelected
+Kainat,Furqan,Bus-23f-058,BBA,BusinessA,d 2,68,2.59,NotSelected
+AreezAhmed,MuhammadSultan,BUS-23S-212,BBA,BusinessA,d 2,74,2.57,NotSelected
+Mehwishfatima,MohsinAli,Bus-23f-013,BBA,BusinessA,d 2,63,2.57,NotSelected
+Muhammadmaazansa,Riazahmed,BUS-23S-119,BBA,BusinessA,d 2,70.45,2.53,NotSelected
+Mahnoorkhan,abrarahmedkhan,bus-23s-037,BBA,BusinessA,d 2,70.6,2.51,NotSelected
+MuneezaRajab,RajabAli,BUS-23F-105,BBA,BusinessA,d 2,50.73,2.48,NotSelected
+MUHAMMADHASSAN,ABDULHAMID,BUS-23F-116,BBA,BusinessA,d 2,61.82,2.47,NotSelected
+ShahmirGul,GulNawaz,BUS-23S-219,BBA,BusinessA,d 2,47.2,2.42,NotSelected
+SyedAbdulWahabSha,hSyedMehrabShah,BUS-23S-068,BBA,BusinessA,d 2,60.45,2.38,NotSelected
+Hesham,Muhammadyousuf,Bus-23F-115,BBA,BusinessA,d 2,90.72,2.37,NotSelected
+LakshaKumari,Ashokkumar,BUS-24S-112,BBA,BusinessA,d 2,86.83,2.36,NotSelected
+MuhmmadUsaid,Mohsin,BUS-23S-184,BBA,BusinessA,d 2,48.54,2.34,NotSelected
+Umah,Faqira,Bus-23f-055,BBA,BusinessA,d 2,67.05,2.31,NotSelected
+MuhammadAzhar Hus,sLeemon,BUS-23S-169,BBA,BusinessA,d 2,63.18,2.22,NotSelected
+MuhammadAliyan,MuhammadImran,Bus-23s-140,BBA,BusinessA,d 2,73,2.21,NotSelected
+Vanisha,Vasdev,BUS-23F-007,BBA,BusinessA,d 2,83.82,2.18,NotSelected
+MuhammadWajid,KassimAli,BPA-23S-005,BBA,BusinessA,d 2,63,2.15,NotSelected
+MuhammadHasan,MuhammadHasan,Bus-23s-029,BBA,BusinessA,d 2,67.54,2.14,NotSelected
+AliMuhammad,MuhammadHadi,Bus-23f-042,BBA,BusinessA,d 2,73.49,2.12,NotSelected
+Shahzaib,Shakeel,BUS-24S-143,BBA,BusinessA,d 2,50,2.09,NotSelected
+Sameer SajjadBhatti,MSajjadBhatti,BUS-23S-123,BBA,BusinessA,d 2,65.55,2.06,NotSelected
+WAJIDATTA,ATTAMUHAMMAD,Bus-23S-187,BBA,BusinessA,d 2,49,2.03,NotSelected
+Naveen,Devraj,BUS-23S-094,BBA,BusinessA,d 2,56.27,1.97,NotSelected
+AsadullahLashari,AliAsgharLashari,BUS-23F-001,BBA,BusinessA,d 2,85.69,1.79,NotSelected
+Muhammadmaaz,AbdulRazzaq,Bus-23s-164,BBA,BusinessA,d 2,50.73,1.6,NotSelected
+MuhammadHassan,MuhammadArif,BUS-23F-060,BBA,BusinessA,d 2,56.64,1.39,NotSelected
+muhammadhuzaifa,abdulkhaliq,BUS-23s-200,BBA,BusinessA,d 2,78.8,1.3,NotSelected
+ABDULAHAD,ABDULNABI,BUS-24S-097,BBA,BusinessA,d 2,72.63,1.3,NotSelected
+TARIQNAWAZ,MUHAMMADNAWAZA,BUS-23S-120,BBA,BusinessA,d 3,66.73,3.65,Selected
+AyeshaShoaib,MuhammadShoaib,Bus-22F-038,BBA,BusinessA,d 3,86.82,3.64,Selected
+Laibabinteshahid,Shahidpervaiz,BUS-22S-059,BBA,BusinessA,d 3,92.04,3.54,Selected
+RubaishaZaib,AmanatAli,BUS-23S-053,BBA,BusinessA,d 3,82.91,3.52,Selected
+EeshaSiddiqui,MuhammadYaseenSi,BUS-23S-167,BBA,BusinessA,d 3,70.9,3.49,Selected
+Fizra Mumtaz,ShahidMumtaz,BUS-23S-106,BBA,BusinessA,d 3,51,3.44,Selected
+SABEELASHAHID,RIFFASTSHAHID,BUS-23F-217,BBA,BusinessA,d 3,71,3.4,Selected
+KiranTufail,MuhammadTufail,BUS-23F-207,BBA,BusinessA,d 3,69,3.36,Selected
+UmaidAliAhmed,MuhammadAliAhmed,BUS-22F-029,BBA,BusinessA,d 3,78.09,3.34,Selected
+Zainabfaiz,Faizpervaiz,BUS-22S-136,BBA,BusinessA,d 3,90,3.32,Selected
+AizazAhmed,EjazAhmed,BUS-23S-197,BBA,BusinessA,d 3,65.81,3.32,Selected
+SaddamHussain,MeharKhanVeeghio,BUS-24S-224,BBA,BusinessA,d 3,63.82,3.29,Selected
+Sarashaikh,ArifHussainshaikh,BUS-22F-005,BBA,BusinessA,d 3,86.73,3.27,Selected
+Madiha,MujeeburRehman,BUS-22F-102,BBA,BusinessA,d 3,55.27,3.25,Selected
+Bismalakhani,Muhammadyaqoobla,Bus-22f-104,BBA,BusinessA,d 3,76.18,3.24,Selected
+fatimakhan,shahidkhan,BUS-22F-049,BBA,BusinessA,d 3,65.5,3.22,Selected
+AmnaArshad,MuhammadArshad,BUS-22F-071,BBA,BusinessA,d 3,77.9,3.2,Waiting
+Mehakkumari,Ashokkumar,Bus-23s-041,BBA,BusinessA,d 3,80.76,3.18,Waiting
+RasheedaMajeed,AbdulMajeed,Bus-23f-214,BBA,BusinessA,d 3,58,3.16,Waiting
+BushraMansoor,MansoorAhmed,BUS-24S-205,BBA,BusinessA,d 3,65.55,3.14,Waiting
+HammasAhmed,IshtiaqueAhmed,BUS-24F-305,BBA,BusinessA,d 3,79.6,3.13,Waiting
+MuhammadRayyan,AbdulRazzaq,BUS-22F-015,BBA,BusinessA,d 3,77.91,3.13,Waiting
+Nida,Sipah,Bus-23f-219,BBA,BusinessA,d 3,77.73,3.13,Waiting
+Sadia,Saddaruddin,BUS-24S-207,BBA,BusinessA,d 3,80.54,3.11,Waiting
+AsadKhan,ShakeelMuhammadk,BUS-22S-021,BBA,BusinessA,d 3,82.23,3.1,Waiting
+Suleman,TariqMahsi,BUS-22F-138,BBA,BusinessA,d 3,68.18,3.08,Waiting
+Ghazi,MuhammadIlyas,BUS-23S-521,BBA,BusinessA,d 3,70.25,3.05,Waiting
+Hassanali,AwnJameel,BUS-23F-215,BBA,BusinessA,d 3,57,3.05,Waiting
+HaiderAli,MuhammadLaiqueBa,BUS-22S-043,BBA,BusinessA,d 3,85.55,3.03,Waiting
+MUHAMMADUSAMA,MUHAMMADMUNEER,BUS-23F-216,BBA,BusinessA,d 3,69.36,2.99,Waiting
+NoshabaNoor,MuhammadZulfiqar,BUS-23F-209,BBA,BusinessA,d 3,49.18,2.99,Waiting
+MuhammadShoaib,SadaqatAli,BUS-22S-165,BBA,BusinessA,d 3,72.36,2.95,Waiting
+SadiaArshad,MuhammadArshad,BUS-23F-202,BBA,BusinessA,d 3,70,2.94,Waiting
+KawishFareed,FareedAhmed,BUS-22F-112,BBA,BusinessA,d 3,53.18,2.93,Waiting
+MuhammadFaizanImr,aMuhammadImran,BUS-22S-077,BBA,BusinessA,d 3,86.91,2.91,Waiting
+MuhammadNomanRa,mMuhammadRamzanB,BUS-22S-085,BBA,BusinessA,d 3,82.8,2.89,Waiting
+Rohifatima,MuhammadAkhter,BUS-22S-104,BBA,BusinessA,d 3,70,2.89,Waiting
+MUHAMMADNAEEM,SAKHIMUHAMMAD,BUS-24F-309,BBA,BusinessA,d 3,58.5,2.86,Waiting
+MuhammadMaaz,MuhammadNaseer,BUS-22S-160,BBA,BusinessA,d 3,81,2.83,Waiting
+MALEEHAFARRUKH,FARRUKHSHAFIQ,BUS-22F-039,BBA,BusinessA,d 3,56.73,2.83,Waiting
+Sidra,MuhammadTaufeeq,BUS-22F-091,BBA,BusinessA,d 3,66.18,2.81,Waiting
+USAMAZALKIFL,MIRAFSARKHAN,BUS-22F-053,BBA,BusinessA,d 3,68.18,2.8,Waiting
+UsamaBajeer,AbdulKarim,BUS-22S-131,BBA,BusinessA,d 3,67.72,2.76,NotSelected
+AishaMashooqueAli,AishaMashooqueAli,Bus-23F-203,BBA,BusinessA,d 3,50.5,2.76,NotSelected
+UmarHassan,MuhammadHassan,BUS22F055,BBA,BusinessA,d 3,59.72,2.75,NotSelected
+munsifkhan,munsifkhan,BUS-22S-093,BBA,BusinessA,d 3,76.67,2.74,NotSelected
+RumaisaDurrani,muhammadiqbalyou,bus-22s-106,BBA,BusinessA,d 3,50.18,2.73,NotSelected
+Shazmina,HajiAbdulSattar,BUS-23F-223,BBA,BusinessA,d 3,48.27,2.7,NotSelected
+AnoshaBhatti,RafiqBhatti,BUS-23S-108,BBA,BusinessA,d 3,46.52,2.7,NotSelected
+MuhammadHaris,Orang Zaib,BUS-22S-156,BBA,BusinessA,d 3,52,2.69,NotSelected
+KainatNaseer,Naseer Ahmed,BUS-22S-056,BBA,BusinessA,d 3,91.82,2.67,NotSelected
+Obaid,UsmanGhani,BUS-22S-101,BBA,BusinessA,d 3,75.82,2.67,NotSelected
+fiza,muhammadAshfaq,bus-22f-088,BBA,BusinessA,d 3,67,2.66,NotSelected
+FarihaImran,ImranAnwer,BUS-22F-077,BBA,BusinessA,d 3,66.55,2.63,NotSelected
+MuhammadShoaib,Azizullah,BUS-22S-087,BBA,BusinessA,d 3,73.75,2.62,NotSelected
+HatishKumar,KaniyaLal,BUS-24S-219,BBA,BusinessA,d 3,55.81,2.6,NotSelected
+Marvi,Saeed,Bus-22s-069,BBA,BusinessA,d 3,75.6,2.52,NotSelected
+Shaguftanaz,Wahidali,BUS-22F-150,BBA,BusinessA,d 3,79.49,2.5,NotSelected
+MuhammadUsman,MuhammadHashim,BUS-22F-134,BBA,BusinessA,d 3,66,2.5,NotSelected
+HamzaTariq,TARIQMASOOD,BUS-23F-222,BBA,BusinessA,d 3,62.43,2.49,NotSelected
+NabeelAkhter,NajafAkhter,BUS-22S-171,BBA,BusinessA,d 3,46.82,2.38,NotSelected
+SyedaKhizraImran,SyedImranAli,BUS-22F-025,BBA,BusinessA,d 3,64,2.13,NotSelected
+MohammadMasoodAh,MuhammadIqbal,BUS-22F-095,BBA,BusinessA,d 3,61.18,2,NotSelected
+WafaMuhammadUsm,aMuhammadUsman,Bus-22s-133,BBA,BusinessA,d 3,60.68,1.97,NotSelected
+ZubairAwan,MuhammadAsifAwan,BUS-22S-168,BBA,BusinessA,d 3,49.62,1.9,NotSelected
+Mahrukh alam,Tanveer Alam,Bus-22s-064,BBA,BusinessA,d 4,60,3.56,Selected
+NehaAnandLasi,JethaNandLasi,Bus-23s-505,BBA,BusinessA,d 4,69,3.39,Selected
+SabeelaShahid,RiffatShahid,Bus-23F-217,BBA,BusinessA,d 4,71,3.3,Selected
+HumairaImran,MohammedImran,BUS-23S-523,BBA,BusinessA,d 4,71,3.24,Selected
+ZEESHAN,MUHAMMADHUSSAIN,BUS-23S-512,BBA,BusinessA,d 4,41.36,3.17,Selected
+HafizAaishaHaneef,MuhammadHaneef,BUS-22S-041,BBA,BusinessA,d 4,68,3.11,Selected
+HafsaHaroon,HaroonAhmed,BUS-22S-042,BBA,BusinessA,d 4,77.45,2.96,Selected
+HarisMoin,Moinuddin,BUS-22F-210,BBA,BusinessA,d 4,75,2.94,Selected
+SyedWahabAliRizvi,SyedAmjadAliRizvi,BUS-23S-525,BBA,BusinessA,d 4,49.27,2.54,NotSelected
+Atifa,Altafahmed,BUS-22S-024,BBA,BusinessA,d 4,65.27,1.97,NotSelected
+SyedaAlishaFatimaRiz,SyedAkhtar Imam,BCM-24S-018,BS(Hons),BusinessA,d 1,53.7,3.2,Selected
+SaweraBibi,MuhammadHaneef,BCM-24S-006,BS(Hons),BusinessA,d 1,66.27,3,Selected
+Janvi,MohanDas,BCM-24S-034,BS(Hons),BusinessA,d 1,46.82,2.78,NotSelected
+MuhammadHasnainK,hQamarUddin,BPA-24S-001,BS(Hons),BusinessA,d 1,69.29,2.49,NotSelected
+ZoyaAmeen,MuhammadAmeen,BPA-24S-003,BS(Hons),BusinessA,d 1,46.91,2.37,NotSelected
+Amnasheikh,Abdulhamid,BPA-24S-002,BS(Hons),BusinessA,d 1,53.18,2.15,NotSelected
+HaseebAhmed,BashirAhmed,BPA-24S-026,BS(Hons),BusinessA,d 1,67.49,1.34,NotSelected
+Kashif,Haroon,BPA-24S-012,BS(Hons),BusinessA,d 1,75,1,NotSelected
+AmaanAbbasi,AmaanAbbasi,BPA24S032,BS(Hons),BusinessA,d 1,74,0.64,NotSelected
+AbdullahNaseemKhan,MuhammadNaseemK,BPA-24S-007,BS(Hons),BusinessA,d 2,88.47,2.9,Selected
+Syedzulqarnanealisha,SyedNasiralishah,BPA-23S-007,BS(Hons),BusinessA,d 2,56,2.61,NotSelected
+Umama,MSHABBIR,BPA-23S-010,BS(Hons),BusinessA,d 2,54.55,1.98,NotSelected
+AnushaAkbar,MuhammadAkbar,BPA-23S-017,BS(Hons),BusinessA,d 2,44.73,1.73,NotSelected
+Mustafahassan,MuhammadHassan,BUS-22S-095,BS(Hons),BusinessA,d 3,60,2.75,NotSelected
+MuhammadZeeshanA,sMuhammadAshrafBa,MBA-24F-007,MBA1.5,BusinessA,d 1,71,3.33,Selected
+FukhrajShaikh,FatehMohammadSha,MBA-24F-001,MBA1.5,BusinessA,d 1,54.27,3.33,Selected
+ZohaAslam,MuhammadAslam,MBA-24F-003,MBA1.5,BusinessA,d 1,58,3.08,Waiting
+ShakeelHyder,Seengar Ali,MBA-24F-005,MBA1.5,BusinessA,d 1,78,2.83,Waiting
+MuhammadFahadAmj,MuhammadAmjadJav,MBA-24F-006,MBA1.5,BusinessA,d 1,47.09,2.83,Waiting
+WARDASAGHIR,SAGHIRAHMED,MMS-24F-002,MS/M.Phil,BusinessA,d 1,47.73,3.66,Selected
+AkhtarAbbas,MuhammadIbrahim,MMS-24F-001,MS/M.Phil,BusinessA,d 1,56.18,0,NotSelected
+Abeerfatima,ShahabImtiaz,MMS-23F-002,MS/M.Phil,BusinessA,d 2,75.25,1.74,NotSelected
+Sarfaraz,MuhammadShahjaha,MBA-25S-201,MBA,BusinessA,d 1,44.1,2.77,NotSelected
+MAHEEN.,ALTAF.,MBA-25S-301,MBA,BusinessA,d 2,81.72,3.64,Waiting
+AMBREENMUZAMMIL,SYEDMUZAMMILALI,PMG-23F-003,PhD(5year,BusinessA,d 2,79.68,3.42,Waiting
+SyedAhsanRaza,SyedAslamParvez,PMG-23F-008,PhD(5year,BusinessA,d 2,55,3.14,Waiting
+RizwanAhmedkhanzad,ZaheerAhmedKhanza,PMg-23F-013,PhD(5year,BusinessA,d 2,64,3.11,Waiting
+MuhammadMalook,Jamaluddin,PMG-23F-005,PhD(5year,BusinessA,d 2,67,3.04,Waiting
+FARHANAZ,MUHAMMADIQBAL,PMG-23F-002,PhD(5year,BusinessA,d 2,63.9,2.89,Waiting
+MuhammadArifAnwar,MuhammadAnwarAla,PMG-23F-004,PhD(5year,BusinessA,d 2,56,2.71,NotSelected
+shahrukhali,ahmedali,PMG-23F-006,PhD(5year,BusinessA,d 2,55.72,2.26,NotSelected
+SHEHZADISIDDIQUE,SIDDIQUEAHMED,PMG-22S-009,PhD(5year,BusinessA,d 3,75.9,3.51,Waiting
+amnajan,JanMuhammad,PMG-22S-002,PhD(5year,BusinessA,d 3,62,3.33,Waiting
+ShahidHussain,MuhammadUsman,PMG-22F-006,PhD(5year,BusinessA,d 3,59,3.33,Waiting
+MusadiqRahim,RahimBakhsh,PMG-22S-005,PhD(5year,BusinessA,d 3,55.45,3.16,Waiting
+AbdulSamadShaikh,AbdulRaufShaikh,PMG-21F-018,PhD(5year,BusinessA,d 4,75,3.16,Waiting
+Suhaima,Faisal,ACC-24S-023,BS(Hons),Accounting,1,75.73,3.44,Selected
+Tasmeet,MuhammadTaufiqBa,ACC-24F-019,BS(Hons),Accounting,1,86.73,3.43,Selected
+RameenAyubi,KhalidAyubi,ACC-24F-017,BS(Hons),Accounting,1,81.55,3.22,Selected
+RAHIBALI,DILSHER,ACC-25S-008,BS(Hons),Accounting,1,80.36,3.21,Selected
+Samankhan,AbdulRaufkhan,Acc-24s-009,BS(Hons),Accounting,1,69.91,2.93,Waiting
+MuhammadAbdulHad,iMuhammadAbdullah,ACC-24F-021,BS(Hons),Accounting,1,53.09,2.92,Waiting
+HafizirtazaMajid,Abdulmajid,Acc-25s-027,BS(Hons),Accounting,1,71.25,2.85,Waiting
+Faisal,Parvez,ACC-25S-006,BS(Hons),Accounting,1,70,2.8,Waiting
+Bushra,Sikandar Shad,ACC-25S-023,BS(Hons),Accounting,1,68.91,2.76,NotSelected
+AdeelAhmed,NoorMuhammad,ACC-24F-047,BS(Hons),Accounting,1,75.64,2.48,NotSelected
+AliImran,ImranAnwer,ACC-25S-012,BS(Hons),Accounting,1,58.72,2.44,NotSelected
+ZainabIsmail,Ismail,acc-25s-011,BS(Hons),Accounting,1,53.73,2.15,NotSelected
+NEHA,muhammadnaeem,ACC-24F-024,BS(Hons),Accounting,1,61.82,1.87,NotSelected
+MOHAMMADOWAISAH,SHAKEELAHMED,BDA-25S-036,BS(Hons),Accounting,1,82.47,0.19,NotSelected
+MARYAMNOOR,ABDULWAHEED,ACC-24S-039,BS(Hons),Accounting,2,83.73,3.76,Selected
+NabaZehra,HaiderAbbas,ACC-24S-001,BS(Hons),Accounting,2,80.09,3.74,Selected
+Maryamkainat,AliMusa,Acc-24s-026,BS(Hons),Accounting,2,69.73,3.53,Selected
+AaishaMalik,Siddiquemalik,ACC-23S-008,BS(Hons),Accounting,2,64.73,3.19,Selected
+SobanKhatri,MSaleem,ACC-23F-014,BS(Hons),Accounting,2,68.27,3.09,Waiting
+MuhammadAli,AijazAhmed,ACC-23F-021,BS(Hons),Accounting,2,80.5,3.08,Waiting
+Sameer ShaamVania,ShaamKumar,ACC-23F-001,BS(Hons),Accounting,2,71.66,2.91,Waiting
+Suresh,Mukesh,ACC-24S-043,BS(Hons),Accounting,2,65,2.72,NotSelected
+SyedSubhan,SyedMRiazQadri,ACC-23F-048,BS(Hons),Accounting,2,70.01,2.7,NotSelected
+Tayyababaig,AbdulAleembaig,Acc-24s-021,BS(Hons),Accounting,2,62.82,2.64,NotSelected
+UmamaQazi,TahirAhmed Qazi,ACC-24S-017,BS(Hons),Accounting,2,56.55,2.59,NotSelected
+Warisha,NasirAhmed,Acc-23s-007,BS(Hons),Accounting,2,82.79,2.19,NotSelected
+Shahzaman,ImtiazAli,ACC-23F-033,BS(Hons),Accounting,2,71.64,2.07,NotSelected
+AqibHaroonAbdulGha,HaroonAbdulGhaffar,Acc-23F-016,BS(Hons),Accounting,2,59.62,1.23,NotSelected
+MahnoorMushtaq,MushtaqAhmed,ACC-22F-019,BS(Hons),Accounting,3,77.55,3.22,Selected
+Khushi,Bhimji,ACC-23S-011,BS(Hons),Accounting,3,70.5,3.19,Selected
+Bushrafatima,Allahbuksh,ACC--22F-011,BS(Hons),Accounting,3,74,3.07,Selected
+MuntahaFurqan,Muhammadfurqan,ACC-23S-029,BS(Hons),Accounting,3,75.91,2.76,NotSelected
+Mahnoorsaleem,Saleemraza,Acc-23s-028,BS(Hons),Accounting,3,69,2.59,NotSelected
+subhanAli,AliMuhammadRattar,ACC-22F-015,BS(Hons),Accounting,3,51.27,2.5,NotSelected
+Areesha,TahirSultan,Acc-22s-004,BS(Hons),Accounting,3,83.82,2.47,NotSelected
+MariaGulSandilo,NizakatAli,ACC-23S-016,BS(Hons),Accounting,3,73.52,2.47,NotSelected
+MuhammadAhmedRa,zMuhammadRizwanRi,ACC-23S-015,BS(Hons),Accounting,3,77.77,2.35,NotSelected
+MuhammadAnees,AkbarAli,BSE-24F-002,BS(Hons),SoftwareE,n 1,61,3.66,Selected
+MUHAMMADMUZAMM,IMUHAMMADALI,BDA-24S-043,BS(Hons),SoftwareE,n 1,80,3.6,Selected
+Alshaba,MuhammadAkram,BSE-24F-021,BS(Hons),SoftwareE,n 1,77.36,3.6,Selected
+MuhammadAhmadAzh,Azharabbas,BSE-25S-680,BS(Hons),SoftwareE,n 1,89.58,3.58,Selected
+MuhammadUsman,Hamidullah,100048697,BS(Hons),SoftwareE,n 1,89.27,3.57,Selected
+Rabia,MuhammadArif,BSE-24F-022,BS(Hons),SoftwareE,n 1,77.82,3.56,Selected
+HIRABABAR,BABARZAMEER,BSE-24F-008,BS(Hons),SoftwareE,n 1,77.09,3.5,Selected
+DaniyalAhmed,MuhammadQasim,BSE-24S-041,BS(Hons),SoftwareE,n 1,71.36,3.48,Selected
+MuzammilFarooque,GhulamFarooque,BSE-25S-018,BS(Hons),SoftwareE,n 1,86.63,3.47,Selected
+HumairaSubhan,Fazal Subhan,BSE-24F-011,BS(Hons),SoftwareE,n 1,72.82,3.4,Selected
+Laiba,MuhammadIbrahim,BSE-24S-065,BS(Hons),SoftwareE,n 1,71.91,3.39,Selected
+Fizamustafa,Abdulmustafa,BSE-25S-014,BS(Hons),SoftwareE,n 1,86.9,3.38,Selected
+MUHAMMADTALHA,MUHAMMADTAHIR,BSE-24F-028,BS(Hons),SoftwareE,n 1,72.34,3.37,Selected
+AbdulShakoor,AbdulShakoor,BSE-24F-030,BS(Hons),SoftwareE,n 1,64.45,3.35,Selected
+AbuBakarChohan,TariqMehmood,BSE-24F-034,BS(Hons),SoftwareE,n 1,71.73,3.29,Selected
+ABDULKARIM,NASIR,BSE-24F-628,BS(Hons),SoftwareE,n 1,64.91,3.29,Selected
+MUHAMMADWAIZAHM,IMRANAHMEDJAMAL,BSE-24F-014,BS(Hons),SoftwareE,n 1,69.5,3.27,Waiting
+Deviyakumari,JaiKumar,BSE-24F-016,BS(Hons),SoftwareE,n 1,67.09,3.27,Waiting
+AbdulRehman,AijazAli,BSE-24S-077,BS(Hons),SoftwareE,n 1,68,3.26,Waiting
+AbuHumbal Jameel,MuhammadJameel,100049280,BS(Hons),SoftwareE,n 1,81.36,3.25,Waiting
+MudassirRiasat,MuhammadRiasat,BSE-25S-618,BS(Hons),SoftwareE,n 1,75.71,3.23,Waiting
+MohsinAli,MuhammadBashirBis,BSE-24S-052,BS(Hons),SoftwareE,n 1,84.18,3.21,Waiting
+MuhammadMoiz,MuhammadAkram,BDA-24S-044,BS(Hons),SoftwareE,n 1,67.18,3.21,Waiting
+MuhammadEhsan,MuhammadKashifMu,BDA-24S-028,BS(Hons),SoftwareE,n 1,55.73,3.2,Waiting
+MuhammadMuzammil,MuhammadMuzammi,BDA-25S-015,BS(Hons),SoftwareE,n 1,79.77,3.19,Waiting
+Muneshkumar,Chetan,BSE-24F-010,BS(Hons),SoftwareE,n 1,87.99,3.18,Waiting
+MuhammadIbrahim,MuhammadNajamFa,BSE-24S-020,BS(Hons),SoftwareE,n 1,68.18,3.18,Waiting
+AteequeRehman,Muhammad Sadique,BSE-25S-013,BS(Hons),SoftwareE,n 1,79.18,3.17,Waiting
+Moiz,MuhammadAfzal,BDA-24S-031,BS(Hons),SoftwareE,n 1,63.73,3.17,Waiting
+MuhammadAnus,AbdulRehman,BDA-24S-011,BS(Hons),SoftwareE,n 1,76,3.15,Waiting
+MuhammadMubashir,ZulfiqarAli,BSE-24S-027,BS(Hons),SoftwareE,n 1,77,3.12,Waiting
+hashirsameed,rehmansaid,BDA24S010,BS(Hons),SoftwareE,n 1,70.09,3.11,Waiting
+HassanAbbas,MirzaHussain,100039650,BS(Hons),SoftwareE,n 1,67.7,3.1,Waiting
+LaibaAnsar,AnsarHussain,SSE-24F-001,BS(Hons),SoftwareE,n 1,55.75,3.1,Waiting
+Sarang Hussain,SonoKhan,BSE-25S-689,BS(Hons),SoftwareE,n 1,77,3.08,Waiting
+MaryamImran,Imran,BSE-24S-058,BS(Hons),SoftwareE,n 1,95.82,3.07,Waiting
+MohammadTaha,MuhammadRiazSheik,BSE-24F-623,BS(Hons),SoftwareE,n 1,69.73,3.06,Waiting
+MuhammadHassanSid,MuhammadRaghib,BSE-24F-019,BS(Hons),SoftwareE,n 1,68.02,3.04,Waiting
+SyedaMusfiraZafar,SyedMuhammadZafa,BSE-24S-022,BS(Hons),SoftwareE,n 1,65.27,3.04,Waiting
+MuhammadShoaibMa,lAbdulGhafoor,BSE-24S-012,BS(Hons),SoftwareE,n 1,65.55,3.03,Waiting
+Aleyzehra,Ghulamraza,BSE-25S-009,BS(Hons),SoftwareE,n 1,75.55,3.02,Waiting
+Hafeezurrehman,MuhammadAkhlaq,BSE-24S-007,BS(Hons),SoftwareE,n 1,71.73,3.01,Waiting
+Kaneez,HubdarHussain,BSE-25S-691,BS(Hons),SoftwareE,n 1,75,3,Waiting
+SamanFatima,SyedJaffarAbbas,BSE-24S-068,BS(Hons),SoftwareE,n 1,74.3,3,Waiting
+MoinAkhter Abbasi,MuhammadAkhterAb,BSE-24S-003,BS(Hons),SoftwareE,n 1,69.64,3,Waiting
+IrtezaHaider,MustafaHaider,BSE-24F-654,BS(Hons),SoftwareE,n 1,74.91,2.96,Waiting
+MuhammadGhulamM,uSohailAhmed,BSE-25S-025,BS(Hons),SoftwareE,n 1,73.81,2.95,Waiting
+HUSSAINRAZA,BASHIRAHMED,BSE-24F-009,BS(Hons),SoftwareE,n 1,82.09,2.91,Waiting
+AhmedKhawaja,BabarShahzad,BSE-24F-007,BS(Hons),SoftwareE,n 1,73.91,2.91,Waiting
+MuqaddasBibi,MuhammedIsrar,BDA-24F-019,BS(Hons),SoftwareE,n 1,87.63,2.89,Waiting
+MuneebKhalsai,MuhammadAkhlaq,BSE-24F-604,BS(Hons),SoftwareE,n 1,68.79,2.89,Waiting
+Sagar,PremChand,BSE-24S-002,BS(Hons),SoftwareE,n 1,75.36,2.88,Waiting
+MuhammadFaizanSha,MuhammadAliShaikh,100048963,BS(Hons),SoftwareE,n 1,71.73,2.87,Waiting
+Wahajkhan,Fazal guftar,BSE-24F-610,BS(Hons),SoftwareE,n 1,53.45,2.87,Waiting
+Faiqahan,MuhammadImran,BDA-24F-037,BS(Hons),SoftwareE,n 1,77.5,2.8,Waiting
+MAHAMUNEER,MuhammadMuneer,BDA-24F-025,BS(Hons),SoftwareE,n 1,73.18,2.8,Waiting
+MUHAMMADHASANSA,MuhammadSafder,100043061,BS(Hons),SoftwareE,n 1,72.8,2.8,Waiting
+MuhammadMudabbir,Muhammadnadeem,BSE-25S-622,BS(Hons),SoftwareE,n 1,72.73,2.8,Waiting
+MuhammadAmeenSh,eMuhammadNaseemS,BDA-25S-024,BS(Hons),SoftwareE,n 1,68.91,2.76,NotSelected
+SyedNomanShah,SyedRabNawaz,BSE-24F-032,BS(Hons),SoftwareE,n 1,71.01,2.75,NotSelected
+RahatAli,AbdulQadir,BSE-24F-601,BS(Hons),SoftwareE,n 1,63,2.75,NotSelected
+Vishal kumar,Santoshkumar,BSE-25S-686,BS(Hons),SoftwareE,n 1,68.18,2.73,NotSelected
+MuhammadSaadNazi,mNazimAliShahid,BSE-24S-091,BS(Hons),SoftwareE,n 1,76.55,2.72,NotSelected
+AlishbaShoukat,Shoukatzaman,BSE-24F-031,BS(Hons),SoftwareE,n 1,70.75,2.72,NotSelected
+MuhammadUsman,MuhammadRizwan,BSE-24F-642,BS(Hons),SoftwareE,n 1,69.82,2.71,NotSelected
+HasnainRaza,HasnainRaza,3012141012,BS(Hons),SoftwareE,n 1,74.36,2.66,NotSelected
+KRRISHPARKASH,PARKASHPREMJI,BSE-24F-630,BS(Hons),SoftwareE,n 1,56.55,2.66,NotSelected
+MuhammadBilal,MehboobEllahi,BSE-24S-043,BS(Hons),SoftwareE,n 1,62.73,2.65,NotSelected
+Amna,HajiHanif,BSE-24S-016,BS(Hons),SoftwareE,n 1,60.91,2.63,NotSelected
+Farhan,MFareed,BSE-24S-045,BS(Hons),SoftwareE,n 1,85.27,2.62,NotSelected
+MuhammadDanialTan,BashirAhmadTanoli,BSE-25S-610,BS(Hons),SoftwareE,n 1,65.45,2.62,NotSelected
+Haroonriaz,Muhammadriaz,BSE-24S-025,BS(Hons),SoftwareE,n 1,69,2.6,NotSelected
+KaranKumar,KaranKumar,BSE-24S-088,BS(Hons),SoftwareE,n 1,86.8,2.58,NotSelected
+HUZAIFASALEEM,MUHAMMADSALEEM,BSE-24F-615,BS(Hons),SoftwareE,n 1,64.56,2.56,NotSelected
+WaniaArif,ArifAli,BSE-25S-012,BS(Hons),SoftwareE,n 1,63.73,2.55,NotSelected
+MuhammadHamzaAza,AzamTaqi,BDA-25S-033,BS(Hons),SoftwareE,n 1,63.73,2.55,NotSelected
+MuhammadHaseeb,KhalidJamil,BSE-24S-046,BS(Hons),SoftwareE,n 1,78.54,2.51,NotSelected
+MUHAMMADHASSANA,SHAMSULMEHMOOD,BSE-25S-671,BS(Hons),SoftwareE,n 1,62.12,2.48,NotSelected
+MuhammadHanzala,MuhammadAjmal,BSE-24S-024,BS(Hons),SoftwareE,n 1,66.36,2.47,NotSelected
+MuhammadAli,AbdulQadir,BDA-24F-040,BS(Hons),SoftwareE,n 1,53.45,2.47,NotSelected
+MUHAMMADHASSAN,MUHAMMADSHABBIR,BS-25S-645,BS(Hons),SoftwareE,n 1,61.55,2.46,NotSelected
+AliRaza,MuhammadAslam,BSE-25S-611,BS(Hons),SoftwareE,n 1,61.55,2.46,NotSelected
+MalaikaNoor,Yousuf,E-0284,BS(Hons),SoftwareE,n 1,61.18,2.45,NotSelected
+RizwanRehman,RizwanRehman,3322422967,BS(Hons),SoftwareE,n 1,79.55,2.43,NotSelected
+MuhammadSulemanQ,AbdulSaleemQureshi,BSE-25S-612,BS(Hons),SoftwareE,n 1,60.64,2.43,NotSelected
+MuhammadHuzaifa,TahirMehmood,BSE:24F:637,BS(Hons),SoftwareE,n 1,60.97,2.4,NotSelected
+Abdullah,MazharAliOdho,BSE-25S-011,BS(Hons),SoftwareE,n 1,60.09,2.4,NotSelected
+MuhammadAli,MansoorAlam,BSe-25s-648,BS(Hons),SoftwareE,n 1,59,2.36,NotSelected
+TashfeenIftikhar,IftikharAhmedAbro,BDA-24F-014,BS(Hons),SoftwareE,n 1,64.08,2.35,NotSelected
+SyedMuhammadRafay,SyedMuhammadMas,BSE-24S-013,BS(Hons),SoftwareE,n 1,92.72,2.33,NotSelected
+MuneebAhmed,MuhammadYaseen,BSE-24S-021,BS(Hons),SoftwareE,n 1,67.27,2.33,NotSelected
+MuhammadUzair,MuhammadShafique,BSE-25S-634,BS(Hons),SoftwareE,n 1,57.8,2.28,NotSelected
+Hamza,GhulamNabi,BSE-25S-020,BS(Hons),SoftwareE,n 1,56.82,2.27,NotSelected
+MuhammadSaqibMera,MuhammadMerajUdd,BSE-24F-650,BS(Hons),SoftwareE,n 1,61.27,2.23,NotSelected
+SheikhAliAsif,SheikhAsifBashir,BSE-25S-643,BS(Hons),SoftwareE,n 1,55.36,2.21,NotSelected
+MuhammadAreebSho,aMuhammadShoaib,BSE-23F-063,BS(Hons),SoftwareE,n 1,69.81,2.2,NotSelected
+FazlERabbi,MuhammadAfzalHus,BDA-25S-044,BS(Hons),SoftwareE,n 1,53.91,2.16,NotSelected
+Wakeel HussainKhokh,aMuhammadHussainK,BSE-24S-054,BS(Hons),SoftwareE,n 1,76.27,2.14,NotSelected
+SyedAbdulRehmanHa,SyedTaiqHassanHas,BDA-25S-031,BS(Hons),SoftwareE,n 1,52.64,2.11,NotSelected
+SaribMustafa,MuhammadKamran,BSE-24S-076,BS(Hons),SoftwareE,n 1,60,2.08,NotSelected
+MuhammadUsmanSh,eMuhammadUZaheer,BSE-24F-648,BS(Hons),SoftwareE,n 1,62.73,2,NotSelected
+MuhammadNafay,AurangZeb,BSE-24F-037,BS(Hons),SoftwareE,n 1,56.8,2,NotSelected
+Saadqamar,Qamaruzzamantaba,BDA-25S-037,BS(Hons),SoftwareE,n 1,50,2,NotSelected
+AliZaib,Aslampervez,Bse-24f-607,BS(Hons),SoftwareE,n 1,85.9,1.96,NotSelected
+FARHANALISOOMRO,ALIMUHAMMADSOO,BSE-24S-097,BS(Hons),SoftwareE,n 1,82.7,1.82,NotSelected
+AqeelAhmed,MuhammadAmin,BDA-24F-041,BS(Hons),SoftwareE,n 1,62.91,1.77,NotSelected
+FarzanAhmedTabassu,NadeeemAhmedTaba,BDA-24F-026,BS(Hons),SoftwareE,n 1,74.98,1.27,NotSelected
+AliAhmed,ShermuhammadMan,BSE-24F-641,BS(Hons),SoftwareE,n 1,70.58,0.92,NotSelected
+RaqeebAliShah,ShahNawazThaheem,BSE-25S-608,BS(Hons),SoftwareE,n 1,76.55,0,NotSelected
+NimraBabar,BabarZameer,BSE-23F-128,BS(Hons),SoftwareE,n 2,72.55,3.72,Selected
+HARAMZAINAB,DILKHURRAM SHAHZ,BSE-23F-137,BS(Hons),SoftwareE,n 2,68.73,3.72,Selected
+MUHAMMADHUZAIFA,KKHALIDMEHMOOD,BSE-23F-177,BS(Hons),SoftwareE,n 2,66.24,3.71,Selected
+SaweraRehman,Fazal urRehman,BSE-23F-160,BS(Hons),SoftwareE,n 2,77.36,3.7,Selected
+MaheenNaseem,MuhammadNaseemU,BSE-23S-001,BS(Hons),SoftwareE,n 2,74.36,3.7,Selected
+HadiyaMunir,MunirAhmed,BSE-23F-147,BS(Hons),SoftwareE,n 2,66.45,3.69,Selected
+MuhammadSohaib,Shahidjaved,BSE-23F-015,BS(Hons),SoftwareE,n 2,67.36,3.66,Selected
+SyedaFatimaRehman,SyedNaushadurReh,BSE-23F-129,BS(Hons),SoftwareE,n 2,74.91,3.62,Selected
+AbdulBasit,AbdulLatif,BSE-23F-045,BS(Hons),SoftwareE,n 2,66.55,3.59,Selected
+AreebaImran,MuhammadImran,BDA-24S-008,BS(Hons),SoftwareE,n 2,63.73,3.59,Selected
+Muhammad,JavedIsmail,BSE-23F-098,BS(Hons),SoftwareE,n 2,66.45,3.58,Selected
+AasimNazim,MuhammadNazimKh,BSE-23F-146,BS(Hons),SoftwareE,n 2,76.82,3.56,Selected
+AhmedShahi,MuhammadAkram,BSE-23F-110,BS(Hons),SoftwareE,n 2,74,3.56,Selected
+SHAYAN,MUHAMMADSHAHID,BSE-23F-070,BS(Hons),SoftwareE,n 2,68.45,3.55,Selected
+ZOHAIB ALIANSARI,IRSHADALI,BSE-23F-139,BS(Hons),SoftwareE,n 2,60,3.55,Selected
+KAINAT,JAHANGIR,BSE-23F-132,BS(Hons),SoftwareE,n 2,69.55,3.54,Selected
+FarazAhmed,FarazAhmed,BSE-23S-060,BS(Hons),SoftwareE,n 2,69.36,3.54,Waiting
+MoizAhmed,NadeemIqbal,BSE-23F-150,BS(Hons),SoftwareE,n 2,65.88,3.54,Waiting
+MuhammadHassan,ShakilurRehman,BSE-23S-222,BS(Hons),SoftwareE,n 2,62.18,3.54,Waiting
+MuhammadYasirIshfa,qIshfaqAhmed,BSE-23F-003,BS(Hons),SoftwareE,n 2,74,3.53,Waiting
+Abubakersiddiq,RuknuddinAhmedmu,BSE-23F-058,BS(Hons),SoftwareE,n 2,83.8,3.52,Waiting
+ShabazHanif,MuhammadHanif,BSE-23F-076,BS(Hons),SoftwareE,n 2,73.64,3.52,Waiting
+AleezaAkhter,MuhammadAkhter,BSE-23F-125,BS(Hons),SoftwareE,n 2,60,3.51,Waiting
+MutaibaAli,MajidAli,BSE-23F-158,BS(Hons),SoftwareE,n 2,70.91,3.5,Waiting
+SumairUddinSiddiqui,MazahirUddinSiddiqu,BDA-24S-017,BS(Hons),SoftwareE,n 2,66.45,3.5,Waiting
+AyeshaMalik,AbidHussain,BDA-24S-032,BS(Hons),SoftwareE,n 2,71,3.49,Waiting
+AbdurRauf,MuhammadAzeemAw,BSE-23F-255,BS(Hons),SoftwareE,n 2,69.91,3.49,Waiting
+SYEDASANAWARKAM,RKAMRANAHMED,BSE-23F-102,BS(Hons),SoftwareE,n 2,72.55,3.47,Waiting
+MuhammadFarzan,IftikharAhmed,BSE-23F-080,BS(Hons),SoftwareE,n 2,69.73,3.47,Waiting
+ZainBashir,ChoudharyAnsarHas,BSE-23F-021,BS(Hons),SoftwareE,n 2,78.54,3.46,Waiting
+SunehaMariam,ArshadMasih,BSE-23F-161,BS(Hons),SoftwareE,n 2,78,3.45,Waiting
+AbdulWajid,SamiUrRehman,BSE-23F-257,BS(Hons),SoftwareE,n 2,86.55,3.43,Waiting
+HafsaRahman,MirzaRahmanShuja,100033111,BS(Hons),SoftwareE,n 2,55.45,3.42,Waiting
+Murtaza,Mustafa,BDA-23F-005,BS(Hons),SoftwareE,n 2,79,3.41,Waiting
+MuskanAbbasi,Tanveer Mehmood,BSE-23S-133,BS(Hons),SoftwareE,n 2,69.18,3.41,Waiting
+BibiAyesha,SyedArifHussainSha,BDA-24S-007,BS(Hons),SoftwareE,n 2,61.9,3.41,Waiting
+HiteshKumar,Kanwar,BSE-23F-122,BS(Hons),SoftwareE,n 2,81.9,3.4,Waiting
+LaibaChaudhry,MuhammadHanif,BSE-23S-128,BS(Hons),SoftwareE,n 2,72.45,3.4,Waiting
+SaudAhmed,AbdulBasit,BD-24S-013,BS(Hons),SoftwareE,n 2,62.55,3.36,Waiting
+ZainKhan,AsifKhan,BSE-23S-078,BS(Hons),SoftwareE,n 2,67.17,3.35,Waiting
+SabikaAli,MuhammadAli,BSE-23S-176,BS(Hons),SoftwareE,n 2,71,3.33,Waiting
+AqsaHanif,MuhammadHanif,BSE-23F-138,BS(Hons),SoftwareE,n 2,59.7,3.33,Waiting
+AREEBAJAVED,Javedshams,BSE-23S-130,BS(Hons),SoftwareE,n 2,75.82,3.3,Waiting
+Farheen Naz,MukhtarAhmed,BSE-23S-109,BS(Hons),SoftwareE,n 2,72,3.3,Waiting
+AHMEDTANZEELKHAN,NADEEMKHAN,BDA-24S-030,BS(Hons),SoftwareE,n 2,65,3.3,Waiting
+SyedaQiratWajahat,WajahatAliPirzada,BDA-24S-045,BS(Hons),SoftwareE,n 2,61.73,3.3,Waiting
+SyedAbdulUzair,AbdulQadir,BSE-23F-093,BS(Hons),SoftwareE,n 2,59.27,3.29,Waiting
+RohmaIkhlas,MohammedIkhlas,BSE-23F-099,BS(Hons),SoftwareE,n 2,71.4,3.27,Waiting
+ZohaibAli,AbdulJabbar,BSE-23S-163,BS(Hons),SoftwareE,n 2,78.72,3.26,Waiting
+AnsharahHanif,MuhammadHanif,BSE-24S-079,BS(Hons),SoftwareE,n 2,75.45,3.26,Waiting
+SidraTulMuntaha,MuhammadAli,BDA-24S-026,BS(Hons),SoftwareE,n 2,70,3.26,Waiting
+MariumAjaz,AjazAhmed,BDA-23F-035,BS(Hons),SoftwareE,n 2,65.82,3.26,Waiting
+SarimHassan,IrtafaHassan,BSE-23S-090,BS(Hons),SoftwareE,n 2,82.1,3.25,Waiting
+laraib,MuhammadSaleem,BSE-23F-033,BS(Hons),SoftwareE,n 2,74.55,3.25,Waiting
+KhawajaUbaidUllah,KhawajaRiffatUllah,BSE-24S-023,BS(Hons),SoftwareE,n 2,73.18,3.25,Waiting
+MuhammadArhamFar,oMuhammadAbdulAle,BSE-23F-199,BS(Hons),SoftwareE,n 2,84.49,3.24,Waiting
+Sohaib,MuhammadRaheem,BSE-23F-075,BS(Hons),SoftwareE,n 2,64,3.24,Waiting
+FatimaMushtaq,SyedMushtaqAli,BSE-23F-145,BS(Hons),SoftwareE,n 2,54.55,3.22,Waiting
+MuhammadSami,SaeedKhan,BSE-23F-044,BS(Hons),SoftwareE,n 2,64.23,3.21,Waiting
+Sameen Aftab,AftabAhmed,BSE-23S-005,BS(Hons),SoftwareE,n 2,70.18,3.2,Waiting
+ZaidUlHaq,MuhammadKhalid,BSE-23F-084,BS(Hons),SoftwareE,n 2,61.36,3.2,Waiting
+AbdulRaufkhan,Raeiskhan,BSE-23F-123,BS(Hons),SoftwareE,n 2,56.3,3.2,Waiting
+HibaZehra,MirzaRashidHussain,BSE-23F-155,BS(Hons),SoftwareE,n 2,65.18,3.15,Waiting
+KamranAlam,MaqsoodAlam,BSE-23F-061,BS(Hons),SoftwareE,n 2,61.73,3.13,Waiting
+WajeehaShahid,MuhammadShahidRi,BDA-23F-045,BS(Hons),SoftwareE,n 2,58.73,3.12,Waiting
+HuzaifaDildar,DildarShafi,BSE-23F-113,BS(Hons),SoftwareE,n 2,60.73,3.1,Waiting
+NamraKashif,MuhammadKashif,BSE-23S-011,BS(Hons),SoftwareE,n 2,78.64,3.09,Waiting
+Maryam,Muhammadjaved,BSE-24S-039,BS(Hons),SoftwareE,n 2,70.82,3.09,Waiting
+RAOALIMURAD,SHAHIDPERVAIZ,BSE-23F-227,BS(Hons),SoftwareE,n 2,69,3.09,Waiting
+NoorHassanShah,ShabbirHussain,BDA-23F-033,BS(Hons),SoftwareE,n 2,54.82,3.07,Waiting
+MuhammadAnus,MuhammadSadiq,BSE-24S-044,BS(Hons),SoftwareE,n 2,62.09,3.06,Waiting
+MuhammadSaad,MunawarHussain,BSE-23S-140,BS(Hons),SoftwareE,n 2,62,3.05,Waiting
+LaibaNoor,ZubairAhmedKhan,BSSE-24S-009,BS(Hons),SoftwareE,n 2,60,3.05,Waiting
+AhsanTahir,MuhammadTahir,100030652,BS(Hons),SoftwareE,n 2,77.82,3.03,Waiting
+SyedaAataniyaMeraj,MerajAhmed,BSE-24S-034,BS(Hons),SoftwareE,n 2,70.64,3.03,Waiting
+TasmiaSyed,SyedTanweerAli,BSE-24S-094,BS(Hons),SoftwareE,n 2,77.09,3.01,Waiting
+AdilSattar,AbdulSattar,BDA-23F-010,BS(Hons),SoftwareE,n 2,56.55,3.01,Waiting
+AsimSiddiqui,ZubairSiddiqui,BSE-24S-100,BS(Hons),SoftwareE,n 2,76.45,2.99,Waiting
+Unzilla,HamidMehmood,BSE-23S-013,BS(Hons),SoftwareE,n 2,60.18,2.99,Waiting
+AqsaIslam,MuhammadIslam,BDA-23F-021,BS(Hons),SoftwareE,n 2,80.36,2.98,Waiting
+Shanza,MuhammadShoaib,BDA-24S-035,BS(Hons),SoftwareE,n 2,71.63,2.98,Waiting
+MuhammadSufiyanBa,MuhammadSaleemB,BDA-24S-001,BS(Hons),SoftwareE,n 2,65.2,2.98,Waiting
+SyedaRabeeaWasi,SyedAmin,BDA-24S-016,BS(Hons),SoftwareE,n 2,63.6,2.97,Waiting
+WarishaKanwal,JavedKhan,BSE-23F-242,BS(Hons),SoftwareE,n 2,50.18,2.97,Waiting
+MUHAMMADUMERZA,HMUHAMMADUMERZA,BSE-23F-254,BS(Hons),SoftwareE,n 2,59.9,2.94,Waiting
+Taliya,MRehmanRiyal,BSE22F134,BS(Hons),SoftwareE,n 2,66.83,2.93,Waiting
+MuhammadHusnain,MuhammadAyaz,BSE-23F-231,BS(Hons),SoftwareE,n 2,62.27,2.91,Waiting
+AmeemaIqbal,MuhammadIqbal,BDA-23F-020,BS(Hons),SoftwareE,n 2,59.73,2.91,Waiting
+Quratulabsar,AhmedZaheen,BSE-23S-194,BS(Hons),SoftwareE,n 2,50.64,2.91,Waiting
+MOHSINALIMOHSIN,MOHSINALIMOHSIN,BSE-23F-202,BS(Hons),SoftwareE,n 2,75.36,2.9,Waiting
+SAADASHFAQUE,Ashfaqueahmed,BSE-23F-170,BS(Hons),SoftwareE,n 2,64.86,2.9,Waiting
+MuhammadSaadMuni,rMunirAhmed,BSE-23F-165,BS(Hons),SoftwareE,n 2,62.5,2.9,Waiting
+MUHAMMADAHMEDH,MUHAMMADSHAHID,BSE-23F-192,BS(Hons),SoftwareE,n 2,56,2.89,Waiting
+AhmedMuhammad,KhalidRiaz,BSE-23F-103,BS(Hons),SoftwareE,n 2,64.82,2.87,Waiting
+SudheerAhmed,AhmedKhan,BSE-23S-004,BS(Hons),SoftwareE,n 2,73.91,2.86,Waiting
+MUHAMMADSUFYANA,MUHAMMADSHAFIQ,BSE-23F-196,BS(Hons),SoftwareE,n 2,70,2.85,Waiting
+SyedMohiuddinQadri,SyedAsaduddinQadri,BSE-23S-079,BS(Hons),SoftwareE,n 2,75.43,2.83,Waiting
+MuhammadSaadKhan,GhulamMurtazaKorai,BSE-24S-103,BS(Hons),SoftwareE,n 2,76.56,2.82,Waiting
+Abdullah,MuhammadHafeez,BSE-23F-200,BS(Hons),SoftwareE,n 2,68.5,2.82,Waiting
+MuhammadHassanKh,RizwanUllah,BDA-23F-044,BS(Hons),SoftwareE,n 2,67.36,2.82,Waiting
+SHEIKHMUHAMMADA,RMUHAMMADTASAWA,BDA-24S-046,BS(Hons),SoftwareE,n 2,64.72,2.82,Waiting
+TahaHussain,AamirHussain,bse23f002,BS(Hons),SoftwareE,n 2,62.45,2.82,Waiting
+ZainabAnwar,MuhammadAnwar,100032422,BS(Hons),SoftwareE,n 2,63.9,2.81,Waiting
+DARISHAKHAN,MUHAMMADNAVEED,BSE-23F-173,BS(Hons),SoftwareE,n 2,54.09,2.81,Waiting
+SahilAli,MumtazAli,BSE-24S-057,BS(Hons),SoftwareE,n 2,74.18,2.8,Waiting
+SyedAunAli,SyedAkberAli,BSE-23S-124,BS(Hons),SoftwareE,n 2,67.63,2.8,Waiting
+MuhammadBilalHuss,aMuhammadHussain,BSE-23S-113,BS(Hons),SoftwareE,n 2,64,2.8,Waiting
+MuhammadAmirAli,MuhammadShamimA,BDA-23F-040,BS(Hons),SoftwareE,n 2,60.55,2.8,Waiting
+MuhammadAliKhalid,KhalidMeraj,BSE-23F-031,BS(Hons),SoftwareE,n 2,55.52,2.8,Waiting
+QaziSharjeel,QaziFaheem,BSE-23F-112,BS(Hons),SoftwareE,n 2,54.9,2.8,Waiting
+MekailFarooq,UMARFAROOQ,BSE-23F-190,BS(Hons),SoftwareE,n 2,51.61,2.8,Waiting
+KaneezFatima,AltafHussain,BDA24S18,BS(Hons),SoftwareE,n 2,69.67,2.76,NotSelected
+AbdulNafay,MohammadNadeem,BSE-23F-087,BS(Hons),SoftwareE,n 2,52,2.76,NotSelected
+AhmedHassan,AhmedHassan,BSE-24S-073,BS(Hons),SoftwareE,n 2,74,2.73,NotSelected
+MohammadShahryar,mohammadidrees,BDA-23F-043,BS(Hons),SoftwareE,n 2,54.77,2.73,NotSelected
+Muzzafar Ali,GhullamAkbar,BSE-23F-144,BS(Hons),SoftwareE,n 2,86.78,2.7,NotSelected
+SyedShabihAhmedJaf,SyedNisarAhmedJaff,BSE-23F-035,BS(Hons),SoftwareE,n 2,56.55,2.7,NotSelected
+KumKum,VikramKumar,BSE-23F-162,BS(Hons),SoftwareE,n 2,89.36,2.69,NotSelected
+ManzarAli,MuhammadArab,BSE-23F-143,BS(Hons),SoftwareE,n 2,83.36,2.6,NotSelected
+MUHAMMADSARMAD,MUHAMMADSALEH,BSE23F115,BS(Hons),SoftwareE,n 2,77.89,2.6,NotSelected
+MuhammadAsif,AzimUllah,bse-23f-109,BS(Hons),SoftwareE,n 2,76,2.6,NotSelected
+HasanAhmedShaikh,ShaikhAqeel Ahmed,BDA-23F-009,BS(Hons),SoftwareE,n 2,57.36,2.6,NotSelected
+ZulqarnainAhmed,IbrarAhmed,BSE-23S-088,BS(Hons),SoftwareE,n 2,60,2.58,NotSelected
+ZubiaGhulamullah,GhulamullahDahri,BSE-24S-042,BS(Hons),SoftwareE,n 2,85.5,2.53,NotSelected
+Abubakar HasanTayyia,Abdullah,BSE-23F-269,BS(Hons),SoftwareE,n 2,75.89,2.53,NotSelected
+MuhammadDanish,BashirAhmed,BDA-23F-046,BS(Hons),SoftwareE,n 2,51.68,2.51,NotSelected
+ShafeyAhmedAlvi,FarrukhAhmedAlvi,BSE-23S-058,BS(Hons),SoftwareE,n 2,77.86,2.5,NotSelected
+RonakRaja,VikramKumar,BSE-23F-092,BS(Hons),SoftwareE,n 2,75.4,2.5,NotSelected
+AyeshaGhaffar,AbdulGhaffar,BSE-23F-060,BS(Hons),SoftwareE,n 2,80.6,2.49,NotSelected
+AtiqaAlMansoor,RehmatAlMansoor,BSE-24S-080,BS(Hons),SoftwareE,n 2,67.45,2.47,NotSelected
+Abdulwasay,Muhammadsaifuddin,SFS-23F-001,BS(Hons),SoftwareE,n 2,50.18,2.47,NotSelected
+Mehdiali,Muhammadtaqi,BSE-23S-210,BS(Hons),SoftwareE,n 2,71.1,2.46,NotSelected
+AbdulRafay,AbidFarooq,BSE-24S-004,BS(Hons),SoftwareE,n 2,73.5,2.45,NotSelected
+MuhammadBilawalAz,eAzeemKhan,BSE-23F-120,BS(Hons),SoftwareE,n 2,62.5,2.43,NotSelected
+Ayeshafaisal,MuhammadFaisal,BSE-23F-263,BS(Hons),SoftwareE,n 2,63,2.41,NotSelected
+Safa,Sikander,BSE-23S-043,BS(Hons),SoftwareE,n 2,76.36,2.39,NotSelected
+YousraKanwal,JavedKhan,BSE-23F-182,BS(Hons),SoftwareE,n 2,54,2.36,NotSelected
+AfsahFarooqui,AbdulMajidFarooqui,BSE-23S-187,BS(Hons),SoftwareE,n 2,70.01,2.32,NotSelected
+ChristinaShahbaz,Shahbaz,BSE-24S-005,BS(Hons),SoftwareE,n 2,58,2.21,NotSelected
+MuhammadTufailAhm,MuhammadGulzar Ah,BDA-23F-031,BS(Hons),SoftwareE,n 2,51.43,2.13,NotSelected
+Adit,Kelash,CSC-23F-122,BS(Hons),SoftwareE,n 2,81.9,2.07,NotSelected
+SamarAziz,Tariqaziz,BSE-24S-104,BS(Hons),SoftwareE,n 2,80.72,2.02,NotSelected
+SaadAli,MehramAli,BSE-24S-072,BS(Hons),SoftwareE,n 2,74.55,1.66,NotSelected
+AbdullahArfaq,ArfaqAhmed,BSE-23F-096,BS(Hons),SoftwareE,n 2,68,1.42,NotSelected
+HabibullahUjjan,ImamBuxUjjan,BSE-23F-010,BS(Hons),SoftwareE,n 2,79.5,1.36,NotSelected
+Heetesh,PartabRai,BSE-23F-183,BS(Hons),SoftwareE,n 2,75,1.19,NotSelected
+AreebaMuhammadNa,eMuhammadNaeem,BSE-23S-168,BS(Hons),SoftwareE,n 3,81.18,3.64,Selected
+GhulamHasnainOtho,GhulamQasim,BSE-23S-006,BS(Hons),SoftwareE,n 3,77.45,3.64,Selected
+MirzaZain,MirzaSikander,BSE-22F-107,BS(Hons),SoftwareE,n 3,67.91,3.49,Selected
+AbdullahAhsan,MuhammadIshaqQur,BSE-23S-096,BS(Hons),SoftwareE,n 3,80.64,3.39,Selected
+NomanAhmedkhan,PeerBakshJamal,BSE-22F-070,BS(Hons),SoftwareE,n 3,63.43,3.38,Selected
+Muhammadsharyar,Abdulmuqeem,BSE-22F-095,BS(Hons),SoftwareE,n 3,64.33,3.37,Selected
+FatimaMaqsood,MuhammadMaqsood,BSE-23S-037,BS(Hons),SoftwareE,n 3,73.09,3.35,Selected
+MuhammadAbsar Sidd,MehtabAlam,BSE-22F-120,BS(Hons),SoftwareE,n 3,70.73,3.32,Selected
+AliyanAhmed,FaheemAhmed,BSE-22F-087,BS(Hons),SoftwareE,n 3,78.65,3.31,Selected
+OwaisAli,AkbarAli,BSE-22F-110,BS(Hons),SoftwareE,n 3,62.91,3.31,Selected
+Mehak,ShakeelAhmed,BSE-23S-026,BS(Hons),SoftwareE,n 3,77.09,3.3,Selected
+yusra,shahidrana,BSE-22F-026,BS(Hons),SoftwareE,n 3,70.36,3.29,Selected
+Atka,AsifZaheer,BSE-23S-147,BS(Hons),SoftwareE,n 3,84.82,3.28,Selected
+MuhammadFurqanKh,aKhalilHussain,BSE-22F-116,BS(Hons),SoftwareE,n 3,72.82,3.25,Selected
+SyedaFaizaAli,SyedImranAli,BSE-22F-051,BS(Hons),SoftwareE,n 3,55,3.22,Selected
+HASNAIN,DEEDARALI,BSE-23S-104,BS(Hons),SoftwareE,n 3,69,3.21,Selected
+Auns khalid,KhalidMehmood,BSE-23S-170,BS(Hons),SoftwareE,n 3,81,3.2,Waiting
+MaryamZaheer,MuhammadZaheer,BSE-22S-065,BS(Hons),SoftwareE,n 3,76.91,3.2,Waiting
+Asimhayat,MuhammadKhizarHa,BSE-22F-102,BS(Hons),SoftwareE,n 3,68.47,3.19,Waiting
+HaroonRasheed,MuhammadYaseen,BSE-22F-071,BS(Hons),SoftwareE,n 3,83.63,3.18,Waiting
+SahilTurk,MuhammadJawedTur,BSE-22F-128,BS(Hons),SoftwareE,n 3,51.36,3.18,Waiting
+Sarim,MuhammadRafiq,BSE-22S-123,BS(Hons),SoftwareE,n 3,64.82,3.16,Waiting
+AyeshaSaleem,MuhammadSaleem,BSE-22F-123,BS(Hons),SoftwareE,n 3,65.36,3.14,Waiting
+MalikUmairKhalid,MuhammadKhalidKh,BSE-22S-063,BS(Hons),SoftwareE,n 3,60.27,3.14,Waiting
+AbdullahNisar,JanNisarZafar,BSE-23S-146,BS(Hons),SoftwareE,n 3,66.45,3.13,Waiting
+MuhaddisAfzal,MuhammadAfzal,BSE-22F-106,BS(Hons),SoftwareE,n 3,61.27,3.13,Waiting
+Sabreena,AbdulSattar,BSE-22F-011,BS(Hons),SoftwareE,n 3,76,3.11,Waiting
+AliMehdi,AmjadAli,BSE-23S-134,BS(Hons),SoftwareE,n 3,74.55,3.1,Waiting
+WasifMahmoodAli,ZulfiqarAli,BSE-22S-144,BS(Hons),SoftwareE,n 3,73.8,3.1,Waiting
+Zuha,MuhammadIsmail,BSE-22S-148,BS(Hons),SoftwareE,n 3,55.18,3.09,Waiting
+AbdulRafayFarooqui,SajidFahimFarooqui,BSE-22F-104,BS(Hons),SoftwareE,n 3,69,3.08,Waiting
+WahajAli,MumtazAli,BSE-22F-054,BS(Hons),SoftwareE,n 3,67.82,3.08,Waiting
+TalalShamim,SyedMuhammadSha,BSE-22S-137,BS(Hons),SoftwareE,n 3,80.09,3.07,Waiting
+MuhammadHarisAliK,hShoukatAli,BSE-22F-078,BS(Hons),SoftwareE,n 3,58.59,3.06,Waiting
+ZainZaib,Ameer Zaib,BSE-22S-145,BS(Hons),SoftwareE,n 3,55,3.06,Waiting
+Masoomazehra,QamarHussain,BSE-22S-066,BS(Hons),SoftwareE,n 3,68.36,3.03,Waiting
+FARYALKHAN,FAROOQKHAN,BSE-22F-143,BS(Hons),SoftwareE,n 3,60.86,3.03,Waiting
+AmarShar,Nangarkhan,BSE-23S-053,BS(Hons),SoftwareE,n 3,86.09,3.01,Waiting
+isra,rashidahmed,BSE-22S-051,BS(Hons),SoftwareE,n 3,74.91,3.01,Waiting
+Mahnoor,IftikharAhmed,BSE-23S-106,BS(Hons),SoftwareE,n 3,72.18,2.98,Waiting
+WaqarAhmad,AbdulSattar,BSE-22F-076,BS(Hons),SoftwareE,n 3,62.9,2.97,Waiting
+KaleemUllah,Nizam,BSE-22S-055,BS(Hons),SoftwareE,n 3,74,2.96,Waiting
+MUHAMMADSALMAN,RAOABDULREHMAN,Bse-22s-089,BS(Hons),SoftwareE,n 3,76.14,2.94,Waiting
+SyedaFabihaZehra,SyedNayyer AbbasNa,BSE-22F-135,BS(Hons),SoftwareE,n 3,69.27,2.92,Waiting
+MUHAMMADJUNAID,ASHRAFKHAN,BSE-22F-017,BS(Hons),SoftwareE,n 3,71,2.91,Waiting
+OkashaJaved,Javed,BSE-22F-136,BS(Hons),SoftwareE,n 3,86.4,2.9,Waiting
+MuhammadZuhaib,MuhammadRafiq,BSE-22F-105,BS(Hons),SoftwareE,n 3,72.71,2.9,Waiting
+MuhammadAnas,AbdulRehman,BSE-22F-094,BS(Hons),SoftwareE,n 3,69.67,2.9,Waiting
+MuhammadAbrar,Amanullah,BSE-22F-122,BS(Hons),SoftwareE,n 3,64,2.9,Waiting
+HassanAbbas,MuhammadAbbas,BSE-23S-190,BS(Hons),SoftwareE,n 3,59.73,2.9,Waiting
+AliAsgherMangnejo,AbdulHayee Mangnej,BSE-23S-156,BS(Hons),SoftwareE,n 3,57.64,2.9,Waiting
+MunzirSufiyan,SirajAhmedKhan,BSE-23S-093,BS(Hons),SoftwareE,n 3,64,2.89,Waiting
+AlisaJoy,AshrafSadiq,BSE-22F-001,BS(Hons),SoftwareE,n 3,80.55,2.87,Waiting
+MuhammadHuzaifa,MuhammadHuzaifa,BSE-22F-024,BS(Hons),SoftwareE,n 3,80,2.87,Waiting
+HasnainAli,Saleem,BSE-23S-073,BS(Hons),SoftwareE,n 3,65.18,2.87,Waiting
+MuhammadSarwar,YousafAli,BSE-23S-032,BS(Hons),SoftwareE,n 3,63.54,2.86,Waiting
+MuhammadHassan,MansoorAhmed,BSE-23S-220,BS(Hons),SoftwareE,n 3,58,2.85,Waiting
+BazilUrRehman,DawoodUrRehman,BSE-22F-049,BS(Hons),SoftwareE,n 3,71.81,2.84,Waiting
+MuhammadSaadRaza,SheikhIbrahim,BSE-22S-088,BS(Hons),SoftwareE,n 3,76.27,2.83,Waiting
+MuhammadArham,MuhammadAliImran,BSE-22s-079,BS(Hons),SoftwareE,n 3,83.63,2.82,Waiting
+SohaibAhmed,SohailAhmed,BSE-22F-079,BS(Hons),SoftwareE,n 3,54.54,2.82,Waiting
+MuhammadYasir,AbdulLatif,BSE-22F-004,BS(Hons),SoftwareE,n 3,71.05,2.81,Waiting
+OkashaYameen,YameenImran,BSE-22F-092,BS(Hons),SoftwareE,n 3,72.14,2.8,Waiting
+MuhammadBasiqKhan,MuhammadMussadiq,BSE-22F-114,BS(Hons),SoftwareE,n 3,70.91,2.8,Waiting
+KaramatHussain,Muhammadhassan,BSE-23s-034,BS(Hons),SoftwareE,n 3,70,2.8,Waiting
+ShariqHussain,MuhammadHussain,BSE-23S-132,BS(Hons),SoftwareE,n 3,62.7,2.8,Waiting
+InamAliSyed,SyedZiaHussainShah,BSE-22F-036,BS(Hons),SoftwareE,n 3,55.5,2.8,Waiting
+ZULNOORAIN,MUHAMMADBILAL,BSE-22F-056,BS(Hons),SoftwareE,n 3,57.86,2.74,NotSelected
+QamarShafiq,MuhammadShafiqAh,BSE-23S-014,BS(Hons),SoftwareE,n 3,55.8,2.74,NotSelected
+IzmaAli,MuhammadAli,BSE-22F-037,BS(Hons),SoftwareE,n 3,71.18,2.71,NotSelected
+MuhammadZeeshanS,aShoukatHussainSaiy,BSE-23S-123,BS(Hons),SoftwareE,n 3,82,2.7,NotSelected
+LaibaMalikAwan,AttaurRehman,BSE-22F-009,BS(Hons),SoftwareE,n 3,76.72,2.69,NotSelected
+SundasShafiq,ShafiqurRehman,BSE-23S-101,BS(Hons),SoftwareE,n 3,74.69,2.61,NotSelected
+FARAZAHMED,KHALILAHMED,BSE-22S-029,BS(Hons),SoftwareE,n 3,60.27,2.61,NotSelected
+TalhaHussainQureshi,ShafatHussain,BSE-22F-005,BS(Hons),SoftwareE,n 3,55.5,2.58,NotSelected
+Nasarullah,Hamidullah,BSE-22S-106,BS(Hons),SoftwareE,n 3,53,2.56,NotSelected
+AbrarHaider,HubdarAli,BSE-23S-184,BS(Hons),SoftwareE,n 3,64.5,2.51,NotSelected
+HammadRana,MuhammadJunaidRa,BSE-22S-038,BS(Hons),SoftwareE,n 3,85.27,2.49,NotSelected
+MUHAMMADTAYYAB K,HMUHAMMADWAHEED,BSE-23S-051,BS(Hons),SoftwareE,n 3,72,2.46,NotSelected
+YousufNaseer,MohammadNaseer,BSE-23S-192,BS(Hons),SoftwareE,n 3,59.9,2.45,NotSelected
+HamzaKhan,NoorMuhammad,BSE-22F-035,BS(Hons),SoftwareE,n 3,59.55,2.45,NotSelected
+Abdulmoiz,Alizameer,BSE-23S-214,BS(Hons),SoftwareE,n 3,86.72,2.41,NotSelected
+Muhammadhamza,Muhammadjameel,BSE-22F-057,BS(Hons),SoftwareE,n 3,73.82,2.4,NotSelected
+MuhammadUsmanKh,asaeedakhtar khan,BDA-23F-015,BS(Hons),SoftwareE,n 3,56.36,2.4,NotSelected
+SaqibJaved,JavedIqbal,BSE-23F-266,BS(Hons),SoftwareE,n 3,56,2.4,NotSelected
+NajafAbbas,AzharAbbas,BSE-22F-084,BS(Hons),SoftwareE,n 3,69,2.39,NotSelected
+Taimoor Qayyum,Fazal Qayyum,bse-23s-165,BS(Hons),SoftwareE,n 3,75.09,2.31,NotSelected
+SARWECH,IMDADALIABRO,BSE-22F-138,BS(Hons),SoftwareE,n 3,57.82,2.2,NotSelected
+TajammulAbbasi,Tanveer Abbasi,BSE-22S-136,BS(Hons),SoftwareE,n 3,53.6,2.19,NotSelected
+DharamDan,Kanji,BSE-23S-180,BS(Hons),SoftwareE,n 3,79.63,2.16,NotSelected
+HasnainAli,WaheedAkhter,BSE-22F-034,BS(Hons),SoftwareE,n 3,64.34,2.15,NotSelected
+ZahoorAhmed,MunwarAliJamali,BSE-22F-098,BS(Hons),SoftwareE,n 3,70.27,2.05,NotSelected
+AneeqSalman,SalmanFahim,BSE-23S-075,BS(Hons),SoftwareE,n 3,72,1.93,NotSelected
+FarhanAhmedKhan,ShujaUddinKhan,BSE-23S-020,BS(Hons),SoftwareE,n 3,51.82,1.72,NotSelected
+UsmanAkram,MuhammadAkram,BSE-23S-173,BS(Hons),SoftwareE,n 3,79.65,0.87,NotSelected
+MusabBinUmair,UmairZaheerZubairi,BSE-22S-103,BS(Hons),SoftwareE,n 4,60,3.45,Selected
+SyedAbeer AliNaqvi,SyedTauqeer Ali,BSE-22S-128,BS(Hons),SoftwareE,n 4,74.18,3.28,Selected
+IqraArshad,ArshadMajeedQuresh,BSE-22S-050,BS(Hons),SoftwareE,n 4,82,3.22,Selected
+MuhammadOwais,MuhammadAshfaq,BSE-21F-065,BS(Hons),SoftwareE,n 4,73.82,3.14,Selected
+LaibaAkram,MuhammadAkram,BSE-22S-059,BS(Hons),SoftwareE,n 4,53.36,3.13,Selected
+NimraZulfiqar,ZulfiqarAli,BSE-22S-107,BS(Hons),SoftwareE,n 4,86.7,3.12,Selected
+AsimGul,AsifGulMemon,BSE-22S-024,BS(Hons),SoftwareE,n 4,76.01,3.05,Selected
+ShaikhHuzaifaJawed,ShaikhQaiserJawed,BSE-22S-125,BS(Hons),SoftwareE,n 4,56,3.05,Selected
+MuhammadQasimRaz,ManzoorAhmed,BSE-21S-054,BS(Hons),SoftwareE,n 4,50.73,3.01,Selected
+AreebaSaleem,Saleem,BSE-22S-017,BS(Hons),SoftwareE,n 4,75.82,2.99,Selected
+MuhammadSaadNase,MuhammadNaseem,BSE-21F-097,BS(Hons),SoftwareE,n 4,51.09,2.97,Selected
+RizwanShabirChanna,GhulamShabirChann,BSE-22S-116,BS(Hons),SoftwareE,n 4,94.63,2.93,Selected
+SajjadAli,GhulamAsghar,BSE-22S-119,BS(Hons),SoftwareE,n 4,73,2.92,Selected
+AbdulBaseerPhulpoto,AbdulHaleemPhulpot,BSE-22S-001,BS(Hons),SoftwareE,n 4,74.18,2.91,Selected
+Khizar farooqi,Farooquddin,BSE-22S-057,BS(Hons),SoftwareE,n 4,71.55,2.91,Selected
+MuhammadFarzan,MuhammadAli,BSE-22S-032,BS(Hons),SoftwareE,n 4,80.3,2.9,Waiting
+AshierAhmed,MuhammadAslam,BSE-22S-023,BS(Hons),SoftwareE,n 4,57.55,2.9,Waiting
+Minam,MubeenKhatri,BSE-22S-070,BS(Hons),SoftwareE,n 4,55.73,2.9,Waiting
+HaroonKhan,HameedKhan,Bse-22s-041,BS(Hons),SoftwareE,n 4,62.27,2.89,Waiting
+RahimaAli,SyedNazimAli,BSE-22S-135,BS(Hons),SoftwareE,n 4,60.57,2.88,Waiting
+Hirakhan,Gohar Ali,BSE-22S-045,BS(Hons),SoftwareE,n 4,78.64,2.84,Waiting
+FarhanAli,SajjadAli,BSE-22S-030,BS(Hons),SoftwareE,n 4,83.09,2.82,Waiting
+SyedMinhalAbbas,SyedNasirAbbas,BSE-22S-131,BS(Hons),SoftwareE,n 4,50,2.81,Waiting
+SheheryarAhmed,HilalAhmed,BSE-22S-126,BS(Hons),SoftwareE,n 4,67,2.8,Waiting
+HunainNaveed,MuhammedNaveed,BSE-22S-046,BS(Hons),SoftwareE,n 4,60,2.77,NotSelected
+VarishaJunaid,JunaidAfzal,BSE-22S-141,BS(Hons),SoftwareE,n 4,52,2.7,NotSelected
+MuhammadAdil,InayatUllah,BSE-21F-054,BS(Hons),SoftwareE,n 4,70.78,2.67,NotSelected
+MehranSangi,MangalRam,BSE-22S-069,BS(Hons),SoftwareE,n 4,49.5,2.63,NotSelected
+MuhammadAhmed,AshfaqueAhmed,BSE-22S-073,BS(Hons),SoftwareE,n 4,92.5,2.58,NotSelected
+RanaUmarAjaz,Tasadduqajaz,BSE-22S-113,BS(Hons),SoftwareE,n 4,69,2.5,NotSelected
+MuhammadHuzaifaBa,MuhammadHanifBaw,BSE-22S-082,BS(Hons),SoftwareE,n 4,59,2.5,NotSelected
+RizwanAli,Chanesar,BDA-24F-009,BS(Hons),SoftwareE,n 4,86.81,2.3,NotSelected
+SyedMussyabali,SyedHikmatAli,BSE-22S-134,BS(Hons),SoftwareE,n 4,82.77,2.2,NotSelected
+Inamnabi,Ghulamnabibhatti,BSE-22S-049,BS(Hons),SoftwareE,n 4,61.18,2.12,NotSelected
+UmmeAisha,Fahim,BSO-24S-001,BS(Hons),Socialand,D 2,74.18,3.27,Selected
+NasirHussain,Ghulam hassan,100039886,BS(Hons),Socialand,D 2,83,3.16,Waiting
+TehreemFatima,MohammedAsif,BSO-23S-004,BS(Hons),Socialand,D 3,72.91,3.42,Waiting
+Komal,Chandar LalKhatri,BSO-23S-005,BS(Hons),Socialand,D 3,80,3.29,Waiting
+Sawada,NasirHussain,BSO-22F-006,BS(Hons),Socialand,D 3,63.09,2.96,Waiting
+ShoaibKhattak,AbrarKhattak,BSO-23S-006,BS(Hons),Socialand,D 3,69.59,2.58,NotSelected
+MUHAMMADFAIZANA,BABIDAZIZ,BSO-22S-003,BS(Hons),Socialand,D 4,46.18,2.26,NotSelected
+ManeshKumarKalal,RameshKumarKalal,BSO-22S-007,BS(Hons),Socialand,D 4,58.54,2.22,NotSelected
+NadiaKiran,MazharHussain,MDV-23F-002,MS/M.Phil,Socialand,D 2,60,3.66,Waiting
+TariqueAziz,AzizuddinGorar,MDV-23F-003,MS/M.Phil,Socialand,D 2,57,3.14,Waiting
+Rumaisaazfar,Nousheen azfar,BAI-24F-031,BS(Hons),ArtificialInt,1,80.95,3.77,Selected
+AliNawaz,AzharAli,BAI-25S-684,BS(Hons),ArtificialInt,1,89.36,3.57,Selected
+SandeepKumar,KaldeepKumar,BAI-25S-002,BS(Hons),ArtificialInt,1,88.91,3.56,Selected
+MuhammadUsmanKh,aMuhammadKamranK,BAI-24F-025,BS(Hons),ArtificialInt,1,72.55,3.51,Selected
+SardarAhmed,MaqboolAhmed,BAI-24F-019,BS(Hons),ArtificialInt,1,72.91,3.48,Selected
+MuhammadSohaib,ArshadFaizan,BAI-24S-007,BS(Hons),ArtificialInt,1,57.36,3.42,Selected
+MuhammadSafian,MuhammadIqbal,BAI-24S-012,BS(Hons),ArtificialInt,1,71,3.41,Selected
+UmeHabiba,AliNawazKhan,BAI-24S-013,BS(Hons),ArtificialInt,1,67.36,3.41,Selected
+Lovishkumar,Ranomal,BAI-25S-018,BS(Hons),ArtificialInt,1,84.45,3.38,Waiting
+ZaheerAbbas,ArbabAli,BAI-24F-006,BS(Hons),ArtificialInt,1,75,3.38,Waiting
+Luckykumar,santoshkumar,BAI-25S-029,BS(Hons),ArtificialInt,1,84,3.36,Waiting
+AnishaAkram,MuhammadAkram,BAI-25S-016,BS(Hons),ArtificialInt,1,82.78,3.31,Waiting
+ShamoonAhmed,AhmedAliSiddiqui,BAI-24S-014,BS(Hons),ArtificialInt,1,63.36,3.3,Waiting
+Iqra,RanaZafar,BAI-25S-008,BS(Hons),ArtificialInt,1,81.45,3.26,Waiting
+MalikAbdulHaseeb,MuhammadZaheer,BAI-25S-625,BS(Hons),ArtificialInt,1,81.31,3.25,Waiting
+MuhammadUmar,RasoolBuxDayo,BAI-25s-056,BS(Hons),ArtificialInt,1,80,3.2,Waiting
+MUHAMMADANAS,LIAQUATALI,BAI-25S-049,BS(Hons),ArtificialInt,1,80,3.2,Waiting
+AlizaGhaffar,AbdulGhaffar,BAI-24F-046,BS(Hons),ArtificialInt,1,61.32,3.2,Waiting
+MuhammadShabir,MuhammadHanifa,BAI-25S-037,BS(Hons),ArtificialInt,1,79.7,3.19,Waiting
+RoshaanAhmedKhan,FarasatImtiaz,BAI24S002,BS(Hons),ArtificialInt,1,92.07,3.17,Waiting
+AbuzarKhan,BakhtMuneer,BAI-25S-033,BS(Hons),ArtificialInt,1,90,3.17,Waiting
+Muhammadsami,Sadiq,BSAI-25S-036,BS(Hons),ArtificialInt,1,79.27,3.17,Waiting
+MuhammadMuhibUlla,AllahNawaz,BAI-24F-004,BS(Hons),ArtificialInt,1,69.36,3.16,Waiting
+KangnaKumari,AshokKumar,BSAI_25S_609,BS(Hons),ArtificialInt,1,78,3.12,Waiting
+Lekhraj,Dharamdas,BAI-25S-024,BS(Hons),ArtificialInt,1,71.4,3.1,Waiting
+FuzailLatif,ShahidLatif,BAI-24F-045,BS(Hons),ArtificialInt,1,71.27,3.08,Waiting
+AreebFawad,FawadZaheer,BAI-24F-009,BS(Hons),ArtificialInt,1,66.36,3.08,Waiting
+LAALAINFATIMA,RIAZAHMED,BAI-24F-036,BS(Hons),ArtificialInt,1,90.54,3.04,Waiting
+RazaMuhammad,Muhammadnafees,BAI-24S-022,BS(Hons),ArtificialInt,1,72.27,3.04,Waiting
+Yakshaykumar,Lajpatrai,100044489,BS(Hons),ArtificialInt,1,75.36,3.01,Waiting
+PARDEEPKUMAR,DHARMOON,BAI-25S-020,BS(Hons),ArtificialInt,1,76.72,3,Waiting
+MuhammadHassan,MuhammadRafiqueK,BAI-24F-027,BS(Hons),ArtificialInt,1,78.63,2.99,Waiting
+MuhammadMukhtar,Salman,BAI-25S-052,BS(Hons),ArtificialInt,1,74.5,2.98,Waiting
+NabeelAhmed,NaveedAhmed,BAI-25S-001,BS(Hons),ArtificialInt,1,74.36,2.97,Waiting
+MasharibAli,MuhammadSultan,BAI-24F-633,BS(Hons),ArtificialInt,1,72.8,2.87,Waiting
+SabaNajam,SyedNajamUddinAh,100048201,BS(Hons),ArtificialInt,1,71.86,2.87,Waiting
+AYESHA,Zainulabideen,BAI-25S-050,BS(Hons),ArtificialInt,1,71.82,2.87,Waiting
+ManahilFaisalSaeed,Faisalsaeed,100049696,BS(Hons),ArtificialInt,1,71.77,2.87,Waiting
+MisbahShafi,MuhammadShafi,BAI-25S-611,BS(Hons),ArtificialInt,1,70.64,2.83,Waiting
+MuhammadSaqib,MuhammadYasir,BAI-24F-634,BS(Hons),ArtificialInt,1,51,2.8,Waiting
+Kelash,GandhiMal,BAI-24F-011,BS(Hons),ArtificialInt,1,83,2.75,NotSelected
+ShizaHabibUllah,HabibUllah,BAI-24F-610,BS(Hons),ArtificialInt,1,73.68,2.75,NotSelected
+SabaInayat,InayatullahBugti,BAI-24F-015,BS(Hons),ArtificialInt,1,77.45,2.71,NotSelected
+FatimaAsghar,AsgharAli,BAI-25S-031,BS(Hons),ArtificialInt,1,66.72,2.67,NotSelected
+IfraAdan,TariqAli,BAI-25S-009,BS(Hons),ArtificialInt,1,66.45,2.66,NotSelected
+FarzainAhmed,muhammadmoosa,BAI-24F-631,BS(Hons),ArtificialInt,1,69.74,2.62,NotSelected
+MOwaisWaqar,WaqarAkhlaq,BAI-24F-643,BS(Hons),ArtificialInt,1,57.81,2.6,NotSelected
+AimanAtif,AtifAltaf,BAI-24F-662,BS(Hons),ArtificialInt,1,61.2,2.58,NotSelected
+SateeshKumarDoultan,KamleshKumarDoult,BAI-24S-028,BS(Hons),ArtificialInt,1,87.73,2.57,NotSelected
+MuhammadAbdullah,YounusAli,100048118,BS(Hons),ArtificialInt,1,61.73,2.47,NotSelected
+AbdulAzeem,AbdulRazzaque,BAI-24S-031,BS(Hons),ArtificialInt,1,90,2.43,NotSelected
+ABDULLAH RANA,RANAKASHIFALI,BAI-25S-027,BS(Hons),ArtificialInt,1,60,2.4,NotSelected
+ArbitaKriplani,SubhashChander,BAI-25S-651,BS(Hons),ArtificialInt,1,59.55,2.38,NotSelected
+MuhammadEbadAlam,MuhammadMansoor,BAI-25S-013,BS(Hons),ArtificialInt,1,59.18,2.37,NotSelected
+anabia,nasirali,BAI25S021,BS(Hons),ArtificialInt,1,73.32,2.33,NotSelected
+TahaJawed,MuhammadJawed,100048157,BS(Hons),ArtificialInt,1,52.27,2.29,NotSelected
+LaibaShehzadi,HaqNawaz,BAI-25S-683,BS(Hons),ArtificialInt,1,76.7,2.24,NotSelected
+Moaviakhalil,Khalilahmed,BAI-25S-047,BS(Hons),ArtificialInt,1,55.27,2.21,NotSelected
+HamzaAli,AhmedAli,BAI-24F-604,BS(Hons),ArtificialInt,1,72.9,2.18,NotSelected
+MuhammadFahad,GhafoorAhmed,Bai-25s-653,BS(Hons),ArtificialInt,1,54.5,2.16,NotSelected
+AliHassaan,NiazAhmed,100048158,BS(Hons),ArtificialInt,1,52.73,2.11,NotSelected
+AmmarKhalid,KhalidShaikh,BAI-24S-019,BS(Hons),ArtificialInt,1,76.26,2.09,NotSelected
+MuhammadSabeeh Im,ImtiazAhmed,BAI-24F-663,BS(Hons),ArtificialInt,1,52.82,2.04,NotSelected
+NomanShakir,Shakir,Sfa-24s-001,BS(Hons),ArtificialInt,1,70,1.78,NotSelected
+MSAQIBNAREJO,MSAQIBNAREJO,SAI-24F-001,BS(Hons),ArtificialInt,1,76.36,1.33,NotSelected
+WAQAR,ABDULSHAKOOR,BAI-24F-603,BS(Hons),ArtificialInt,1,76.55,1,NotSelected
+SureshMaheshwari,Ramjee,BAI-23S-006,BS(Hons),ArtificialInt,2,70.96,3.68,Selected
+Usama,MuhammadRafiq,BAI-23S-043,BS(Hons),ArtificialInt,2,59.73,3.58,Selected
+ZarmeenSabir,SabirSattar,BAI-23F-103,BS(Hons),ArtificialInt,2,61.64,3.51,Selected
+YumnaAliRamejo,GhulamAliRamejo,BAI-23F-093,BS(Hons),ArtificialInt,2,77.36,3.5,Selected
+Nismah,Akhlas,BAI-23S-029,BS(Hons),ArtificialInt,2,73.45,3.5,Selected
+Faiqa,AbdulFarooq,BAI-23F-098,BS(Hons),ArtificialInt,2,70.45,3.48,Selected
+MuhammadBazeem,MuhammadZafar,BAI-23F-023,BS(Hons),ArtificialInt,2,69.45,3.48,Selected
+BatoolZehra,SyedAhmarAbbasNa,BAI-23F-059,BS(Hons),ArtificialInt,2,77.73,3.46,Selected
+MuhammadAdeel,NaeemUddin,BAI-23S-066,BS(Hons),ArtificialInt,2,58.8,3.43,Waiting
+MuhammadMuneebUr,MuhammadMaqbool,BAI-23F-099,BS(Hons),ArtificialInt,2,77.72,3.4,Waiting
+AarijHussain,ArshadHussain,BAI-23S-069,BS(Hons),ArtificialInt,2,81.55,3.36,Waiting
+HuriaJadoon,Asifmehmood,BAI-23F-090,BS(Hons),ArtificialInt,2,63,3.36,Waiting
+SHAHRYARZABIHULLA,ZABIHULLAH KHAN,BAI-23S-034,BS(Hons),ArtificialInt,2,71.81,3.35,Waiting
+HafizAhmedIftikhar,IftikharAhmed,BAI-23F-020,BS(Hons),ArtificialInt,2,72.72,3.34,Waiting
+MUHAMMADABDULRA,MUHAMMADRAMZAN,BAI-23S-050,BS(Hons),ArtificialInt,2,71.9,3.32,Waiting
+ZohaHassaan,HassanBinIslam,BAI-23S-057,BS(Hons),ArtificialInt,2,69.18,3.32,Waiting
+JANBIBISANA,ASADALI,BAI-23F-032,BS(Hons),ArtificialInt,2,64,3.3,Waiting
+MuhammadFaizan,Masood,BAI-23S-073,BS(Hons),ArtificialInt,2,70.8,3.27,Waiting
+NancyAliasShivaniKu,mShardhaNand,BAI-23F-024,BS(Hons),ArtificialInt,2,59.45,3.26,Waiting
+Bhawana,Devraj,BAI-23S-049,BS(Hons),ArtificialInt,2,49.73,3.26,Waiting
+HamzaAdeel,AdeelAmin,BAI-23F-008,BS(Hons),ArtificialInt,2,62.36,3.24,Waiting
+SyedaAyeshaZaidi,SyedWaseemAhmed,BAI-23F-007,BS(Hons),ArtificialInt,2,55.91,3.23,Waiting
+MuhammadMaazShai,kMinhajUDDin,BAI-23F-064,BS(Hons),ArtificialInt,2,79.18,3.21,Waiting
+HafizaAqsa,UzairMalik,BAI-23S-026,BS(Hons),ArtificialInt,2,53.45,3.2,Waiting
+ImranKhan,Jahanzaib,BAI-23F-039,BS(Hons),ArtificialInt,2,70.09,3.18,Waiting
+Hafizaaaizamalik,Muzairmalik,BAI-23S-028,BS(Hons),ArtificialInt,2,52.45,3.16,Waiting
+SaadKhan,AbdulNaeemKhan,BAI-23S-017,BS(Hons),ArtificialInt,2,51.18,3.15,Waiting
+ZainabTariq,SyedMuhammadTari,BAI-23F-011,BS(Hons),ArtificialInt,2,80.04,3.14,Waiting
+MaazAhmed,MuhammadArshad,BAI-23F-051,BS(Hons),ArtificialInt,2,65,3.14,Waiting
+Khadijatulkubra,ShakeelAdamsiddiqu,BAI-23F-013,BS(Hons),ArtificialInt,2,57.45,3.14,Waiting
+Ajiya,AbdulFarooq,BAI-23F-097,BS(Hons),ArtificialInt,2,51.73,3.12,Waiting
+KhadimAhmed,RokhanDad,BAI-23F-132,BS(Hons),ArtificialInt,2,60.64,3.11,Waiting
+AbdulWahab,MuhammadIqbal,BAI-23F-083,BS(Hons),ArtificialInt,2,80.4,3.1,Waiting
+AimaKhaliq,MuhammadKhaliq,BAI-23F-127,BS(Hons),ArtificialInt,2,78.63,3.1,Waiting
+MuhammadEhsan,AbdulSamiBhutto,BAI-23F-031,BS(Hons),ArtificialInt,2,76.73,3.09,Waiting
+Barira,MuhammadRafiqUdd,BDA-23F-024,BS(Hons),ArtificialInt,2,69.61,3.03,Waiting
+FatimaRazzaq,RAZZAQAHMED,BAI-23F-006,BS(Hons),ArtificialInt,2,74.09,3.02,Waiting
+FarayhaMahmood,AsifMahmood,BAI-23F-069,BS(Hons),ArtificialInt,2,73.45,3.02,Waiting
+AHMERALI,SANAULLAH RAJPUT,BAI-23F-009,BS(Hons),ArtificialInt,2,73.27,3.02,Waiting
+BismaAli,AliBahadur,BAI-23S-005,BS(Hons),ArtificialInt,2,52.64,3.01,Waiting
+Ameer Gul,AkhtarGulKhan,BAI-24S-015,BS(Hons),ArtificialInt,2,71.9,3,Waiting
+SheikhMuhammadSul,eMuhammadAqeel,BAI-23F-121,BS(Hons),ArtificialInt,2,54.27,3,Waiting
+wajeehazehra,muhammadraza,BAI-23S-063,BS(Hons),ArtificialInt,2,53.63,3,Waiting
+Hussnabegum,Khadimhussain,BAI-23F-126,BS(Hons),ArtificialInt,2,62.64,2.96,Waiting
+MuhammadRizwanGh,aMuhammadGhazi,BAI-23F-060,BS(Hons),ArtificialInt,2,76.45,2.95,Waiting
+MuhammadAli,ZahidHussain,BAI23F063,BS(Hons),ArtificialInt,2,64,2.95,Waiting
+Sanaullah,GhulamShabeer,BAI-23F-041,BS(Hons),ArtificialInt,2,94.7,2.92,Waiting
+TalhaAhmedQureshi,NadeemAhmed,BAI-23F-085,BS(Hons),ArtificialInt,2,80,2.9,Waiting
+FaisalHussain,ZahidHussain,BAI-23F-089,BS(Hons),ArtificialInt,2,87.73,2.89,Waiting
+AARAIZALI,ArshadAli,BAI-23F-110,BS(Hons),ArtificialInt,2,62.18,2.88,Waiting
+Ayesha,MuhammadFazil,BAI-23F-082,BS(Hons),ArtificialInt,2,75,2.87,Waiting
+MuhammadAyaz,ParvaizAhmed,BAI-23F-053,BS(Hons),ArtificialInt,2,76.8,2.86,Waiting
+MuhammadMohibUdd,MuhammadMoinUdd,BAI-23F-084,BS(Hons),ArtificialInt,2,59.85,2.85,Waiting
+FaryalZahra,SyedHassanIqbal,BAI-23F-026,BS(Hons),ArtificialInt,2,74.91,2.74,NotSelected
+MoazzamAli,NasirIqbal,BAI-23f-015,BS(Hons),ArtificialInt,2,79.8,2.73,NotSelected
+UmairHassan,muhammadHassan,BAI-23F-005,BS(Hons),ArtificialInt,2,75.81,2.69,NotSelected
+MUHAMMADAhadKha,nMUHAMMADAhadKh,BAI-23F-091,BS(Hons),ArtificialInt,2,57.2,2.66,NotSelected
+Laiba,MushtaqAhmed,BAI-23F-062,BS(Hons),ArtificialInt,2,62,2.6,NotSelected
+Hamzasubahan,SubhanAhmed,BAI-23F-120,BS(Hons),ArtificialInt,2,61,2.6,NotSelected
+MuhammadAnasKhan,MuhammadNadeem,BAI-23F-049,BS(Hons),ArtificialInt,2,67.73,2.55,NotSelected
+MuhammadAyan,Saifullah,100032264,BS(Hons),ArtificialInt,2,64.14,2.55,NotSelected
+PriyaMaheshwari,MukeshKumar,BAI-24S-024,BS(Hons),ArtificialInt,2,86.72,2.52,NotSelected
+UmarFarooque,SultanAhmed,BAI-23F-100,BS(Hons),ArtificialInt,2,86.27,2.52,NotSelected
+TalhaAhmedQureshi,NadeemAhmed,BAI-23F-085,BS(Hons),ArtificialInt,2,76.55,2.52,NotSelected
+MuhammadAyazHuss,aMuhammadJawedHu,3122606798,BS(Hons),ArtificialInt,2,60,2.5,NotSelected
+MUHAMMADFAHEEM,GHULAMMUHAMMAD,BAI-23F-075,BS(Hons),ArtificialInt,2,60,2.5,NotSelected
+MKHIZERKHAN,NASIRMEHAMOOD,BAI-23F-078,BS(Hons),ArtificialInt,2,55.72,2.5,NotSelected
+KhadijaMaqsood,Maqsood,BAI-23F-014,BS(Hons),ArtificialInt,2,59,2.37,NotSelected
+Adnan,MuhammadSolangi,BAI-23F-061,BS(Hons),ArtificialInt,2,78.82,2.27,NotSelected
+Rohat,Kishorekumar,BAI-23F-104,BS(Hons),ArtificialInt,2,81,2.2,NotSelected
+MuhammadYahya,MuhammadHussain,100031177,BS(Hons),ArtificialInt,2,75.3,2.2,NotSelected
+MuzamilAmin,Sadaruddin,BAI-23F-052,BS(Hons),ArtificialInt,2,83.45,2.15,NotSelected
+FaisalYasin,GhulamYasin,BAI-23F-046,BS(Hons),ArtificialInt,2,76.63,1.03,NotSelected
+SaddamUmer,SultanUmer,BAI-22F-026,BS(Hons),ArtificialInt,3,64.63,3.55,Selected
+MuhammadTabishAla,mSyedGoharAlam,BAI-23S-065,BS(Hons),ArtificialInt,3,54.99,3.51,Selected
+HaiderRajput,AdnanShahid,BAI-22F-015,BS(Hons),ArtificialInt,3,65,3.47,Selected
+Haya,Ameer Hussain,BAI-23S-071,BS(Hons),ArtificialInt,3,74.91,3.44,Selected
+AnushahSalman,SalmanZia,BAI-23S-015,BS(Hons),ArtificialInt,3,68.18,3.42,Selected
+SheikhAbdulRehman,KhalidSharif,BAI-22F-028,BS(Hons),ArtificialInt,3,60,3.42,Selected
+AbdullahSoomro,Sikandar Ali,BAI-22F-034,BS(Hons),ArtificialInt,3,56.64,3.39,Selected
+AliZaib,IrshadAli,BAI-22F-022,BS(Hons),ArtificialInt,3,78.56,3.33,Waiting
+EshaQureshi,DawoodAhmed,BAI-22F-014,BS(Hons),ArtificialInt,3,62.55,3.3,Waiting
+UmeAmmara,MuhammadAsif,BAI-23S-078,BS(Hons),ArtificialInt,3,52.53,3.25,Waiting
+Raiyan,AbdulSaleemShaikh,BAI-22F-009,BS(Hons),ArtificialInt,3,73.64,3.15,Waiting
+ZaidMuhammadkhan,AbdulRazzaqKhan,BAI-23S-032,BS(Hons),ArtificialInt,3,72.81,3.08,Waiting
+HammasShahzadSha,nShahzadAhmedShani,BAI-22S-015,BS(Hons),ArtificialInt,3,62.09,3.02,Waiting
+Maryam,SohailMuhammad,BAI-23S-003,BS(Hons),ArtificialInt,3,70.5,2.98,Waiting
+MMuzmilshah,Karimshah,BAI-22S-028,BS(Hons),ArtificialInt,3,78.9,2.86,Waiting
+MuhammadSuhaibAkh,NaeemAkhter,BAI-23S-045,BS(Hons),ArtificialInt,3,51.73,2.84,Waiting
+Touqeerkhan,Walayatali,BAI-23S-002,BS(Hons),ArtificialInt,3,83,2.79,NotSelected
+SUBARRIZWAN,RIZWANAHMED,BAI-23S-076,BS(Hons),ArtificialInt,3,55,2.6,NotSelected
+AbdulSaboor,MushtaqueAhmed,BAI-23S-054,BS(Hons),ArtificialInt,3,82.55,2.36,NotSelected
+Mateen Mureed,MureedHussain,BAI-20F-026,BS(Hons),ArtificialInt,4,69.9,3.33,Selected
+MuhammadSharif,WaliMuhammad,PAI-21S-002,PhD(5year,ArtificialInt,5,56.64,3.55,Waiting
+RidaAshraf,MuhammadAshrafBr,ENG-24F-010,BS(Hons),English,1,71.45,3.6,Selected
+AqsaZehra,MuhammadNaeemS,ENG-24F-011,BS(Hons),English,1,61.8,3.56,Selected
+AmnaEjaz,EjazAhmedSario,ENG-24S-014,BS(Hons),English,1,52,3.54,Selected
+Amna,AyazAli,ENG-24S-003,BS(Hons),English,1,65.82,3.49,Waiting
+TubaLatif,MuhammadLatif,ENG-24F-007,BS(Hons),English,1,58.18,3.37,Waiting
+AlishbaKhalidMalik,MohammadKhalidMa,ENG-24F-008,BS(Hons),English,1,98.53,3.19,Waiting
+AyeshaKhan,JummaKhan,ENG-24F-005,BS(Hons),English,1,53.45,3.18,Waiting
+UmeAiman,SyedAbdulRazaqueS,ENG-24F-014,BS(Hons),English,1,54.64,3.16,Waiting
+Romaisa,MuhammadAli,ENG-24F-022,BS(Hons),English,1,52.27,3.1,Waiting
+SoonhRashidRajar,AbdulRashidRajar,ENG-24S-016,BS(Hons),English,1,90.5,3.07,Waiting
+ShehwarFatima,MushtaqHussain,ENG-24S-018,BS(Hons),English,1,87,3,Waiting
+Saleha,Ali,BEG-24F-009,BS(Hons),English,1,58.18,2.95,Waiting
+GulBano,Shoaib,ENG-24F-023,BS(Hons),English,1,49.91,2.93,Waiting
+SaadKhan,ZammarudKhanTano,ENG-24F-015,BS(Hons),English,1,67.46,2.85,Waiting
+MadanLal,Khanyoon,ENG-24F-006,BS(Hons),English,1,67,2.81,Waiting
+Qutubuddin,Qamaruddin,ENG-24F-012,BS(Hons),English,1,56.91,2.81,Waiting
+KhadijaSaif,SaifUrRehman,ENG-24F-017,BS(Hons),English,1,57.64,2.77,NotSelected
+Laiba,MuhammadZafar,ENG-24F-020,BS(Hons),English,1,54.82,2.75,NotSelected
+Mehwishsamad,AbdulSamadAbbasi,ENG-25s-005,BS(Hons),English,1,85.68,2.72,NotSelected
+Suneel,Chatoo,ENG-24F-002,BS(Hons),English,1,76.36,2.7,NotSelected
+HashamZafar,AzharAbbas,ENG -24F-001,BS(Hons),English,1,51,2.31,NotSelected
+MuqaddasFareed,MuhammadFareed,ENG-24F-019,BS(Hons),English,1,68.09,2.23,NotSelected
+RaviDas,SajanDas,ENG-24F-013,BS(Hons),English,1,78,2.2,NotSelected
+MuhammadNabeel,NiazMuhammad,ENG-24S-001,BS(Hons),English,1,67.18,1.9,NotSelected
+zartajkhan,muhammadzafar,ENG-24F-018,BS(Hons),English,1,73.27,1.19,NotSelected
+ERUMBIBI,IMDADALI,ENG-23F-001,BS(Hons),English,2,71.27,3.32,Selected
+Momina,Naveed,100047815,BS(Hons),English,2,55.83,3.32,Selected
+SawibaQureshi,AsadAli,ENG 25S014,BS(Hons),English,2,45.82,3.32,Selected
+WardahSannawer,SannawerSabir,ENG-23F-007,BS(Hons),English,2,72.73,3.2,Waiting
+ShifaFaisal,MuhammadFaisal,ENG-23S-022,BS(Hons),English,2,80.71,3.17,Waiting
+Daven,Jeeo,100048248,BS(Hons),English,2,80,3.15,Waiting
+Deepasha,Ashok,ENG-23S-008,BS(Hons),English,2,63,3.12,Waiting
+Alisha,MuhammadAli,ENG-23S-006,BS(Hons),English,2,50,3.07,Waiting
+ShoaibAkhtarSoomro,SherAli,ENG-25S-022,BS(Hons),English,2,83.9,3.01,Waiting
+Neerajkumar,Nandlal,ENG-25S-013,BS(Hons),English,2,74.11,2.96,Waiting
+MahnoorParvaiz,ParvaizAkhter,100049496,BS(Hons),English,2,72.67,2.91,Waiting
+MaleehaSatwat,KhalilAhmed,ENG-23F-008,BS(Hons),English,2,46,2.91,Waiting
+Sania,ZahoorAhmed,100048609,BS(Hons),English,2,80.68,2.79,NotSelected
+TaniaRiaz,RiazAliMashori,ENG-23S-014,BS(Hons),English,2,62.27,2.74,NotSelected
+KulsomKolachi,AnwarAli,ENG-25S-012,BS(Hons),English,2,68.81,2.72,NotSelected
+AlinaGhulamMurtaza,GhulamMurtaza,ENG-24S-005,BS(Hons),English,2,65.5,2.65,NotSelected
+MalaikaKhanJadoon,MuhammadShahid,ENG-23S-005,BS(Hons),English,2,75.68,2.62,NotSelected
+HassnainSamo,Hussainbux,ENG-23S-029,BS(Hons),English,2,71.74,2.61,NotSelected
+UMMEHANI,MUHAMMADANIS,ENG-25S-007,BS(Hons),English,2,60.63,2.52,NotSelected
+IrzaRasheedbutt,Faisalbutt,ENG-24S-011,BS(Hons),English,2,66.67,2.49,NotSelected
+Andaleeb,SultanGhani,ENG-25S-009,BS(Hons),English,2,58,2.32,NotSelected
+ZaryabAbbasi,MuhammadZareedKh,ENG-25S-017,BS(Hons),English,2,50,2,NotSelected
+NehaNotani,ManghaRamNOTaNI,ENG-23F-013,BS(Hons),English,2,70,1.9,NotSelected
+Saima,Ghulamali,BEG-22S-016,BS(Hons),English,3,85.45,3.55,Selected
+WajoodAhmedAnsari,NizamuddinAnsari,BEG-22S-031,BS(Hons),English,3,45.36,3.5,Selected
+NOORFATIMA,UMERDARAZ,BEG-22S-012,BS(Hons),English,3,68.4,3.39,Waiting
+Atqataqwa,MuhammadAkram,BEG-22S-002,BS(Hons),English,3,70.3,3.32,Waiting
+FizaShahid,ShahidNadeem,ENG-22F-013,BS(Hons),English,3,71.36,3.21,Waiting
+AQSAAKRAM,MuhammadAkram,BEG-22S-001,BS(Hons),English,3,82,3.2,Waiting
+Usmanzaib,NazeerMuhammad,BEG-22S-029,BS(Hons),English,3,73.5,3.16,Waiting
+YousraAliRamejo,GhulamAliRamejo,BEG-22S-030,BS(Hons),English,3,59.18,3.12,Waiting
+FaizaSuban,Fazal Subhan,ENG-22F-018,BS(Hons),English,3,58.64,3.12,Waiting
+MishalFatima,MuhammadYousif,ENG-23S-030,BS(Hons),English,3,46.64,3.1,Waiting
+AREEBASAEED,SAEEDAHMEDQAZI,ENG-22F-010,BS(Hons),English,3,46.91,3.09,Waiting
+MisbahZehra,MuhammadRaza,ENG-22F-032,BS(Hons),English,3,57.09,3.07,Waiting
+IqraAtta,AttaMuhammad,ENG-23S-026,BS(Hons),English,3,94.6,3.06,Waiting
+ParasMeghraj,Meghraj,ENG-23S-016,BS(Hons),English,3,61,3.06,Waiting
+Barira,MuhammadRazzaq,ENG-22F-024,BS(Hons),English,3,78,3.02,Waiting
+Saira,Mumtaz,BEG-22S-017,BS(Hons),English,3,47.45,3.01,Waiting
+SajadAli,Azizullah,BEG-22S-018,BS(Hons),English,3,86.86,2.86,Waiting
+UmmeKulsoom,MuhammadIsmail,BEG-22S-027,BS(Hons),English,3,74.09,2.8,Waiting
+AmriyaBibi,Dawoodshah,ENG_23S_025,BS(Hons),English,3,62.64,2.8,Waiting
+ShehzadiNaz,NadeemAhmedKhan,ENG-22F-027,BS(Hons),English,3,68.45,2.76,NotSelected
+Muzafar,MuhabatkhanBaloch,BEG-22S-011,BS(Hons),English,3,80.9,2.74,NotSelected
+SamreenAkhtar,MuhammadHaroon,BEG-22S-019,BS(Hons),English,3,54,2.68,NotSelected
+SaweraNadeem,Nadeem,BEG-22S-021,BS(Hons),English,3,48.48,2.5,NotSelected
+SyedaSakinaZahra,SyedRaza,BEG-22S-026,BS(Hons),English,3,48,2.31,NotSelected
+RabitwaSuleman,BakhtRawan,BEG-22S-014,BS(Hons),English,3,85,2.2,NotSelected
+SHAHYANHUSSAIN,ZahidHussain,BEG-22S-023,BS(Hons),English,3,74.09,1.96,NotSelected
+MuhammadIrfan Khan,MuhammadYousufKh,MLT-24S-003,MS/M.Phil,English,1,81.6,3.5,Selected
+AleenaKhan,IqbalNasirKhan,MLT-24S-008,MS/M.Phil,English,1,62.83,3.33,Waiting
+MansoorAli,MuhammadAslam,MLT-24S-002,MS/M.Phil,English,1,71.31,2.89,Waiting
+AbdulSamad,GhulamQadir,MLT-24S-007,MS/M.Phil,English,1,71.68,2.72,NotSelected
